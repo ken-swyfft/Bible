@@ -1,7 +1,38 @@
 #!/usr/bin/env python3
 """
-Analyze Hebrew vs English word count ratios in Proverbs.
-Find verses with the fewest Hebrew words relative to English words.
+PROVERBS HEBREW VS ENGLISH WORD COUNT ANALYSIS
+
+PURPOSE:
+This script compares word counts between the original Hebrew text of Proverbs and its English
+translation (NASB) to identify verses where Hebrew is most concise relative to English.
+Demonstrates the efficiency of Hebrew grammatical structures.
+
+METHODOLOGY:
+1. Parses Hebrew Proverbs from Westminster Leningrad Codex (UXLC format)
+2. Parses English Proverbs from New American Standard Bible (NASB)
+3. Counts words in both languages using linguistically appropriate methods:
+   - Hebrew: Treats maqqeph (־) separated words as individual words
+   - English: Uses word boundary regex to handle punctuation properly
+4. Calculates Hebrew/English ratios for each verse
+5. Identifies verses with the lowest ratios (most Hebrew efficiency)
+
+TECHNICAL APPROACH:
+- Hebrew parsing: Handles Unicode directional marks, verse patterns (num ׃num text)
+- Maqqeph handling: Splits words connected by ־ for accurate Hebrew word counts
+- English parsing: Detects chapter headers, processes verse-by-verse
+- Unicode safety: Handles Hebrew text encoding issues in Windows console
+- Bilingual alignment: Matches verses by chapter:verse references
+
+LINGUISTIC SIGNIFICANCE:
+Hebrew's grammatical features (verbal conjugations, construct chains, compressed syntax)
+often express ideas that require multiple words in English. This analysis quantifies
+that efficiency and identifies the most striking examples.
+
+OUTPUT:
+Generates proverbs_analyze_word_ratios_results.txt with:
+- Top 20 verses with lowest Hebrew/English word ratios
+- Statistical summary of translation expansion patterns
+- Full Hebrew text with accurate word counts
 """
 
 import re

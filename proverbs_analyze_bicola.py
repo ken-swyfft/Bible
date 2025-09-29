@@ -1,3 +1,31 @@
+#!/usr/bin/env python3
+"""
+PROVERBS BICOLA ANALYSIS
+
+PURPOSE:
+This script analyzes the structure of Hebrew bicola (two-part poetic lines) in the book of Proverbs.
+It identifies parallel word patterns between the first half (A-line) and second half (B-line) of each verse.
+
+METHODOLOGY:
+1. Parses Hebrew Proverbs text from Westminster Leningrad Codex (UXLC format)
+2. Uses the etnachta (֑) cantillation mark to split verses into bicola halves
+3. Normalizes Hebrew text by removing most diacritics while preserving structure markers
+4. Compares word patterns between A-line and B-line to identify:
+   - Exact word matches (synonyms/repetitions)
+   - Similar word patterns (morphological relationships)
+   - Structural parallelism
+
+TECHNICAL APPROACH:
+- Preserves etnachta (֑) as the primary bicola boundary marker
+- Handles ketiv/qere variants by keeping qere readings
+- Normalizes text to focus on lexical roots rather than precise vocalization
+- Uses Hebrew Unicode ranges (0x0590-0x05FF) for proper text processing
+- Outputs detailed analysis of parallel structures in biblical Hebrew poetry
+
+OUTPUT:
+Generates proverbs_analyze_bicola_results.txt with detailed bicola structure analysis.
+"""
+
 import re
 from collections import Counter
 
