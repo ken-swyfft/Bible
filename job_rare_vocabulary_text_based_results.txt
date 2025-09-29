@@ -1,0 +1,201 @@
+JOB RARE VOCABULARY ANALYSIS (TEXT-BASED)
+=======================================================
+
+METHODOLOGY: Analysis based on normalized Hebrew word forms
+from Westminster Leningrad Codex text files.
+Words are normalized by removing most diacritics while
+preserving basic consonantal structure.
+
+Job's rare vocabulary: 3100 words
+(Words appearing <10 times outside Job)
+
+TOP 20 RAREST JOB WORDS:
+------------------------------
+ 1. איוב                      (Job: 45, Elsewhere: 0)
+ 2. אתונות                    (Job: 2, Elsewhere: 0)
+ 3. יומ֑ו                     (Job: 1, Elsewhere: 0)
+ 4. *אחיתיהם                  (Job: 1, Elsewhere: 0)
+ 5. **אחיותיהם                (Job: 1, Elsewhere: 0)
+ 6. ויקדשם                    (Job: 1, Elsewhere: 0)
+ 7. ומהתהלך                   (Job: 2, Elsewhere: 0)
+ 8. השמת                      (Job: 2, Elsewhere: 0)
+ 9. אי֑וב                     (Job: 5, Elsewhere: 0)
+10. החנם                      (Job: 1, Elsewhere: 0)
+11. ומקנהו                    (Job: 1, Elsewhere: 0)
+12. חרשות                     (Job: 1, Elsewhere: 0)
+13. והאתנות                   (Job: 1, Elsewhere: 0)
+14. ותקחם                     (Job: 1, Elsewhere: 0)
+15. ואמלטה                    (Job: 4, Elsewhere: 0)
+16. ובנערים                   (Job: 1, Elsewhere: 0)
+17. ותאכל֑ם                   (Job: 1, Elsewhere: 0)
+18. וימ֑ותו                   (Job: 1, Elsewhere: 0)
+19. *יצתי                     (Job: 1, Elsewhere: 0)
+20. **יצאתי                   (Job: 1, Elsewhere: 0)
+
+BOOKS BY RARE VOCABULARY OVERLAP
+========================================
+
+BY FREQUENCY (rare Job words per 1000 words):
+----------------------------------------
+ 1. proverbs              58.56 (409 total, 284 unique)
+ 2. habakkuk              53.57 (36 total, 34 unique)
+ 3. psalms                43.07 (827 total, 565 unique)
+ 4. lamentations          36.45 (57 total, 56 unique)
+ 5. isaiah                34.26 (582 total, 429 unique)
+ 6. nahum                 33.81 (19 total, 19 unique)
+ 7. songofsongs           31.10 (39 total, 34 unique)
+ 8. obadiah               30.82 (9 total, 9 unique)
+ 9. joel                  30.27 (29 total, 25 unique)
+10. zephaniah             27.31 (21 total, 21 unique)
+11. micah                 26.43 (37 total, 37 unique)
+12. hosea                 26.40 (63 total, 59 unique)
+13. ecclesiastes          22.01 (66 total, 57 unique)
+14. amos                  22.00 (45 total, 41 unique)
+15. jonah                 18.90 (13 total, 13 unique)
+
+BY ABSOLUTE COUNT:
+--------------------
+ 1. psalms               827 total (43.07 per 1000)
+ 2. isaiah               582 total (34.26 per 1000)
+ 3. proverbs             409 total (58.56 per 1000)
+ 4. jeremiah             356 total (16.20 per 1000)
+ 5. genesis              316 total (15.32 per 1000)
+ 6. ezekiel              270 total (14.31 per 1000)
+ 7. deuteronomy          240 total (16.76 per 1000)
+ 8. exodus               197 total (11.78 per 1000)
+ 9. 1samuel              163 total (12.22 per 1000)
+10. 2samuel              156 total (14.02 per 1000)
+11. leviticus            138 total (11.54 per 1000)
+12. 1kings               135 total (10.24 per 1000)
+13. numbers              132 total ( 8.04 per 1000)
+14. 1chronicles          125 total (11.59 per 1000)
+15. judges               125 total (12.62 per 1000)
+
+DETAILED ANALYSIS - TOP 5 BOOKS BY FREQUENCY
+=============================================
+
+1. PROVERBS
+-----------
+Overlap ratio: 58.56 per 1000 words
+Total rare Job words: 409
+Unique rare words: 284
+Book size: 6984 words
+
+Rare Job words found in this book:
+  דרכ֑ו (6x)
+  ארחות (5x)
+  לחכם (5x)
+  תי (4x)
+  א֑ב (4x)
+  שונא (4x)
+  שנות (4x)
+  ומור (3x)
+  חרשי (3x)
+  תוף (3x)
+  מענה (3x)
+  יהגה (3x)
+  ז֑ר (3x)
+  תמנע (3x)
+  קנאה (3x)
+  ... and 269 more
+
+2. HABAKKUK
+-----------
+Overlap ratio: 53.57 per 1000 words
+Total rare Job words: 36
+Unique rare words: 34
+Book size: 672 words
+
+Rare Job words found in this book:
+  יצרו (2x)
+  בדי (2x)
+  יעצת (1x)
+  תזע֑ק (1x)
+  יעננה (1x)
+  לעץ (1x)
+  במרום (1x)
+  יערו (1x)
+  ישחק (1x)
+  חכה (1x)
+  וצור (1x)
+  המר (1x)
+  לבית֑ו (1x)
+  בטני (1x)
+  גבעות (1x)
+  ... and 19 more
+
+3. PSALMS
+---------
+Overlap ratio: 43.07 per 1000 words
+Total rare Job words: 827
+Unique rare words: 565
+Book size: 19200 words
+
+Rare Job words found in this book:
+  עינ֑י (7x)
+  ידין (6x)
+  לשוני (5x)
+  צדקתך (5x)
+  ש֑וא (5x)
+  הוות (5x)
+  והדר (5x)
+  שחקים (5x)
+  נלאות (5x)
+  א‍ני (4x)
+  ראתה (4x)
+  אשיחה (4x)
+  תאבד (4x)
+  ראש֑י (4x)
+  י֑ם (4x)
+  ... and 550 more
+
+4. LAMENTATIONS
+---------------
+Overlap ratio: 36.45 per 1000 words
+Total rare Job words: 57
+Unique rare words: 56
+Book size: 1564 words
+
+Rare Job words found in this book:
+  ושריה (2x)
+  מצאנו (1x)
+  ארב (1x)
+  ביניהם (1x)
+  וירב (1x)
+  ראתה (1x)
+  יהרג (1x)
+  תקרא (1x)
+  נחשבו (1x)
+  שלו (1x)
+  נשמו (1x)
+  תקוה (1x)
+  נתיבתי (1x)
+  חלו (1x)
+  א֑ו (1x)
+  ... and 41 more
+
+5. ISAIAH
+---------
+Overlap ratio: 34.26 per 1000 words
+Total rare Job words: 582
+Unique rare words: 429
+Book size: 16987 words
+
+Rare Job words found in this book:
+  עריצים (5x)
+  האמר (4x)
+  והלכו (4x)
+  מעשהו (4x)
+  ואי (4x)
+  נערים (4x)
+  זעיר (4x)
+  יעבור (3x)
+  נדד (3x)
+  תקרא (3x)
+  חנף (3x)
+  כקש (3x)
+  גבהו (3x)
+  כאלה (3x)
+  הגדתי (3x)
+  ... and 414 more
+

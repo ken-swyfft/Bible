@@ -5,6 +5,7 @@
 - When creating scripts to analyze a specific book, put the book name first, e.g., `proverbs_analyze_bicola.py`, or `proverbs_analyze_word_ratios.py`.
 - When reading static Hebrew texts for purposes of analysis, deduplicate ketiv/qere, keeping the qere.
 - Put scripts not used for analysis (for instance, for downloading or cleaning up static files) into the ./util/ directory.
+- Put debug, test, and experimental scripts into the ./scratch/ directory. This includes scripts used for testing APIs, debugging features, or exploring approaches that don't produce final analysis results.
 - When creating an analysis script, ALWAYS add detailed comments at the top of the script explaining its purpose and how it goes about doing it. ALWAYS keep those comments up-to-date as you continue to update the script.
 
 ## Text Sources and Locations
@@ -50,7 +51,9 @@
 - Use try/except blocks when printing Hebrew text
 - Save output files with UTF-8 encoding: `open(file, "w", encoding="utf-8")`
 
-## Utility Scripts
+## Script Organization
+
+### Utility Scripts
 Location: `./util/`
 - `download_tanakh.py` - Downloads Hebrew texts from tanach.us
 - `download_minor_prophets.py` - Downloads 12 minor prophets individually
@@ -58,3 +61,13 @@ Location: `./util/`
 - `split_nasb_books.py` - Splits NASB Bible into individual book files
 
 All utility scripts are configured to work from the util/ directory with relative paths to parent directories.
+
+### Debug/Test Scripts
+Location: `./scratch/`
+- Contains debug, test, and experimental scripts
+- API testing scripts (e.g., Text-Fabric exploration)
+- Feature debugging and exploration scripts
+- Temporary scripts used during development
+- Scripts that don't produce final analysis results
+
+These scripts are kept separate from production analysis and utility scripts to maintain project organization.
