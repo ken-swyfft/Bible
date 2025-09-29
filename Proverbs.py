@@ -21,7 +21,24 @@ def normalize(line: str, keep_maqaf=True) -> str:
         s = s.replace(MAQAF, ' ')
     return s
 
+def clean_ketiv_qere(text: str) -> str:
+    """
+    Clean ketiv/qere variants by removing duplicate words.
+    Format: *ketiv **qere -> qere (keep the qere reading)
+    """
+    # Pattern to match ketiv/qere: *word **word
+    # We'll keep the qere (the corrected reading marked with **)
+    pattern = r'\*[^*\s]+\s+\*\*([^\s]+)'
+
+    def replace_ketiv_qere(match):
+        return match.group(1)  # Return just the qere part
+
+    return re.sub(pattern, replace_ketiv_qere, text)
+
 def tokenize(colon: str, split_maqaf=True):
+    # First clean ketiv/qere variants
+    colon = clean_ketiv_qere(colon)
+
     if split_maqaf:
         colon = colon.replace(MAQAF, ' ')  # split words bound by maqaf
     # collapse punctuation except Hebrew letters, sof pasuq, etnachta already stripped/kept
@@ -151,29 +168,45 @@ if __name__ == "__main__":
     # Analyze all word patterns
     pattern_counts, examples, total_bicola = count_all_patterns(lines)
 
-    print(f"Total verses loaded: {len(lines)}")
-    print(f"Bicola counted: {total_bicola}")
-    print()
+    # Prepare output
+    output_lines = []
+    output_lines.append(f"Total verses loaded: {len(lines)}")
+    output_lines.append(f"Bicola counted: {total_bicola}")
+    output_lines.append("")
 
     # Sort patterns by frequency (most common first)
     sorted_patterns = pattern_counts.most_common()
 
-    print("Word Pattern Analysis (Left+Right):")
-    print("=" * 40)
+    output_lines.append("Word Pattern Analysis (Left+Right):")
+    output_lines.append("=" * 40)
     for pattern, count in sorted_patterns:
         percentage = 100 * count / total_bicola if total_bicola else 0.0
-        print(f"{pattern:>6}: {count:>3} ({percentage:>5.1f}%)")
+        output_lines.append(f"{pattern:>6}: {count:>3} ({percentage:>5.1f}%)")
 
-    print()
-    print("Examples for each pattern:")
-    print("=" * 40)
+    output_lines.append("")
+    output_lines.append("Examples for each pattern:")
+    output_lines.append("=" * 40)
 
     # Show examples for the most common patterns
     for pattern, count in sorted_patterns:
         if pattern in examples and examples[pattern]:
-            print(f"\n{pattern} pattern examples:")
+            output_lines.append(f"\n{pattern} pattern examples:")
             for i, example in enumerate(examples[pattern], 1):
-                try:
-                    print(f"  {i}. {example}")
-                except UnicodeEncodeError:
-                    print(f"  {i}. [Hebrew text - encoding issue]")
+                output_lines.append(f"  {i}. {example}")
+
+    # Write to file with UTF-8 encoding
+    with open('ProverbsAnalysis.txt', 'w', encoding='utf-8') as f:
+        for line in output_lines:
+            f.write(line + '\n')
+
+    # Also print to console (with encoding error handling)
+    for line in output_lines:
+        try:
+            print(line)
+        except UnicodeEncodeError:
+            if any('\u0590' <= c <= '\u05FF' for c in line):
+                print("[Line with Hebrew text - see ProverbsAnalysis.txt for full content]")
+            else:
+                print(line)
+
+    print(f"\nFull analysis with Hebrew text saved to ProverbsAnalysis.txt")
