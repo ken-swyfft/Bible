@@ -31,13 +31,19 @@ def tokenize(colon: str, split_maqaf=True):
     colon = re.sub(r'\s+', ' ', colon).strip()
     return [w for w in colon.split(' ') if w]
 
-def count_4_3(proverbs_lines):
+def count_all_patterns(proverbs_lines):
     """
+    Count all word pattern combinations in Hebrew verse lines.
+
     proverbs_lines: iterable of raw Hebrew verse lines for Proverbs,
     each containing exactly one verse (ending with sof pasuq ׃).
+
+    Returns: (pattern_counts, examples_dict)
     """
-    totals = Counter()
-    examples = {'4+3': [], '3+4': []}
+    pattern_counts = Counter()
+    examples = {}
+    total_bicola = 0
+
     for line in proverbs_lines:
         s = normalize(line, keep_maqaf=True)
 
@@ -83,17 +89,17 @@ def count_4_3(proverbs_lines):
             R = len(right_tokens)
 
             if L > 0 and R > 0:  # Only count if we have words on both sides
-                totals['bicola'] += 1
-                if (L, R) == (4, 3):
-                    totals['4+3'] += 1
-                    if len(examples['4+3']) < 10:
-                        examples['4+3'].append(line.strip())
-                elif (L, R) == (3, 4):
-                    totals['3+4'] += 1
-                    if len(examples['3+4']) < 10:
-                        examples['3+4'].append(line.strip())
+                total_bicola += 1
+                pattern = f"{L}+{R}"
+                pattern_counts[pattern] += 1
 
-    return totals, examples
+                # Store examples for each pattern (up to 5 examples per pattern)
+                if pattern not in examples:
+                    examples[pattern] = []
+                if len(examples[pattern]) < 5:
+                    examples[pattern].append(line.strip())
+
+    return pattern_counts, examples, total_bicola
 
 def load_proverbs_text(filename='Proverbs.txt'):
     """Load Proverbs text file and extract verse lines from chapter 10 onwards."""
@@ -142,25 +148,32 @@ if __name__ == "__main__":
     # Load Proverbs text
     lines = load_proverbs_text()
 
-    # Analyze the text
-    totals, examples = count_4_3(lines)
-    bicola = totals['bicola']
-    pct_43 = 100 * totals['4+3'] / bicola if bicola else 0.0
-    pct_34 = 100 * totals['3+4'] / bicola if bicola else 0.0
+    # Analyze all word patterns
+    pattern_counts, examples, total_bicola = count_all_patterns(lines)
 
     print(f"Total verses loaded: {len(lines)}")
-    print(f"Bicola counted: {bicola}")
-    print(f"4+3: {totals['4+3']} ({pct_43:.1f}%)")
-    print(f"3+4: {totals['3+4']} ({pct_34:.1f}%)")
-    print("\nExamples 4+3:")
-    for example in examples['4+3']:
-        try:
-            print(f"- {example}")
-        except UnicodeEncodeError:
-            print(f"- [Hebrew text - encoding issue]")
-    print("\nExamples 3+4:")
-    for example in examples['3+4']:
-        try:
-            print(f"- {example}")
-        except UnicodeEncodeError:
-            print(f"- [Hebrew text - encoding issue]")
+    print(f"Bicola counted: {total_bicola}")
+    print()
+
+    # Sort patterns by frequency (most common first)
+    sorted_patterns = pattern_counts.most_common()
+
+    print("Word Pattern Analysis (Left+Right):")
+    print("=" * 40)
+    for pattern, count in sorted_patterns:
+        percentage = 100 * count / total_bicola if total_bicola else 0.0
+        print(f"{pattern:>6}: {count:>3} ({percentage:>5.1f}%)")
+
+    print()
+    print("Examples for each pattern:")
+    print("=" * 40)
+
+    # Show examples for the most common patterns
+    for pattern, count in sorted_patterns:
+        if pattern in examples and examples[pattern]:
+            print(f"\n{pattern} pattern examples:")
+            for i, example in enumerate(examples[pattern], 1):
+                try:
+                    print(f"  {i}. {example}")
+                except UnicodeEncodeError:
+                    print(f"  {i}. [Hebrew text - encoding issue]")
