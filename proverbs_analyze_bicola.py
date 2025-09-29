@@ -118,7 +118,7 @@ def count_all_patterns(proverbs_lines):
 
     return pattern_counts, examples, total_bicola
 
-def load_proverbs_text(filename='Proverbs.txt'):
+def load_proverbs_text(filename='texts/tanakh/proverbs.txt'):
     """Load Proverbs text file and extract verse lines from chapter 10 onwards."""
     lines = []
     in_chapter_10_or_later = False
@@ -195,7 +195,8 @@ if __name__ == "__main__":
                 output_lines.append(f"  {i}. {example}")
 
     # Write to file with UTF-8 encoding
-    with open('ProverbsAnalysis.txt', 'w', encoding='utf-8') as f:
+    result_filename = 'proverbs_analyze_bicola_results.txt'
+    with open(result_filename, 'w', encoding='utf-8') as f:
         for line in output_lines:
             f.write(line + '\n')
 
@@ -205,8 +206,8 @@ if __name__ == "__main__":
             print(line)
         except UnicodeEncodeError:
             if any('\u0590' <= c <= '\u05FF' for c in line):
-                print("[Line with Hebrew text - see ProverbsAnalysis.txt for full content]")
+                print(f"[Line with Hebrew text - see {result_filename} for full content]")
             else:
                 print(line)
 
-    print(f"\nFull analysis with Hebrew text saved to ProverbsAnalysis.txt")
+    print(f"\nFull analysis with Hebrew text saved to {result_filename}")
