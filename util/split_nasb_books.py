@@ -101,8 +101,8 @@ def save_book(book_name, content, output_dir):
         f.write(content)
 
 def main():
-    input_file = 'texts/nasb/_bible.txt'
-    output_dir = 'texts/nasb/books'
+    input_file = '../texts/nasb/_bible.txt'
+    output_dir = '../texts/nasb/books'
 
     # Clean up existing files first
     if os.path.exists(output_dir):

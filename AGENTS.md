@@ -5,4 +5,6 @@ By default, use Python.
 
 Each top-level python script attempts to do one "analysis". It should output its results into {scriptname}-Results.txt.
 
-When reading Hebrew texts, deduplicate ketiv/qere, keeping the qere.
+When reading static Hebrew texts for purposes of analysis, deduplicate ketiv/qere, keeping the qere.
+
+Put scripts not used for analysis (for instance, for downloading or cleaning up static files) into the ./util/ directory.

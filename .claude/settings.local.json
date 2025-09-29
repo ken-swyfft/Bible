@@ -3,7 +3,9 @@
     "allow": [
       "Bash(mv:*)",
       "WebSearch",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "WebFetch(domain:www.tanach.us)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
