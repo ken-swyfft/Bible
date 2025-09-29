@@ -5,7 +5,11 @@
       "WebSearch",
       "Bash(python:*)",
       "WebFetch(domain:www.tanach.us)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "WebFetch(domain:sblgnt.com)",
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": []
