@@ -7,6 +7,8 @@
 - Put scripts not used for analysis (for instance, for downloading or cleaning up static files) into the ./util/ directory.
 - Put debug, test, and experimental scripts into the ./scratch/ directory. This includes scripts used for testing APIs, debugging features, or exploring approaches that don't produce final analysis results.
 - When creating an analysis script, ALWAYS add detailed comments at the top of the script explaining its purpose and how it goes about doing it. ALWAYS keep those comments up-to-date as you continue to update the script.
+- You are not as smart as you think you are, and the world (even just of Biblical texts and parsers) is far more complicated than you imagine. When approaching a task of any complexity, break the task down into as many small pieces as possible, then implement and test each individual step. Don't try to write a whole script at once: build it slowly, testing each step as you go.
+- Corollary: Write your code in such a way that it's easy to test the individual parts.
 
 ## Text Sources and Locations
 

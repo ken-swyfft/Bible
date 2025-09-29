@@ -1,0 +1,79 @@
+First 10 words from Job with all lexeme features:
+======================================================================
+
+Word 1 (ID: 336025):
+  lex (transliteration): >JC/
+  voc_lex_utf8 (vocalized): אִישׁ
+  g_lex_utf8 (consonantal): אִישׁ
+  g_word_utf8 (word form): אִ֛ישׁ
+
+Word 2 (ID: 336026):
+  lex (transliteration): HJH[
+  voc_lex_utf8 (vocalized): היה
+  g_lex_utf8 (consonantal): הָיָה
+  g_word_utf8 (word form): הָיָ֥ה
+
+Word 3 (ID: 336027):
+  lex (transliteration): B
+  voc_lex_utf8 (vocalized): בְּ
+  g_lex_utf8 (consonantal): בְ
+  g_word_utf8 (word form): בְ
+
+Word 4 (ID: 336028):
+  lex (transliteration): >RY/
+  voc_lex_utf8 (vocalized): אֶרֶץ
+  g_lex_utf8 (consonantal): אֶרֶץ
+  g_word_utf8 (word form): אֶֽרֶץ
+
+Word 5 (ID: 336029):
+  lex (transliteration): <WY=/
+  voc_lex_utf8 (vocalized): עוּץ
+  g_lex_utf8 (consonantal): עוּץ
+  g_word_utf8 (word form): ע֖וּץ
+
+Word 6 (ID: 336030):
+  lex (transliteration): >JWB/
+  voc_lex_utf8 (vocalized): אִיֹּוב
+  g_lex_utf8 (consonantal): אִיֹּוב
+  g_word_utf8 (word form): אִיֹּ֣וב
+
+Word 7 (ID: 336031):
+  lex (transliteration): CM/
+  voc_lex_utf8 (vocalized): שֵׁם
+  g_lex_utf8 (consonantal): שְׁם
+  g_word_utf8 (word form): שְׁמֹ֑ו
+
+Word 8 (ID: 336032):
+  lex (transliteration): W
+  voc_lex_utf8 (vocalized): וְ
+  g_lex_utf8 (consonantal): וְ
+  g_word_utf8 (word form): וְ
+
+Word 9 (ID: 336033):
+  lex (transliteration): HJH[
+  voc_lex_utf8 (vocalized): היה
+  g_lex_utf8 (consonantal): הָיָה
+  g_word_utf8 (word form): הָיָ֣ה
+
+Word 10 (ID: 336034):
+  lex (transliteration): H
+  voc_lex_utf8 (vocalized): הַ
+  g_lex_utf8 (consonantal): הָ
+  g_word_utf8 (word form): הָ
+
+======================================================================
+All available features that contain 'lex' or 'utf8':
+======================================================================
+  freq_lex
+  g_cons_utf8
+  g_lex
+  g_lex_utf8
+  g_word_utf8
+  lex
+  lex_utf8
+  qere_trailer_utf8
+  qere_utf8
+  rank_lex
+  trailer_utf8
+  voc_lex
+  voc_lex_utf8

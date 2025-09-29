@@ -1,0 +1,205 @@
+JOB RARE VOCABULARY ANALYSIS (ETCBC BHSA MORPHOLOGICAL)
+=================================================================
+
+METHODOLOGY: Morphological analysis using ETCBC BHSA dataset.
+Lemmas are properly extracted using linguistic annotations,
+providing accurate Hebrew morphological analysis.
+
+Job book name in ETCBC: Iob
+Job's rare vocabulary: 650 lemmas
+(Lemmas appearing <10 times outside Job)
+
+TOP 20 RAREST JOB LEMMAS:
+----------------------------------------------------------------------
+ 1. גרד (GRD[)                                         (Job: 1, Elsewhere: 0)
+ 2. בִּלְדַּד (BLDD/)                                  (Job: 5, Elsewhere: 0)
+ 3. שׁוּחִי (CWXJ/)                                    (Job: 5, Elsewhere: 0)
+ 4. נַעֲמָתִי (N<MTJ/)                                 (Job: 4, Elsewhere: 0)
+ 5. נְהָרָה (NHRH/)                                    (Job: 1, Elsewhere: 0)
+ 6. כַּמְרִיר (KMRJR/)                                 (Job: 1, Elsewhere: 0)
+ 7. יָגִיעַ (JGJ<=/)                                   (Job: 1, Elsewhere: 0)
+ 8. נתע (NT<[)                                         (Job: 1, Elsewhere: 0)
+ 9. שֵׁמֶץ (CMY/)                                      (Job: 2, Elsewhere: 0)
+10. שְׂעִפִּים (F<PJM/)                                (Job: 2, Elsewhere: 0)
+11. תָּהֳלָה (THLH=/)                                  (Job: 1, Elsewhere: 0)
+12. צַמִּים (YMJM/)                                    (Job: 2, Elsewhere: 0)
+13. כָּפָן (KPN/)                                      (Job: 2, Elsewhere: 0)
+14. כֶּלַח (KLX/)                                      (Job: 2, Elsewhere: 0)
+15. נהק (NHQ[)                                         (Job: 2, Elsewhere: 0)
+16. חַלָּמוּת (XLMWT/)                                 (Job: 1, Elsewhere: 0)
+17. סלד (SLD[)                                         (Job: 1, Elsewhere: 0)
+18. חִילָה (XJLH/)                                     (Job: 1, Elsewhere: 0)
+19. נָחוּשׁ (NXWC/)                                    (Job: 1, Elsewhere: 0)
+20. מָס (MS=/)                                         (Job: 1, Elsewhere: 0)
+
+BOOKS BY RARE VOCABULARY OVERLAP
+========================================
+
+BY FREQUENCY (rare Job lemmas per 1000 words):
+---------------------------------------------
+ 1. Nahum                 20.11 (15 total, 15 unique)
+ 2. Canticum              18.43 (31 total, 24 unique)
+ 3. Proverbia             18.40 (163 total, 96 unique)
+ 4. Threni                17.99 (35 total, 29 unique)
+ 5. Habakuk               17.84 (16 total, 15 unique)
+ 6. Psalmi                13.09 (332 total, 198 unique)
+ 7. Zephania              12.54 (13 total, 13 unique)
+ 8. Micha                 12.14 (23 total, 21 unique)
+ 9. Jesaia                11.77 (270 total, 168 unique)
+10. Hosea                  8.90 (28 total, 22 unique)
+11. Joel                   7.59 (10 total, 9 unique)
+12. Amos                   7.55 (21 total, 19 unique)
+13. Daniel                 6.69 (54 total, 24 unique)
+14. Ecclesiastes           6.61 (28 total, 17 unique)
+15. Sacharia               5.14 (23 total, 19 unique)
+
+BY ABSOLUTE COUNT:
+--------------------
+ 1. Psalmi               332 total (13.09 per 1000)
+ 2. Jesaia               270 total (11.77 per 1000)
+ 3. Proverbia            163 total (18.40 per 1000)
+ 4. Jeremia              108 total ( 3.63 per 1000)
+ 5. Ezechiel              99 total ( 3.78 per 1000)
+ 6. Genesis               96 total ( 3.34 per 1000)
+ 7. Deuteronomium         59 total ( 2.93 per 1000)
+ 8. Daniel                54 total ( 6.69 per 1000)
+ 9. Samuel_I              43 total ( 2.27 per 1000)
+10. Exodus                42 total ( 1.77 per 1000)
+11. Leviticus             37 total ( 2.16 per 1000)
+12. Judices               37 total ( 2.63 per 1000)
+13. Threni                35 total (17.99 per 1000)
+14. Samuel_II             33 total ( 2.11 per 1000)
+15. Numeri                31 total ( 1.34 per 1000)
+
+DETAILED MORPHOLOGICAL ANALYSIS - TOP 5 BOOKS
+==================================================
+
+1. Nahum
+--------
+Morphological overlap ratio: 20.11 per 1000 words
+Total rare Job lemmas: 15
+Unique rare lemmas: 15
+Book size: 746 words
+
+Rare Job lemmas found in this book:
+  שְׂעָרָה (F<RH==/) (1x)
+  הֲלִיכָה (HLJKH/) (1x)
+  רֳאִי (R>J/) (1x)
+  כַּחַשׁ (KXC/) (1x)
+  מֹוסֵרָה (MWSRH/) (1x)
+  קָרָה (QRH/) (1x)
+  סבך (SBK[) (1x)
+  שֶׁטֶף (CVP/) (1x)
+  יָבֵשׁ (JBC/) (1x)
+  זִקִּים (ZQJM/) (1x)
+  חֹר (XR==/) (1x)
+  תְּכוּנָה (TKWNH/) (1x)
+  שֹׁוט (CWV/) (1x)
+  לָבִיא (LBJ>/) (1x)
+  רקד (RQD[) (1x)
+
+2. Canticum
+-----------
+Morphological overlap ratio: 18.43 per 1000 words
+Total rare Job lemmas: 31
+Unique rare lemmas: 24
+Book size: 1682 words
+
+Rare Job lemmas found in this book:
+  אַיָּלָה (>JLH/) (2x)
+  פַּז (PZ/) (2x)
+  רֶשֶׁף (RCP/) (2x)
+  פֶּלַח (PLX/) (2x)
+  בַּר (BR==/) (2x)
+  תָּם (TM/) (2x)
+  לבב (LBB[) (2x)
+  צְרֹור (YRWR/) (1x)
+  חבל (XBL=[) (1x)
+  אֵב (>B=/) (1x)
+  סַפִּיר (SPJR/) (1x)
+  עֲטָרָה (<VRH/) (1x)
+  חַמָּה (XMH=/) (1x)
+  דבר (DBR=[) (1x)
+  מְעֹנָה (M<NH/) (1x)
+  ... and 9 more
+
+3. Proverbia
+------------
+Morphological overlap ratio: 18.40 per 1000 words
+Total rare Job lemmas: 163
+Unique rare lemmas: 96
+Book size: 8859 words
+
+Rare Job lemmas found in this book:
+  עָרוּם (<RWM=/) (8x)
+  לֶקַח (LQX/) (6x)
+  תַּחְבֻּלֹות (TXBLWT/) (5x)
+  קֶרֶת (QRT/) (4x)
+  פְּנִינִים (PNJNJM/) (4x)
+  תּוּשִׁיָּה (TWCJH/) (4x)
+  רעה (R<H=[) (4x)
+  צַעַד (Y<D/) (4x)
+  סלף (SLP[) (4x)
+  עַפְעַפִּים (<P<PJM/) (4x)
+  מַעֲנֶה (M<NH=/) (3x)
+  תֹּוחֶלֶת (TWXLT/) (3x)
+  רְפָאִים (RP>JM/) (3x)
+  זַךְ (ZK/) (3x)
+  קרץ (QRY[) (3x)
+  ... and 81 more
+
+4. Threni
+---------
+Morphological overlap ratio: 17.99 per 1000 words
+Total rare Job lemmas: 35
+Unique rare lemmas: 29
+Book size: 1945 words
+
+Rare Job lemmas found in this book:
+  יגה (JGH[) (5x)
+  גדר (GDR[) (2x)
+  דָּוֶה (DWH/) (2x)
+  אֲנָחָה (>NXH/) (1x)
+  פַּז (PZ/) (1x)
+  סלה (SLH=[) (1x)
+  מָרֹר (MRR/) (1x)
+  סַפִּיר (SPJR/) (1x)
+  תֹּוחֶלֶת (TWXLT/) (1x)
+  חדשׁ (XDC[) (1x)
+  עוּץ (<WY=/) (1x)
+  אַשְׁפָּה (>CPH/) (1x)
+  פְּנִינִים (PNJNJM/) (1x)
+  אָבֵל (>BL===/) (1x)
+  חרק (XRQ[) (1x)
+  ... and 14 more
+
+5. Habakuk
+----------
+Morphological overlap ratio: 17.84 per 1000 words
+Total rare Job lemmas: 16
+Unique rare lemmas: 15
+Book size: 897 words
+
+Rare Job lemmas found in this book:
+  תָּמַהּ (TMH[) (2x)
+  אַיָּלָה (>JLH/) (1x)
+  רָקָב (RQB/) (1x)
+  צעד (Y<D[) (1x)
+  כתר (KTR[) (1x)
+  רֶשֶׁף (RCP/) (1x)
+  זֶרֶם (ZRM/) (1x)
+  הֲלִיכָה (HLJKH/) (1x)
+  פצץ (PYY[) (1x)
+  אֹמֶר (>MR=/) (1x)
+  ספח (SPX[) (1x)
+  נתר (NTR[) (1x)
+  רְגַז (RGZ/) (1x)
+  חַכָּה (XKH/) (1x)
+  צבר (YBR[) (1x)
+
+MORPHOLOGICAL NOTES:
+====================
+- Lemmas represent normalized Hebrew lexical forms
+- Analysis accounts for Hebrew morphological complexity
+- Results show true lexical relationships, not surface forms
+- ETCBC annotations provide scholarly-grade linguistic data

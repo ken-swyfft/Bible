@@ -1,0 +1,120 @@
+JOB VOCABULARY DISTRIBUTION ANALYSIS (ETCBC BHSA)
+=================================================================
+
+METHODOLOGY: Comprehensive morphological analysis using ETCBC BHSA.
+Analyzes vocabulary distribution rather than just rare/common binary.
+Uses distinctiveness scores to identify Job's characteristic vocabulary.
+
+JOB VOCABULARY DISTRIBUTION:
+-----------------------------------
+Highly distinctive lemmas: 1750 (distinctiveness > 2.0)
+Moderately distinctive lemmas: 1636 (1.0-2.0)
+Common vocabulary lemmas: 1357 (≤ 1.0)
+
+TOP 20 MOST DISTINCTIVE JOB LEMMAS:
+----------------------------------------
+ 1. LWJH/                (Distinct: 2.70, Job: 2, Outside: 54)
+ 2. GRGRT/               (Distinct: 2.70, Job: 4, Outside: 108)
+ 3. PTJ=/                (Distinct: 2.70, Job: 1, Outside: 27)
+ 4. CWX[                 (Distinct: 2.70, Job: 1, Outside: 27)
+ 5. RP>WT/               (Distinct: 2.70, Job: 1, Outside: 27)
+ 6. LKD/                 (Distinct: 2.70, Job: 1, Outside: 27)
+ 7. <QCWT/               (Distinct: 2.70, Job: 2, Outside: 54)
+ 8. LZWT/                (Distinct: 2.70, Job: 1, Outside: 27)
+ 9. PLS=[                (Distinct: 2.70, Job: 2, Outside: 54)
+10. J<LH/                (Distinct: 2.70, Job: 1, Outside: 27)
+11. NMLH/                (Distinct: 2.70, Job: 2, Outside: 54)
+12. XBQ/                 (Distinct: 2.70, Job: 2, Outside: 54)
+13. MDJN/                (Distinct: 2.70, Job: 10, Outside: 270)
+14. XLQH=/               (Distinct: 2.70, Job: 1, Outside: 27)
+15. MRBDJM/              (Distinct: 2.70, Job: 2, Outside: 54)
+16. RBD[                 (Distinct: 2.70, Job: 1, Outside: 27)
+17. XVB=[                (Distinct: 2.70, Job: 1, Outside: 27)
+18. >VWN/                (Distinct: 2.70, Job: 1, Outside: 27)
+19. XLQ===/              (Distinct: 2.70, Job: 1, Outside: 27)
+20. MPTX=/               (Distinct: 2.70, Job: 1, Outside: 27)
+
+BOOKS BY DISTINCTIVE VOCABULARY OVERLAP:
+=============================================
+
+BY HIGHLY DISTINCTIVE JOB VOCABULARY (per 1000 words):
+--------------------------------------------------
+ 1. Threni                85.13 (5204 tokens)
+ 2. Ecclesiastes          83.25 (5251 tokens)
+ 3. Ruth                  83.07 (5731 tokens)
+ 4. Proverbia             82.60 (5848 tokens)
+ 5. Canticum              81.92 (5514 tokens)
+ 6. Esther                81.86 (4626 tokens)
+ 7. Psalmi                70.67 (6400 tokens)
+ 8. Daniel                58.75 (2846 tokens)
+ 9. Maleachi              55.79 (6468 tokens)
+10. Sacharia              55.22 (6468 tokens)
+11. Haggai                53.22 (6471 tokens)
+12. Zephania              52.84 (6471 tokens)
+13. Habakuk               52.39 (6471 tokens)
+14. Nahum                 52.02 (6472 tokens)
+15. Micha                 51.71 (6472 tokens)
+
+BY MODERATELY DISTINCTIVE VOCABULARY (per 1000 words):
+--------------------------------------------------
+ 1. Nehemia              604.36 (21352 tokens)
+ 2. Esra                 601.59 (25972 tokens)
+ 3. Daniel               597.73 (28954 tokens)
+ 4. Chronica_I           586.32 (11588 tokens)
+ 5. Esther               579.59 (32754 tokens)
+ 6. Threni               575.66 (35192 tokens)
+ 7. Ecclesiastes         569.09 (35897 tokens)
+ 8. Canticum             564.57 (38002 tokens)
+ 9. Ruth                 562.40 (38802 tokens)
+10. Proverbia            560.41 (39674 tokens)
+11. Psalmi               525.26 (47571 tokens)
+12. Maleachi             479.70 (55615 tokens)
+13. Sacharia             478.39 (56031 tokens)
+14. Haggai               475.18 (57780 tokens)
+15. Zephania             474.92 (58165 tokens)
+
+DETAILED ANALYSIS - TOP 5 BOOKS BY DISTINCTIVE VOCABULARY
+============================================================
+
+1. Threni
+---------
+Highly distinctive overlap: 85.13 per 1000
+Moderately distinctive overlap: 575.66 per 1000
+Common vocabulary overlap: 339.21 per 1000
+Book size: 61133 words
+
+2. Ecclesiastes
+---------------
+Highly distinctive overlap: 83.25 per 1000
+Moderately distinctive overlap: 569.09 per 1000
+Common vocabulary overlap: 347.66 per 1000
+Book size: 63078 words
+
+3. Ruth
+-------
+Highly distinctive overlap: 83.07 per 1000
+Moderately distinctive overlap: 562.40 per 1000
+Common vocabulary overlap: 354.53 per 1000
+Book size: 68993 words
+
+4. Proverbia
+------------
+Highly distinctive overlap: 82.60 per 1000
+Moderately distinctive overlap: 560.41 per 1000
+Common vocabulary overlap: 356.99 per 1000
+Book size: 70795 words
+
+5. Canticum
+-----------
+Highly distinctive overlap: 81.92 per 1000
+Moderately distinctive overlap: 564.57 per 1000
+Common vocabulary overlap: 353.51 per 1000
+Book size: 67311 words
+
+METHODOLOGICAL NOTES:
+======================
+- Distinctiveness = (Job frequency) / (Overall frequency)
+- Higher distinctiveness = more characteristic of Job
+- Lemmas represent morphologically normalized forms
+- Analysis reveals lexical relationships beyond simple frequency
+- ETCBC annotations ensure linguistic accuracy
