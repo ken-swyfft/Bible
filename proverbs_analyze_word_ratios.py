@@ -1,0 +1,224 @@
+#!/usr/bin/env python3
+"""
+Analyze Hebrew vs English word count ratios in Proverbs.
+Find verses with the fewest Hebrew words relative to English words.
+"""
+
+import re
+import os
+
+def parse_hebrew_proverbs(file_path):
+    """Parse Hebrew Proverbs file and extract verses with word counts."""
+    verses = {}
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Look for verse patterns - the format includes Unicode directional marks
+    # Pattern: verse_num ׃chapter_num hebrew_text
+    # Note: lines may start with Unicode directional marks
+
+    for line in content.split('\n'):
+        # Remove Unicode directional marks and other control characters
+        clean_line = re.sub(r'[\u200e\u200f\u202a-\u202e\u2066-\u2069]', '', line).strip()
+
+        if not clean_line or 'xxxx' in clean_line:
+            continue
+
+        # Look for pattern: number ׃number hebrew_text
+        match = re.search(r'(\d+)\s+׃(\d+)\s+(.+)', clean_line)
+        if match:
+            verse_num = int(match.group(1))
+            chapter_num = int(match.group(2))
+            hebrew_text = match.group(3).strip()
+
+            # Remove final punctuation and split into words
+            # Remove common Hebrew punctuation like ׃ פ ס at the end
+            hebrew_text = re.sub(r'[׃פס]\s*$', '', hebrew_text).strip()
+
+            # Split into words and handle maqqeph-separated words
+            # First split by spaces, then split by maqqeph (־) to count each part as a separate word
+            hebrew_words = []
+            for word_group in hebrew_text.split():
+                # Split by maqqeph and filter for Hebrew text
+                maqqeph_parts = word_group.split('־')
+                for part in maqqeph_parts:
+                    # Keep parts that contain Hebrew characters (including vowel points and cantillation)
+                    if part.strip() and any('\u0590' <= c <= '\u05FF' for c in part):
+                        hebrew_words.append(part.strip())
+
+            verse_ref = f"{chapter_num}:{verse_num}"
+            verses[verse_ref] = {
+                'hebrew_text': hebrew_text,
+                'hebrew_word_count': len(hebrew_words),
+                'hebrew_words': hebrew_words
+            }
+
+    return verses
+
+def parse_english_proverbs(file_path):
+    """Parse English NASB Proverbs file and extract verses with word counts."""
+    verses = {}
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    lines = content.split('\n')
+    current_chapter = 0
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+
+        # Check for chapter headers like "Proverbs 1 New American Standard Bible"
+        chapter_match = re.match(r'^Proverbs (\d+)', line)
+        if chapter_match:
+            current_chapter = int(chapter_match.group(1))
+            continue
+
+        # Check if line starts with a number (verse number)
+        verse_match = re.match(r'^(\d+)\s+(.+)$', line)
+        if verse_match and current_chapter > 0:
+            verse_num = int(verse_match.group(1))
+            verse_text = verse_match.group(2).strip()
+
+            # Handle multi-line verses by checking if the next lines continue the verse
+            # This is a simple implementation - we'll process line by line for now
+
+            # Count English words (split by whitespace, remove punctuation for counting)
+            english_words = re.findall(r'\b\w+\b', verse_text)
+
+            verse_ref = f"{current_chapter}:{verse_num}"
+            verses[verse_ref] = {
+                'english_text': verse_text,
+                'english_word_count': len(english_words),
+                'english_words': english_words
+            }
+
+    return verses
+
+def analyze_word_ratios():
+    """Analyze Hebrew to English word count ratios in Proverbs."""
+
+    # File paths
+    hebrew_file = "texts/tanakh/proverbs.txt"
+    english_file = "texts/nasb/books/proverbs.txt"
+
+    # Check if files exist
+    if not os.path.exists(hebrew_file):
+        print(f"Hebrew file not found: {hebrew_file}")
+        return
+    if not os.path.exists(english_file):
+        print(f"English file not found: {english_file}")
+        return
+
+    print("Parsing Hebrew Proverbs...")
+    hebrew_verses = parse_hebrew_proverbs(hebrew_file)
+    print(f"Found {len(hebrew_verses)} Hebrew verses")
+
+    print("Parsing English Proverbs...")
+    english_verses = parse_english_proverbs(english_file)
+    print(f"Found {len(english_verses)} English verses")
+
+    # Match verses and calculate ratios
+    ratios = []
+
+    for verse_ref in hebrew_verses:
+        if verse_ref in english_verses:
+            hebrew_count = hebrew_verses[verse_ref]['hebrew_word_count']
+            english_count = english_verses[verse_ref]['english_word_count']
+
+            if english_count > 0:  # Avoid division by zero
+                ratio = hebrew_count / english_count
+                ratios.append({
+                    'verse': verse_ref,
+                    'hebrew_count': hebrew_count,
+                    'english_count': english_count,
+                    'ratio': ratio,
+                    'hebrew_text': hebrew_verses[verse_ref]['hebrew_text'],
+                    'english_text': english_verses[verse_ref]['english_text']
+                })
+
+    # Sort by ratio (ascending - lowest ratios first)
+    ratios.sort(key=lambda x: x['ratio'])
+
+    print(f"\nAnalyzed {len(ratios)} matching verses")
+    print("\n" + "="*80)
+    print("TOP 20 VERSES: Fewest Hebrew words relative to English words")
+    print("="*80)
+
+    for i, verse_data in enumerate(ratios[:20], 1):
+        print(f"\n{i}. Proverbs {verse_data['verse']}")
+        print(f"   Ratio: {verse_data['ratio']:.3f} ({verse_data['hebrew_count']} Hebrew / {verse_data['english_count']} English)")
+        try:
+            print(f"   Hebrew: {verse_data['hebrew_text']}")
+        except UnicodeEncodeError:
+            print(f"   Hebrew: [Hebrew text - {verse_data['hebrew_count']} words]")
+        print(f"   English: {verse_data['english_text']}")
+
+    # Also show some statistics
+    print(f"\n" + "="*80)
+    print("STATISTICS")
+    print("="*80)
+    if ratios:
+        avg_ratio = sum(r['ratio'] for r in ratios) / len(ratios)
+        print(f"Average Hebrew/English ratio: {avg_ratio:.3f}")
+        print(f"Lowest ratio: {ratios[0]['ratio']:.3f} (Proverbs {ratios[0]['verse']})")
+        print(f"Highest ratio: {ratios[-1]['ratio']:.3f} (Proverbs {ratios[-1]['verse']})")
+
+if __name__ == "__main__":
+    analyze_word_ratios()
+
+    # Save results to file
+    print(f"\nSaving detailed results to 'analyze_proverbs_word_ratios_results.txt'...")
+
+    with open("analyze_proverbs_word_ratios_results.txt", "w", encoding="utf-8") as f:
+        # Re-run analysis but write to file (reuse the already parsed data)
+        hebrew_file = "texts/tanakh/proverbs.txt"
+        english_file = "texts/nasb/books/proverbs.txt"
+
+        hebrew_verses = parse_hebrew_proverbs(hebrew_file)
+        english_verses = parse_english_proverbs(english_file)
+
+        ratios = []
+        for verse_ref in hebrew_verses:
+            if verse_ref in english_verses:
+                hebrew_count = hebrew_verses[verse_ref]['hebrew_word_count']
+                english_count = english_verses[verse_ref]['english_word_count']
+                if english_count > 0:
+                    ratio = hebrew_count / english_count
+                    ratios.append({
+                        'verse': verse_ref,
+                        'hebrew_count': hebrew_count,
+                        'english_count': english_count,
+                        'ratio': ratio,
+                        'hebrew_text': hebrew_verses[verse_ref]['hebrew_text'],
+                        'english_text': english_verses[verse_ref]['english_text']
+                    })
+
+        ratios.sort(key=lambda x: x['ratio'])
+
+        f.write("PROVERBS WORD RATIO ANALYSIS\n")
+        f.write("Hebrew vs English Word Count Ratios\n")
+        f.write("="*80 + "\n\n")
+        f.write("TOP 20 VERSES: Fewest Hebrew words relative to English words\n")
+        f.write("="*80 + "\n")
+
+        for i, verse_data in enumerate(ratios[:20], 1):
+            f.write(f"\n{i}. Proverbs {verse_data['verse']}\n")
+            f.write(f"   Ratio: {verse_data['ratio']:.3f} ({verse_data['hebrew_count']} Hebrew / {verse_data['english_count']} English)\n")
+            f.write(f"   Hebrew: {verse_data['hebrew_text']}\n")
+            f.write(f"   English: {verse_data['english_text']}\n")
+
+        f.write(f"\n" + "="*80 + "\n")
+        f.write("STATISTICS\n")
+        f.write("="*80 + "\n")
+        if ratios:
+            avg_ratio = sum(r['ratio'] for r in ratios) / len(ratios)
+            f.write(f"Average Hebrew/English ratio: {avg_ratio:.3f}\n")
+            f.write(f"Lowest ratio: {ratios[0]['ratio']:.3f} (Proverbs {ratios[0]['verse']})\n")
+            f.write(f"Highest ratio: {ratios[-1]['ratio']:.3f} (Proverbs {ratios[-1]['verse']})\n")
+            f.write(f"Total verses analyzed: {len(ratios)}\n")
+
+    print("Analysis complete!")
