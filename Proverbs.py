@@ -40,46 +40,101 @@ def count_4_3(proverbs_lines):
     examples = {'4+3': [], '3+4': []}
     for line in proverbs_lines:
         s = normalize(line, keep_maqaf=True)
-        # Split on etnachta; some texts may have multiple occurrences—expect 1 in bicola
-        parts = s.split(ETNACHTA)
-        if len(parts) != 2:
-            continue  # skip non-bicola
-        left, right = parts[0], parts[1]
-        L = len(tokenize(left, split_maqaf=True))
-        R = len(tokenize(right, split_maqaf=True))
-        totals['bicola'] += 1
-        if (L, R) == (4, 3):
-            totals['4+3'] += 1
-            if len(examples['4+3']) < 10:
-                examples['4+3'].append(line.strip())
-        elif (L, R) == (3, 4):
-            totals['3+4'] += 1
-            if len(examples['3+4']) < 10:
-                examples['3+4'].append(line.strip())
+
+        # Find the position of etnachta
+        if ETNACHTA not in s:
+            continue  # skip verses without etnachta
+
+        # Split the text into words using spaces, preserving the etnachta position
+        # First replace punctuation and collapse spaces, but keep etnachta
+        working_text = s.replace(SOF_PASUQ, ' ')
+        working_text = re.sub(r'\s+', ' ', working_text).strip()
+
+        # Split on spaces to get words (some will contain etnachta)
+        words = working_text.split(' ')
+        words = [w for w in words if w]  # Remove empty strings
+
+        # Find which word contains the etnachta
+        word_with_etnachta = -1
+        for i, word in enumerate(words):
+            if ETNACHTA in word:
+                word_with_etnachta = i
+                break
+
+        # Split after the word that contains etnachta
+        if word_with_etnachta >= 0:
+            left_words = words[:word_with_etnachta + 1]  # Include the word with etnachta
+            right_words = words[word_with_etnachta + 1:]  # Everything after
+
+            # Clean up the words by removing etnachta for counting
+            left_clean = [w.replace(ETNACHTA, '') for w in left_words if w.replace(ETNACHTA, '')]
+            right_clean = [w.replace(ETNACHTA, '') for w in right_words if w.replace(ETNACHTA, '')]
+
+            # Further tokenize if needed (split on maqaf)
+            left_tokens = []
+            for word in left_clean:
+                left_tokens.extend(tokenize(word, split_maqaf=True))
+
+            right_tokens = []
+            for word in right_clean:
+                right_tokens.extend(tokenize(word, split_maqaf=True))
+
+            L = len(left_tokens)
+            R = len(right_tokens)
+
+            if L > 0 and R > 0:  # Only count if we have words on both sides
+                totals['bicola'] += 1
+                if (L, R) == (4, 3):
+                    totals['4+3'] += 1
+                    if len(examples['4+3']) < 10:
+                        examples['4+3'].append(line.strip())
+                elif (L, R) == (3, 4):
+                    totals['3+4'] += 1
+                    if len(examples['3+4']) < 10:
+                        examples['3+4'].append(line.strip())
+
     return totals, examples
 
 def load_proverbs_text(filename='Proverbs.txt'):
-    """Load Proverbs text file and extract verse lines."""
+    """Load Proverbs text file and extract verse lines from chapter 10 onwards."""
     lines = []
+    in_chapter_10_or_later = False
+
     with open(filename, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
-            # Skip header lines and empty lines
-            if not line or 'xxxx' in line:
+            # Skip empty lines
+            if not line:
                 continue
+
+            # Check for chapter markers first (before filtering xxxx)
+            if 'Chapter' in line:
+                if 'Chapter 10' in line:
+                    in_chapter_10_or_later = True
+                continue
+
+            # Skip header lines that contain xxxx (but not chapter lines)
+            if 'xxxx' in line and 'Chapter' not in line:
+                continue
+
+            # Only process verses if we're in chapter 10 or later
+            if not in_chapter_10_or_later:
+                continue
+
             # Look for verse lines that contain Hebrew text
             if '׃' in line and any(c for c in line if '\u0590' <= c <= '\u05FF'):
-                # Remove directional marks and extract Hebrew text
+                # Remove directional marks
                 clean_line = ''.join(c for c in line if c not in '\u202A\u202B\u202C\u202D\u202E\u2066\u2067\u2068\u2069')
 
-                # Find the Hebrew text part (after verse number, before final ׃)
-                # Look for pattern like "1  ׃1   [Hebrew text]׃"
-                parts = clean_line.split('׃')
-                if len(parts) >= 3:
-                    # The Hebrew text is typically the last part before the final ׃
-                    hebrew_text = parts[-2].strip()
+                # Pattern: " 1  ׃10   [Hebrew text]׃"
+                # Find the last occurrence of numbers followed by ׃, then extract Hebrew text after that
+                import re
+                # Look for the pattern: digits/spaces + ׃ + digits/spaces + Hebrew text + ׃
+                match = re.search(r'\d+\s*׃\d*\s+([^׃]*׃)', clean_line)
+                if match:
+                    hebrew_text = match.group(1).strip()
                     if hebrew_text and any('\u0590' <= c <= '\u05FF' for c in hebrew_text):
-                        lines.append(hebrew_text + '׃')
+                        lines.append(hebrew_text)
     return lines
 
 # --- Main execution ---
