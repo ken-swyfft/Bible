@@ -29,7 +29,7 @@ often express ideas that require multiple words in English. This analysis quanti
 that efficiency and identifies the most striking examples.
 
 OUTPUT:
-Generates proverbs_analyze_word_ratios_results.txt with:
+Generates results/proverbs_analyze_word_ratios_results.txt with:
 - Top 20 verses with lowest Hebrew/English word ratios
 - Statistical summary of translation expansion patterns
 - Full Hebrew text with accurate word counts
@@ -202,9 +202,9 @@ if __name__ == "__main__":
     analyze_word_ratios()
 
     # Save results to file
-    print(f"\nSaving detailed results to 'analyze_proverbs_word_ratios_results.txt'...")
+    print(f"\nSaving detailed results to 'results/proverbs_analyze_word_ratios_results.txt'...")
 
-    with open("analyze_proverbs_word_ratios_results.txt", "w", encoding="utf-8") as f:
+    with open("results/proverbs_analyze_word_ratios_results.txt", "w", encoding="utf-8") as f:
         # Re-run analysis but write to file (reuse the already parsed data)
         hebrew_file = "texts/tanakh/proverbs.txt"
         english_file = "texts/nasb/books/proverbs.txt"

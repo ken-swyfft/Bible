@@ -14,7 +14,7 @@ METHODOLOGY:
 4. Calculate overlap metrics for each book
 
 OUTPUT:
-Generates job_vocabulary_simple_results.txt with analysis results.
+Generates results/job_vocabulary_simple_results.txt with analysis results.
 """
 
 import sys
@@ -197,7 +197,7 @@ def analyze_job_vocabulary():
 
 def generate_simple_report(rare_job_vocab, book_overlap):
     """Generate a simple text report."""
-    output_file = "job_vocabulary_simple_results.txt"
+    output_file = "results/job_vocabulary_simple_results.txt"
 
     try:
         with open(output_file, 'w', encoding='utf-8') as f:

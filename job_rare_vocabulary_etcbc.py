@@ -27,7 +27,7 @@ BUG FIX HISTORY:
 - Result: Found 650 rare Job lemmas (vs 0 before fix) and 2,866 corpus hapax (vs 46)
 
 OUTPUT:
-Generates job_rare_vocabulary_etcbc_results.txt with:
+Generates results/job_rare_vocabulary_etcbc_results.txt with:
 - Hebrew characters and transliterations for all lemmas
 - Book rankings by rare vocabulary overlap
 - Detailed morphological analysis
@@ -277,7 +277,7 @@ def analyze_job_vocabulary_morphological():
 
 def generate_morphological_report(rare_job_vocab, book_overlap, job_name, handler, lemma_to_hebrew):
     """Generate analysis report with morphological insights."""
-    output_file = "job_rare_vocabulary_etcbc_results.txt"
+    output_file = "results/job_rare_vocabulary_etcbc_results.txt"
 
     def format_lemma(lemma):
         """Format lemma with Hebrew if available."""

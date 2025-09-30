@@ -21,7 +21,7 @@ TECHNICAL APPROACH:
 - Provides both raw counts and normalized frequencies
 
 OUTPUT:
-Generates job_rare_vocabulary_text_based_results.txt with analysis results.
+Generates results/job_rare_vocabulary_text_based_results.txt with analysis results.
 """
 
 import re
@@ -198,7 +198,7 @@ def analyze_job_vocabulary_text():
 
 def generate_text_based_report(rare_job_vocab, book_overlap):
     """Generate analysis report."""
-    output_file = "job_rare_vocabulary_text_based_results.txt"
+    output_file = "results/job_rare_vocabulary_text_based_results.txt"
 
     try:
         with open(output_file, 'w', encoding='utf-8') as f:

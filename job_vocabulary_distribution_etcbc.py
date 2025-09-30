@@ -14,7 +14,7 @@ METHODOLOGY:
 4. Show distribution gradients rather than just rare/common binary
 
 OUTPUT:
-Generates job_vocabulary_distribution_etcbc_results.txt with comprehensive analysis.
+Generates results/job_vocabulary_distribution_etcbc_results.txt with comprehensive analysis.
 """
 
 import os
@@ -200,7 +200,7 @@ def analyze_job_vocabulary_distribution():
 def generate_distribution_report(job_vocab_analysis, highly_distinctive, moderately_distinctive,
                                common_vocabulary, book_overlaps, handler):
     """Generate comprehensive vocabulary distribution report."""
-    output_file = "job_vocabulary_distribution_etcbc_results.txt"
+    output_file = "results/job_vocabulary_distribution_etcbc_results.txt"
 
     try:
         with open(output_file, 'w', encoding='utf-8') as f:

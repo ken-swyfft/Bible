@@ -23,7 +23,7 @@ TECHNICAL APPROACH:
 - Outputs detailed analysis of parallel structures in biblical Hebrew poetry
 
 OUTPUT:
-Generates proverbs_analyze_bicola_results.txt with detailed bicola structure analysis.
+Generates results/proverbs_analyze_bicola_results.txt with detailed bicola structure analysis.
 """
 
 import re
@@ -223,7 +223,7 @@ if __name__ == "__main__":
                 output_lines.append(f"  {i}. {example}")
 
     # Write to file with UTF-8 encoding
-    result_filename = 'proverbs_analyze_bicola_results.txt'
+    result_filename = 'results/proverbs_analyze_bicola_results.txt'
     with open(result_filename, 'w', encoding='utf-8') as f:
         for line in output_lines:
             f.write(line + '\n')
