@@ -53,6 +53,102 @@
 - Use try/except blocks when printing Hebrew text
 - Save output files with UTF-8 encoding: `open(file, "w", encoding="utf-8")`
 
+## ETCBC BHSA API (Text-Fabric)
+
+### Loading the Dataset
+```python
+from tf.app import use
+A = use('etcbc/bhsa', silent=True)
+```
+- The BHSA (Biblia Hebraica Stuttgartensia Amstelodamensis) provides scholarly linguistic annotations
+- Text-Fabric loads as an API object with `.api` attribute for accessing nodes and features
+
+### Node Access and Navigation
+
+#### Finding Books
+```python
+# Get all books
+book_results = A.search('book')
+
+# Get specific book (note: ETCBC uses specific naming)
+book_results = A.search('book book=Iob')  # Job is named 'Iob'
+
+# Extract node from result tuple
+book_node = book_results[0][0] if isinstance(book_results[0], tuple) else book_results[0]
+
+# Get book name from node
+book_name = A.api.F.book.v(book_id)
+```
+
+#### Getting Words from a Book
+**CRITICAL**: Use `L.d()` for downward edge traversal - NOT search with `<<` operator
+```python
+# CORRECT way - uses downward edges, no duplicates
+word_nodes = A.api.L.d(book_node, otype='word')
+
+# WRONG - causes ~14x duplication due to Cartesian product
+# word_nodes = A.search('book book=X\n<< word')  # DO NOT USE
+```
+
+**Bug discovered in job_rare_vocabulary_etcbc.py**: Using `A.search('book book=X\n<< word')` returns each word approximately 14 times due to the relational query creating a Cartesian product. This caused massive overcounting (0 rare words found vs. the correct 650). Always use `L.d()` for traversing from book to words.
+
+### Accessing Features
+```python
+# Get transliterated lemma (morphological base form)
+lemma = A.api.F.lex.v(word_id)
+
+# Get Hebrew vocalized text
+hebrew = A.api.F.voc_lex_utf8.v(word_id)
+
+# Get book name
+book_name = A.api.F.book.v(book_id)
+```
+
+### Common Features
+- `lex` - Transliterated lemma (lexical form)
+- `voc_lex_utf8` - Hebrew vocalized lemma
+- `book` - Book name
+- `g_word_utf8` - Full word form with vocalization
+- `sp` - Part of speech
+
+### ETCBC Book Names
+ETCBC uses specific naming conventions that differ from common English names:
+- Job = 'Iob'
+- Other books may have Latin-style names
+- Always verify book names by querying: `A.search('book')` and inspecting results
+
+### Windows Unicode Handling
+When working with Hebrew text on Windows, always include:
+```python
+import os
+os.environ['PYTHONIOENCODING'] = 'utf-8'
+os.environ['PYTHONUTF8'] = '1'
+
+# SafeUnicodeHandler for console output
+class SafeUnicodeHandler:
+    def safe_print(self, text):
+        try:
+            print(text)
+        except UnicodeEncodeError:
+            safe_text = str(text).encode('ascii', errors='replace').decode('ascii')
+            print(safe_text)
+```
+
+### Error Handling Best Practices
+- Wrap ETCBC operations in try/except blocks
+- Node access can fail if features aren't available
+- Skip individual word errors silently when processing large datasets
+- Validate that dataset loaded successfully before proceeding
+
+### Example Reference Script
+See `job_rare_vocabulary_etcbc.py` for a complete working example demonstrating:
+- Proper dataset loading
+- Book and word node traversal
+- Feature access (lex, voc_lex_utf8)
+- Hebrew-to-transliteration mapping
+- Windows Unicode handling
+- Avoiding the L.d() vs search bug
+
 ## Script Organization
 
 ### Utility Scripts
