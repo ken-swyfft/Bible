@@ -70,7 +70,7 @@ Exodus 3 New American Standard Bible
 15 God, furthermore, said to Moses, "Thus you shall say to the sons of Israel, ' The LORD, the God of  your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you." This is My name forever, and this is My memorial-name to all generations.
 16 "Go and gather the elders of Israel together and say to them, ' The LORD, the God of your fathers,  the God of Abraham, Isaac and Jacob, has appeared to me, saying, " I am indeed concerned about you and what has been done to you in Egypt.
 17 "So I said, I will bring you up out of the affliction of Egypt to the land of the Canaanite and the  Hittite and the Amorite and the Perizzite and the Hivite and the Jebusite, to a land flowing with milk and honey."
-18 " They will pay heed to what you say; and you with the elders of Israel will come to the king of  Egypt and you will say to him, 'The LORD, the God of the Hebrews, has met with us. So now, please, let us go a three days' journey into the wilderness, that we may sacrifice to the LORD our God.'
+18 "They will pay heed to what you say; and you with the elders of Israel will come to the king of  Egypt and you will say to him, 'The LORD, the God of the Hebrews, has met with us. So now, please, let us go a three days' journey into the wilderness, that we may sacrifice to the LORD our God.'
 19 "But I know that the king of Egypt will not permit you to go, except under compulsion. 
 20 "So I will stretch out My hand and strike Egypt with all My miracles which I shall do in the midst of  it; and after that he will let you go.
 21 "I will grant this people favor in the sight of the Egyptians; and it shall be that when you go, you will  not go empty-handed.
@@ -154,7 +154,7 @@ Exodus 6 New American Standard Bible
 8 'I will bring you to the land which I swore to give to Abraham, Isaac, and Jacob, and I will give it to  you {for} a possession; I am the LORD.'"
 9 So Moses spoke thus to the sons of Israel, but they did not listen to Moses on account of {their}  despondency and cruel bondage.
 10 Now the LORD spoke to Moses, saying, 
-11 " Go, tell Pharaoh king of Egypt to let the sons of Israel go out of his land." 
+11 "Go, tell Pharaoh king of Egypt to let the sons of Israel go out of his land." 
 12 But Moses spoke before the LORD, saying, "Behold, the sons of Israel have not listened to me; how  then will Pharaoh listen to me, for I am unskilled in speech?"
 13 Then the LORD spoke to Moses and to Aaron, and gave them a charge to the sons of Israel and to  Pharaoh king of Egypt, to bring the sons of Israel out of the land of Egypt.
 14 These are the heads of their fathers' households. The sons of Reuben, Israel's firstborn: Hanoch and  Pallu, Hezron and Carmi; these are the families of Reuben.
@@ -183,7 +183,8 @@ Exodus 7 New American Standard Bible
 1 Then the LORD said to Moses, " See, I make you {as} God to Pharaoh, and your brother Aaron shall  be your prophet.
 2 "You shall speak all that I command you, and your brother Aaron shall speak to Pharaoh that he let the  sons of Israel go out of his land.
 3 "But I will harden Pharaoh's heart that I may multiply My signs and My wonders in the land of Egypt. 
-4 "When Pharaoh does not listen to you, then I will lay My hand on Egypt and bring out My hosts, My  people the sons of Israel, from the land of Egypt by great judgments. 5" The Egyptians shall know that I am the LORD, when I stretch out My hand on Egypt and bring out the sons of Israel from their midst." 
+4 "When Pharaoh does not listen to you, then I will lay My hand on Egypt and bring out My hosts, My  people the sons of Israel, from the land of Egypt by great judgments.
+5 "The Egyptians shall know that I am the LORD, when I stretch out My hand on Egypt and bring out the sons of Israel from their midst."
 6 So Moses and Aaron did {it;} as the LORD commanded them, thus they did. 
 7 Moses was eighty years old and Aaron eighty-three, when they spoke to Pharaoh. 
 8 Now the LORD spoke to Moses and Aaron, saying, 
@@ -193,9 +194,10 @@ Exodus 7 New American Standard Bible
 12 For each one threw down his staff and they turned into serpents. But Aaron's staff swallowed up their  staffs.
 13 Yet Pharaoh's heart was hardened, and he did not listen to them, as the LORD had said. 
 14 Then the LORD said to Moses, "Pharaoh's heart is stubborn; he refuses to let the people go. 
-15 "Go to Pharaoh in the morning as he is going out to the water, and station yourself to meet him on the  bank of the Nile; and you shall take in your hand the staff that was turned into a serpent. 16" You shall say to him, 'The LORD, the God of the Hebrews, sent me to you, saying, " Let My people go, that they may serve Me in the wilderness. But behold, you have not listened until now." 
+15 "Go to Pharaoh in the morning as he is going out to the water, and station yourself to meet him on the  bank of the Nile; and you shall take in your hand the staff that was turned into a serpent.
+16 "You shall say to him, 'The LORD, the God of the Hebrews, sent me to you, saying, " Let My people go, that they may serve Me in the wilderness. But behold, you have not listened until now."
 17 'Thus says the LORD, " By this you shall know that I am the LORD: behold, I will strike the water  that is in the Nile with the staff that is in my hand, and it will be turned to blood.
-18 " The fish that are in the Nile will die, and the Nile will become foul, and the Egyptians will find  difficulty in drinking water from the Nile.'""
+18 "The fish that are in the Nile will die, and the Nile will become foul, and the Egyptians will find  difficulty in drinking water from the Nile.'""
 19 Then the LORD said to Moses, "Say to Aaron, 'Take your staff and stretch out your hand over the  waters of Egypt, over their rivers, over their streams, and over their pools, and over all their reservoirs of water, that they may become blood; and there will be blood throughout all the land of Egypt, both in {vessels of} wood and in {vessels of} stone.'"
 20 So Moses and Aaron did even as the LORD had commanded. And he lifted up the staff and struck  the water that {was} in the Nile, in the sight of Pharaoh and in the sight of his servants, and all the water that {was} in the Nile was turned to blood.
 21 The fish that {were} in the Nile died, and the Nile became foul, so that the Egyptians could not drink  water from the Nile. And the blood was through all the land of Egypt.
@@ -208,7 +210,8 @@ Exodus 8 New American Standard Bible
 
 1 Then the LORD said to Moses, "Go to Pharaoh and say to him, 'Thus says the LORD, " Let My people  go, that they may serve Me.
 2 "But if you refuse to let {them} go, behold, I will smite your whole territory with frogs. 
-3 "The Nile will swarm with frogs, which will come up and go into your house and into your bedroom  and on your bed, and into the houses of your servants and on your people, and into your ovens and into your kneading bowls. 4"So the frogs will come up on you and your people and all your servants. 
+3 "The Nile will swarm with frogs, which will come up and go into your house and into your bedroom  and on your bed, and into the houses of your servants and on your people, and into your ovens and into your kneading bowls.
+4 "So the frogs will come up on you and your people and all your servants.
 5 Then the LORD said to Moses, "Say to Aaron, ' Stretch out your hand with your staff over the rivers,  over the streams and over the pools, and make frogs come up on the land of Egypt.' "
 6 So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land  of Egypt.
 7 The magicians did the same with their secret arts, making frogs come up on the land of Egypt. 
@@ -226,7 +229,7 @@ Exodus 8 New American Standard Bible
 19 Then the magicians said to Pharaoh, " This is the finger of God." But Pharaoh's heart was hardened,  and he did not listen to them, as the LORD had said.
 20 Now the LORD said to Moses, " Rise early in the morning and present yourself before Pharaoh, as he  comes out to the water, and say to him, 'Thus says the LORD, " Let My people go, that they may serve Me.
 21 "For if you do not let My people go, behold, I will send swarms of flies on you and on your servants  and on your people and into your houses; and the houses of the Egyptians will be full of swarms of flies, and also the ground on which they {dwell.}
-22 " But on that day I will set apart the land of Goshen, where My people are living, so that no swarms  of flies will be there, in order that you may know that I, the LORD, am in the midst of the land.
+22 "But on that day I will set apart the land of Goshen, where My people are living, so that no swarms  of flies will be there, in order that you may know that I, the LORD, am in the midst of the land.
 23 "I will put a division between My people and your people. Tomorrow this sign will occur." 
 24 Then the LORD did so. And there came great swarms of flies into the house of Pharaoh and the  houses of his servants and the land was laid waste because of the swarms of flies in all the land of Egypt.
 25 Pharaoh called for Moses and Aaron and said, " Go, sacrifice to your God within the land." men 
@@ -245,7 +248,8 @@ Exodus 9 New American Standard Bible
 
 1 Then the LORD said to Moses, "Go to Pharaoh and speak to him, 'Thus says the LORD, the God of  the Hebrews, " Let My people go, that they may serve Me.
 2 "For if you refuse to let {them} go and continue to hold them, 
-3 behold, the hand of the LORD will come {with} a very severe pestilence on your livestock which are  in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks. 4" But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.'"" 
+3 behold, the hand of the LORD will come {with} a very severe pestilence on your livestock which are  in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks.
+4 "But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.'""
 5 The LORD set a definite time, saying, "Tomorrow the LORD will do this thing in the land." 
 6 So the LORD did this thing on the next day, and all the livestock of Egypt died; but of the livestock of  the sons of Israel, not one died.
 7 Pharaoh sent, and behold, there was not even one of the livestock of Israel dead. But the heart of  Pharaoh was hardened, and he did not let the people go.
@@ -272,8 +276,9 @@ Exodus 9 New American Standard Bible
 Exodus 9 New American Standard Bible 
 
 27 Then Pharaoh sent for Moses and Aaron, and said to them, " I have sinned this time; the LORD is the  righteous one, and I and my people are the wicked ones.
-28 " Make supplication to the LORD, for there has been enough of God's thunder and hail; and I will let  you go, and you shall stay no longer."
-29 Moses said to him, "As soon as I go out of the city, I will spread out my hands to the LORD; the  thunder will cease and there will be hail no longer, that you may know that the earth is the LORD'S. 30" But as for you and your servants, I know that you do not yet fear the LORD God." 
+28 "Make supplication to the LORD, for there has been enough of God's thunder and hail; and I will let  you go, and you shall stay no longer."
+29 Moses said to him, "As soon as I go out of the city, I will spread out my hands to the LORD; the  thunder will cease and there will be hail no longer, that you may know that the earth is the LORD'S.
+30 "But as for you and your servants, I know that you do not yet fear the LORD God."
 31 (Now the flax and the barley were ruined, for the barley was in the ear and the flax was in bud. 
 32 But the wheat and the spelt were not ruined, for they {ripen} late.) 
 33 So Moses went out of the city from Pharaoh, and spread out his hands to the LORD; and the thunder  and the hail ceased, and rain no longer poured on the earth.
@@ -309,7 +314,8 @@ Exodus 10 New American Standard Bible
 
 Exodus 10 New American Standard Bible 
 
-25 But Moses said, "You must also let us have sacrifices and burnt offerings, that we may sacrifice  {them} to the LORD our God. 26" Therefore, our livestock too shall go with us; not a hoof shall be left behind, for we shall take some of them to serve the LORD our God. And until we arrive there, we ourselves do not know with what we shall serve the LORD." 
+25 But Moses said, "You must also let us have sacrifices and burnt offerings, that we may sacrifice  {them} to the LORD our God.
+26 "Therefore, our livestock too shall go with us; not a hoof shall be left behind, for we shall take some of them to serve the LORD our God. And until we arrive there, we ourselves do not know with what we shall serve the LORD."
 27 But the LORD hardened Pharaoh's heart, and he was not willing to let them go. 
 28 Then Pharaoh said to him, " Get away from me! Beware, do not see my face again, for in the day you  see my face you shall die!"
 29 Moses said, "You are right; I shall never see your face again!" 
@@ -323,13 +329,14 @@ Exodus 11 New American Standard Bible
 5 and all the firstborn in the land of Egypt shall die, from the firstborn of the Pharaoh who sits on his  throne, even to the firstborn of the slave girl who is behind the millstones; all the firstborn of the cattle as well.
 6 'Moreover, there shall be a great cry in all the land of Egypt, such as there has not been {before} and  such as shall never be again.
 7 ' But against any of the sons of Israel a dog will not {even} bark, whether against man or beast, that  you may understand how the LORD makes a distinction between Egypt and Israel.'
-8 " All these your servants will come down to me and bow themselves before me, saying, 'Go out, you  and all the people who follow you,' and after that I will go out." And he went out from Pharaoh in hot anger.
+8 "All these your servants will come down to me and bow themselves before me, saying, 'Go out, you  and all the people who follow you,' and after that I will go out." And he went out from Pharaoh in hot anger.
 9 Then the LORD said to Moses, " Pharaoh will not listen to you, so that My wonders will be multiplied  in the land of Egypt."
 10 Moses and Aaron performed all these wonders before Pharaoh; yet the LORD hardened Pharaoh's  heart, and he did not let the sons of Israel go out of his land.
 
 Exodus 12 New American Standard Bible 
 
-1 Now the LORD said to Moses and Aaron in the land of Egypt, 2" This month shall be the beginning of months for you; it is to be the first month of the year to you. 
+1 Now the LORD said to Moses and Aaron in the land of Egypt,
+2 "This month shall be the beginning of months for you; it is to be the first month of the year to you.
 3 "Speak to all the congregation of Israel, saying, 'On the tenth of this month they are each one to take a  lamb for themselves, according to their fathers' households, a lamb for each household.
 4 'Now if the household is too small for a lamb, then he and his neighbor nearest to his house are to take  one according to the number of persons {in them;} according to what each man should eat, you are to divide the lamb.
 5 "Your lamb shall be an unblemished male a year old; you may take it from the sheep or from the goats. 
@@ -341,20 +348,22 @@ Exodus 12 New American Standard Bible
 11 'Now you shall eat it in this manner: {with} your loins girded, your sandals on your feet, and your  staff in your hand; and you shall eat it in haste--it is the LORD'S Passover.
 12 'For I will go through the land of Egypt on that night, and will strike down all the firstborn in the land  of Egypt, both man and beast; and against all the gods of Egypt I will execute judgments-- I am the LORD.
 13 ' The blood shall be a sign for you on the houses where you live; and when I see the blood I will pass  over you, and no plague will befall you to destroy {you} when I strike the land of Egypt.
-14 'Now this day will be a memorial to you, and you shall celebrate it {as} a feast to the LORD;  throughout your generations you are to celebrate it {as} a permanent ordinance. 15' Seven days you shall eat unleavened bread, but on the first day you shall remove leaven from your houses; for whoever eats anything leavened from the first day until the seventh day, that person shall be cut off from Israel. 
+14 'Now this day will be a memorial to you, and you shall celebrate it {as} a feast to the LORD;  throughout your generations you are to celebrate it {as} a permanent ordinance.
+15 ' Seven days you shall eat unleavened bread, but on the first day you shall remove leaven from your houses; for whoever eats anything leavened from the first day until the seventh day, that person shall be cut off from Israel.
 16 ' On the first day you shall have a holy assembly, and {another} holy assembly on the seventh day;  no work at all shall be done on them, except what must be eaten by every person, that alone may be prepared by you.
 17 'You shall also observe the {Feast of} Unleavened Bread, for on this very day I brought your hosts  out of the land of Egypt; therefore you shall observe this day throughout your generations as a permanent ordinance.
 18 ' In the first {month,} on the fourteenth day of the month at evening, you shall eat unleavened bread,  until the twenty-first day of the month at evening.
 19 ' Seven days there shall be no leaven found in your houses; for whoever eats what is leavened, that  person shall be cut off from the congregation of Israel, whether {he is} an alien or a native of the land.
 20 'You shall not eat anything leavened; in all your dwellings you shall eat unleavened bread.’ " 
 21 Then Moses called for all the elders of Israel and said to them, "Go and take for yourselves lambs  according to your families, and slay the Passover {lamb.}
-22 " You shall take a bunch of hyssop and dip it in the blood which is in the basin, and apply some of  the blood that is in the basin to the lintel and the two doorposts; and none of you shall go outside the door of his house until morning.
+22 "You shall take a bunch of hyssop and dip it in the blood which is in the basin, and apply some of  the blood that is in the basin to the lintel and the two doorposts; and none of you shall go outside the door of his house until morning.
 
 Exodus 12 New American Standard Bible 
 
 23 "For the LORD will pass through to smite the Egyptians; and when He sees the blood on the lintel  and on the two doorposts, the LORD will pass over the door and will not allow the destroyer to come in to your houses to smite {you.}
 24 "And you shall observe this event as an ordinance for you and your children forever. 
-25 "When you enter the land which the LORD will give you, as He has promised, you shall observe this  rite. 26" And when your children say to you, 'What does this rite mean to you?" 
+25 "When you enter the land which the LORD will give you, as He has promised, you shall observe this  rite.
+26 "And when your children say to you, 'What does this rite mean to you?"
 27 you shall say, 'It is a Passover sacrifice to the LORD who passed over the houses of the sons of Israel  in Egypt when He smote the Egyptians, but spared our homes.' " And the people bowed low and worshiped.
 28 Then the sons of Israel went and did {so;} just as the LORD had commanded Moses and Aaron, so  they did.
 29 Now it came about at midnight that the LORD struck all the firstborn in the land of Egypt, from the  firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of cattle.
@@ -372,29 +381,34 @@ Exodus 12 New American Standard Bible
 41 And at the end of four hundred and thirty years, to the very day, all the hosts of the LORD went out  from the land of Egypt.
 42 It is a night to be observed for the LORD for having brought them out from the land of Egypt; this  night is for the LORD, to be observed by all the sons of Israel throughout their generations.
 43 The LORD said to Moses and Aaron, "This is the ordinance of the Passover: no foreigner is to eat of  it;
-44 but every man's slave purchased with money, after you have circumcised him, then he may eat of it.  45" A sojourner or a hired servant shall not eat of it.
-46 "It is to be eaten in a single house; you are not to bring forth any of the flesh outside of the house, nor  are you to break any bone of it. 47" All the congregation of Israel are to celebrate this. 
+44 but every man's slave purchased with money, after you have circumcised him, then he may eat of it.
+45 "A sojourner or a hired servant shall not eat of it.
+46 "It is to be eaten in a single house; you are not to bring forth any of the flesh outside of the house, nor  are you to break any bone of it.
+47 "All the congregation of Israel are to celebrate this.
 
 Exodus 12 New American Standard Bible 
 
 48 "But if a stranger sojourns with you, and celebrates the Passover to the LORD, let all his males be  circumcised, and then let him come near to celebrate it; and he shall be like a native of the land. But no uncircumcised person may eat of it.
-49 " The same law shall apply to the native as to the stranger who sojourns among you." 
+49 "The same law shall apply to the native as to the stranger who sojourns among you." 
 50 Then all the sons of Israel did {so;} they did just as the LORD had commanded Moses and Aaron. 
 51 And on that same day the LORD brought the sons of Israel out of the land of Egypt by their hosts. 
 
 Exodus 13 New American Standard Bible 
 
-1 Then the LORD spoke to Moses, saying, 2" Sanctify to Me every firstborn, the first offspring of every womb among the sons of Israel, both of man and beast; it belongs to Me." 
+1 Then the LORD spoke to Moses, saying,
+2 "Sanctify to Me every firstborn, the first offspring of every womb among the sons of Israel, both of man and beast; it belongs to Me."
 3 Moses said to the people, " Remember this day in which you went out from Egypt, from the house of  slavery; for by a powerful hand the LORD brought you out from this place. And nothing leavened shall be eaten.
 4 "On this day in the month of Abib, you are about to go forth. 
 5 "It shall be when the LORD brings you to the land of the Canaanite, the Hittite, the Amorite, the  Hivite and the Jebusite, which He swore to your fathers to give you, a land flowing with milk and honey, that you shall observe this rite in this month.
 6 "For seven days you shall eat unleavened bread, and on the seventh day there shall be a feast to the  LORD.
-7 "Unleavened bread shall be eaten throughout the seven days; and nothing leavened shall be seen  among you, nor shall any leaven be seen among you in all your borders. 8" You shall tell your son on that day, saying, 'It is because of what the LORD did for me when I came out of Egypt.' 
+7 "Unleavened bread shall be eaten throughout the seven days; and nothing leavened shall be seen  among you, nor shall any leaven be seen among you in all your borders.
+8 "You shall tell your son on that day, saying, 'It is because of what the LORD did for me when I came out of Egypt.'
 9 "And it shall serve as a sign to you on your hand, and as a reminder on your forehead, that the law of  the LORD may be in your mouth; for with a powerful hand the LORD brought you out of Egypt.
 10 "Therefore, you shall keep this ordinance at its appointed time from year to year. 
 11 "Now when the LORD brings you to the land of the Canaanite, as He swore to you and to your  fathers, and gives it to you,
 12 you shall devote to the LORD the first offspring of every womb, and the first offspring of every beast  that you own; the males belong to the LORD.
-13 "But every first offspring of a donkey you shall redeem with a lamb, but if you do not redeem {it,}  then you shall break its neck; and every firstborn of man among your sons you shall redeem. 14" And it shall be when your son asks you in time to come, saying, 'What is this?’ then you shall say to him, ' With a powerful hand the LORD brought us out of Egypt, from the house of slavery. 
+13 "But every first offspring of a donkey you shall redeem with a lamb, but if you do not redeem {it,}  then you shall break its neck; and every firstborn of man among your sons you shall redeem.
+14 "And it shall be when your son asks you in time to come, saying, 'What is this?’ then you shall say to him, ' With a powerful hand the LORD brought us out of Egypt, from the house of slavery.
 15 'It came about, when Pharaoh was stubborn about letting us go, that the LORD killed every firstborn  in the land of Egypt, both the firstborn of man and the firstborn of beast. Therefore, I sacrifice to the LORD the males, the first offspring of every womb, but every firstborn of my sons I redeem.
 16 "So it shall serve as a sign on your hand and as phylacteries on your forehead, for with a powerful  hand the LORD brought us out of Egypt."
 17 Now when Pharaoh had let the people go, God did not lead them by the way of the land of the  Philistines, even though it was near; for God said, " The people might change their minds when they see war, and return to Egypt."
@@ -417,12 +431,13 @@ Exodus 14 New American Standard Bible
 9 Then the Egyptians chased after them {with} all the horses {and} chariots of Pharaoh, his horsemen  and his army, and they overtook them camping by the sea, beside Pi-hahiroth, in front of Baal-zephon.
 10 As Pharaoh drew near, the sons of Israel looked, and behold, the Egyptians were marching after  them, and they became very frightened; so the sons of Israel cried out to the LORD.
 11 Then they said to Moses, "Is it because there were no graves in Egypt that you have taken us away to  die in the wilderness? Why have you dealt with us in this way, bringing us out of Egypt?
-12 " Is this not the word that we spoke to you in Egypt, saying, 'Leave us alone that we may serve the  Egyptians'? For it would have been better for us to serve the Egyptians than to die in the wilderness."
-13 But Moses said to the people, " Do not fear! Stand by and see the salvation of the LORD which He  will accomplish for you today; for the Egyptians whom you have seen today, you will never see them again forever. 14" The LORD will fight for you while you keep silent." 
+12 "Is this not the word that we spoke to you in Egypt, saying, 'Leave us alone that we may serve the  Egyptians'? For it would have been better for us to serve the Egyptians than to die in the wilderness."
+13 But Moses said to the people, " Do not fear! Stand by and see the salvation of the LORD which He  will accomplish for you today; for the Egyptians whom you have seen today, you will never see them again forever.
+14 "The LORD will fight for you while you keep silent."
 15 Then the LORD said to Moses, "Why are you crying out to Me? Tell the sons of Israel to go forward. 
 16 "As for you, lift up your staff and stretch out your hand over the sea and divide it, and the sons of  Israel shall go through the midst of the sea on dry land.
 17 "As for Me, behold, I will harden the hearts of the Egyptians so that they will go in after them; and I  will be honored through Pharaoh and all his army, through his chariots and his horsemen.
-18 " Then the Egyptians will know that I am the LORD, when I am honored through Pharaoh, through  his chariots and his horsemen."
+18 "Then the Egyptians will know that I am the LORD, when I am honored through Pharaoh, through  his chariots and his horsemen."
 19 The angel of God, who had been going before the camp of Israel, moved and went behind them; and  the pillar of cloud moved from before them and stood behind them.
 20 So it came between the camp of Egypt and the camp of Israel; and there was the cloud along with the  darkness, yet it gave light at night. Thus the one did not come near the other all night.
 21 Then Moses stretched out his hand over the sea; and the LORD swept the sea {back} by a strong east  wind all night and turned the sea into dry land, so the waters were divided.
@@ -442,16 +457,24 @@ Exodus 14 New American Standard Bible
 
 Exodus 15 New American Standard Bible 
 
-1 Then Moses and the sons of Israel sang this song to the LORD, and said, " I will sing to the LORD, for  He is highly exalted; The horse and its rider He has hurled into the sea. 2" The LORD is my strength and song, And He has become my salvation; This is my God, and I will praise Him; My father's God, and I will extol Him. 
-3 " The LORD is a warrior; The LORD is His name. 4" Pharaoh's chariots and his army He has cast into the sea; And the choicest of his officers are drowned in the Red Sea. 
-5 "The deeps cover them; They went down into the depths like a stone. 6" Your right hand, O LORD, is majestic in power, Your right hand, O LORD, shatters the enemy. 
+1 Then Moses and the sons of Israel sang this song to the LORD, and said, " I will sing to the LORD, for  He is highly exalted; The horse and its rider He has hurled into the sea.
+2 "The LORD is my strength and song, And He has become my salvation; This is my God, and I will praise Him; My father's God, and I will extol Him.
+3 "The LORD is a warrior; The LORD is His name.
+4 "Pharaoh's chariots and his army He has cast into the sea; And the choicest of his officers are drowned in the Red Sea.
+5 "The deeps cover them; They went down into the depths like a stone.
+6 "Your right hand, O LORD, is majestic in power, Your right hand, O LORD, shatters the enemy.
 7 "And in the greatness of Your excellence You overthrow those who rise up against You; You send  forth Your burning anger, {and} it consumes them as chaff.
-8 " At the blast of Your nostrils the waters were piled up, The flowing waters stood up like a heap; The  deeps were congealed in the heart of the sea. 9" The enemy said, 'I will pursue, I will overtake, I will divide the spoil; My desire shall be gratified against them; I will draw out my sword, my hand will destroy them.' 10" You blew with Your wind, the sea covered them; They sank like lead in the mighty waters. 
-11 " Who is like You among the gods, O LORD? Who is like You, majestic in holiness, Awesome in  praises, working wonders? 12" You stretched out Your right hand, The earth swallowed them. 
-13 "In Your lovingkindness You have led the people whom You have redeemed; In Your strength You  have guided {them} to Your holy habitation. 14" The peoples have heard, they tremble; Anguish has gripped the inhabitants of Philistia. 
+8 "At the blast of Your nostrils the waters were piled up, The flowing waters stood up like a heap; The  deeps were congealed in the heart of the sea.
+9 "The enemy said, 'I will pursue, I will overtake, I will divide the spoil; My desire shall be gratified against them; I will draw out my sword, my hand will destroy them.'
+10 "You blew with Your wind, the sea covered them; They sank like lead in the mighty waters.
+11 "Who is like You among the gods, O LORD? Who is like You, majestic in holiness, Awesome in  praises, working wonders?
+12 "You stretched out Your right hand, The earth swallowed them.
+13 "In Your lovingkindness You have led the people whom You have redeemed; In Your strength You  have guided {them} to Your holy habitation.
+14 "The peoples have heard, they tremble; Anguish has gripped the inhabitants of Philistia.
 15 "Then the chiefs of Edom were dismayed; The leaders of Moab, trembling grips them; All the  inhabitants of Canaan have melted away.
-16 " Terror and dread fall upon them; By the greatness of Your arm they are motionless as stone; Until  Your people pass over, O LORD, Until the people pass over whom You have purchased.
-17 " You will bring them and plant them in the mountain of Your inheritance, The place, O LORD,  which You have made for Your dwelling, The sanctuary, O Lord, which Your hands have established. 18" The LORD shall reign forever and ever."
+16 "Terror and dread fall upon them; By the greatness of Your arm they are motionless as stone; Until  Your people pass over, O LORD, Until the people pass over whom You have purchased.
+17 "You will bring them and plant them in the mountain of Your inheritance, The place, O LORD,  which You have made for Your dwelling, The sanctuary, O Lord, which Your hands have established.
+18 "The LORD shall reign forever and ever."
 19 For the horses of Pharaoh with his chariots and his horsemen went into the sea, and the LORD  brought back the waters of the sea on them, but the sons of Israel walked on dry land through the midst of the sea.
 20 Miriam the prophetess, Aaron's sister, took the timbrel in her hand, and all the women went out after  her with timbrels and with dancing.
 21 Miriam answered them, " Sing to the LORD, for He is highly exalted; The horse and his rider He has  hurled into the sea."
@@ -470,14 +493,15 @@ Exodus 16 New American Standard Bible
 1 Then they set out from Elim, and all the congregation of the sons of Israel came to the wilderness of  Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departure from the land of Egypt.
 2 The whole congregation of the sons of Israel grumbled against Moses and Aaron in the wilderness. 
 3 The sons of Israel said to them, " Would that we had died by the LORD'S hand in the land of Egypt,  when we sat by the pots of meat, when we ate bread to the full; for you have brought us out into this wilderness to kill this whole assembly with hunger."
-4 Then the LORD said to Moses, "Behold, I will rain bread from heaven for you; and the people shall go  out and gather a day's portion every day, that I may test them, whether or not they will walk in My instruction. 5" On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily." 
+4 Then the LORD said to Moses, "Behold, I will rain bread from heaven for you; and the people shall go  out and gather a day's portion every day, that I may test them, whether or not they will walk in My instruction.
+5 "On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily."
 6 So Moses and Aaron said to all the sons of Israel, "At evening you will know that the LORD has  brought you out of the land of Egypt;
 7 and in the morning you will see the glory of the LORD, for He hears your grumblings against the  LORD; and what are we, that you grumble against us?"
 8 Moses said, "{This will happen} when the LORD gives you meat to eat in the evening, and bread to  the full in the morning; for the LORD hears your grumblings which you grumble against Him. And what are we? Your grumblings are not against us but against the LORD."
 9 Then Moses said to Aaron, "Say to all the congregation of the sons of Israel, ' Come near before the  LORD, for He has heard your grumblings.'"
 10 It came about as Aaron spoke to the whole congregation of the sons of Israel, that they looked toward  the wilderness, and behold, the glory of the LORD appeared in the cloud.
 11 And the LORD spoke to Moses, saying, 
-12 " I have heard the grumblings of the sons of Israel; speak to them, saying, 'At twilight you shall eat  meat, and in the morning you shall be filled with bread; and you shall know that I am the LORD your God.'"
+12 "I have heard the grumblings of the sons of Israel; speak to them, saying, 'At twilight you shall eat  meat, and in the morning you shall be filled with bread; and you shall know that I am the LORD your God.'"
 13 So it came about at evening that the quails came up and covered the camp, and in the morning there  was a layer of dew around the camp.
 14 When the layer of dew evaporated, behold, on the surface of the wilderness there was a fine flake-  like thing, fine as the frost on the ground.
 15 When the sons of Israel saw {it,} they said to one another, "What is it?" For they did not know what  it was. And Moses said to them, " It is the bread which the LORD has given you to eat.
@@ -494,7 +518,7 @@ Exodus 16 New American Standard Bible
 
 24 So they put it aside until morning, as Moses had ordered, and it did not become foul nor was there  any worm in it.
 25 Moses said, "Eat it today, for today is a sabbath to the LORD; today you will not find it in the field. 
-26 " Six days you shall gather it, but on the seventh day, {the} sabbath, there will be none." 
+26 "Six days you shall gather it, but on the seventh day, {the} sabbath, there will be none." 
 27 It came about on the seventh day that some of the people went out to gather, but they found none. 
 28 Then the LORD said to Moses, " How long do you refuse to keep My commandments and My  instructions?
 29 "See, the LORD has given you the sabbath; therefore He gives you bread for two days on the sixth  day. Remain every man in his place; let no man go out of his place on the seventh day."
@@ -543,7 +567,8 @@ Exodus 18 New American Standard Bible
 14 Now when Moses' father-in-law saw all that he was doing for the people, he said, "What is this thing  that you are doing for the people? Why do you alone sit {as judge} and all the people stand about you from morning until evening?"
 15 Moses said to his father-in-law, "Because the people come to me to inquire of God. 
 16 "When they have a dispute, it comes to me, and I judge between a man and his neighbor and make  known the statutes of God and His laws."
-17 Moses' father-in-law said to him, "The thing that you are doing is not good. 18" You will surely wear out, both yourself and these people who are with you, for the task is too heavy for you; you cannot do it alone. 
+17 Moses' father-in-law said to him, "The thing that you are doing is not good.
+18 "You will surely wear out, both yourself and these people who are with you, for the task is too heavy for you; you cannot do it alone.
 19 "Now listen to me: I will give you counsel, and God be with you. You be the people's representative  before God, and you bring the disputes to God,
 20 then teach them the statutes and the laws, and make known to them the way in which they are to walk  and the work they are to do.
 21 "Furthermore, you shall select out of all the people able men who fear God, men of truth, those who  hate dishonest gain; and you shall place {these} over them {as} leaders of thousands, of hundreds, of fifties and of tens.
@@ -561,7 +586,8 @@ Exodus 19 New American Standard Bible
 
 1 In the third month after the sons of Israel had gone out of the land of Egypt, on that very day they  came into the wilderness of Sinai.
 2 When they set out from Rephidim, they came to the wilderness of Sinai and camped in the wilderness;  and there Israel camped in front of the mountain.
-3 Moses went up to God, and the LORD called to him from the mountain, saying, "Thus you shall say to  the house of Jacob and tell the sons of Israel: 4' You yourselves have seen what I did to the Egyptians, and {how} I bore you on eagles' wings, and brought you to Myself. 
+3 Moses went up to God, and the LORD called to him from the mountain, saying, "Thus you shall say to  the house of Jacob and tell the sons of Israel:
+4 ' You yourselves have seen what I did to the Egyptians, and {how} I bore you on eagles' wings, and brought you to Myself.
 5 'Now then, if you will indeed obey My voice and keep My covenant, then you shall be My own  possession among all the peoples, for all the earth is Mine;
 6 and you shall be to Me a kingdom of priests and a holy nation.' These are the words that you shall  speak to the sons of Israel."
 7 So Moses came and called the elders of the people, and set before them all these words which the  LORD had commanded him.
@@ -590,15 +616,22 @@ Exodus 19 New American Standard Bible
 Exodus 20 New American Standard Bible 
 
 1 Then God spoke all these words, saying, 
-2 "Tam the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. 3" You shall have no other gods before Me. 4" You shall not make for yourself an idol, or any likeness of what is in heaven above or on the earth beneath or in the water under the earth. 5" You shall not worship them or serve them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and the fourth generations of those who hate Me, 
+2 "Tam the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+3 "You shall have no other gods before Me.
+4 "You shall not make for yourself an idol, or any likeness of what is in heaven above or on the earth beneath or in the water under the earth.
+5 "You shall not worship them or serve them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and the fourth generations of those who hate Me,
 6 but showing lovingkindness to thousands, to those who love Me and keep My commandments. 
-7 " You shall not take the name of the LORD your God in vain, for the LORD will not leave him  unpunished who takes His name in vain.
-8 "Remember the sabbath day, to keep it holy. 9" Six days you shall labor and do all your work, 
+7 "You shall not take the name of the LORD your God in vain, for the LORD will not leave him  unpunished who takes His name in vain.
+8 "Remember the sabbath day, to keep it holy.
+9 "Six days you shall labor and do all your work,
 10 but the seventh day is a sabbath of the LORD your God; {in it} you shall not do any work, you or  your son or your daughter, your male or your female servant or your cattle or your sojourner who stays with you.
-11 " For in six days the LORD made the heavens and the earth, the sea and all that is in them, and rested  on the seventh day; therefore the LORD blessed the sabbath day and made it holy.
-12 " Honor your father and your mother, that your days may be prolonged in the land which the LORD  your God gives you.
-13 " You shall not murder. 14" You shall not commit adultery. 15" You shall not steal. 16" You shall not bear false witness against your neighbor. 
-17 " You shall not covet your neighbor's house; you shall not covet your neighbor's wife or his male  servant or his female servant or his ox or his donkey or anything that belongs to your neighbor."
+11 "For in six days the LORD made the heavens and the earth, the sea and all that is in them, and rested  on the seventh day; therefore the LORD blessed the sabbath day and made it holy.
+12 "Honor your father and your mother, that your days may be prolonged in the land which the LORD  your God gives you.
+13 "You shall not murder.
+14 "You shall not commit adultery.
+15 "You shall not steal.
+16 "You shall not bear false witness against your neighbor.
+17 "You shall not covet your neighbor's house; you shall not covet your neighbor's wife or his male  servant or his female servant or his ox or his donkey or anything that belongs to your neighbor."
 18 All the people perceived the thunder and the lightning flashes and the sound of the trumpet and the  mountain smoking; and when the people saw {it,} they trembled and stood at a distance.
 19 Then they said to Moses, "Speak to us yourself and we will listen; but let not God speak to us, or we  will die."
 20 Moses said to the people, " Do not be afraid; for God has come in order to test you, and in order that  the fear of Him may remain with you, so that you may not sin."
@@ -616,15 +649,18 @@ Exodus 21 New American Standard Bible
 3 "If he comes alone, he shall go out alone; if he is the husband of a wife, then his wife shall go out with  him.
 4 "If his master gives him a wife, and she bears him sons or daughters, the wife and her children shall  belong to her master, and he shall go out alone.
 5 "But if the slave plainly says, 'I love my master, my wife and my children; I will not go out as a free  man,’
-6 then his master shall bring him to God, then he shall bring him to the door or the doorpost. And his  master shall pierce his ear with an awl; and he shall serve him permanently. 7" Ifa man sells his daughter as a female slave, she is not to go free as the male slaves do. 
+6 then his master shall bring him to God, then he shall bring him to the door or the doorpost. And his  master shall pierce his ear with an awl; and he shall serve him permanently.
+7 "Ifa man sells his daughter as a female slave, she is not to go free as the male slaves do.
 8 "If she is displeasing in the eyes of her master who designated her for himself, then he shall let her be  redeemed. He does not have authority to sell her to a foreign people because of his unfairness to her.
 9 "If he designates her for his son, he shall deal with her according to the custom of daughters. 
 10 "If he takes to himself another woman, he may not reduce her food, her clothing, or her conjugal  rights.
-11 "If he will not do these three {things} for her, then she shall go out for nothing, without {payment of}  money. 12" He who strikes a man so that he dies shall surely be put to death. 
-13 " But if he did not lie in wait {for him,} but God let {him} fall into his hand, then I will appoint you a  place to which he may flee.
-14 " If, however, a man acts presumptuously toward his neighbor, so as to kill him craftily, you are to  take him {even} from My altar, that he may die.
+11 "If he will not do these three {things} for her, then she shall go out for nothing, without {payment of}  money.
+12 "He who strikes a man so that he dies shall surely be put to death.
+13 "But if he did not lie in wait {for him,} but God let {him} fall into his hand, then I will appoint you a  place to which he may flee.
+14 "If, however, a man acts presumptuously toward his neighbor, so as to kill him craftily, you are to  take him {even} from My altar, that he may die.
 15 "He who strikes his father or his mother shall surely be put to death. 
-16 " He who kidnaps a man, whether he sells him or he is found in his possession, shall surely be put to  death. 17" He who curses his father or his mother shall surely be put to death. 
+16 "He who kidnaps a man, whether he sells him or he is found in his possession, shall surely be put to  death.
+17 "He who curses his father or his mother shall surely be put to death.
 18 "If men have a quarrel and one strikes the other with a stone or with {his} fist, and he does not die  but remains in bed,
 19 if he gets up and walks around outside on his staff, then he who struck him shall go unpunished; he  shall only pay for his loss of time, and shall take care of him until he is completely healed.
 20 "If a man strikes his male or female slave with a rod and he dies at his hand, he shall be punished. 
@@ -655,7 +691,8 @@ Exodus 22 New American Standard Bible
 3 "{But} if the sun has risen on him, there will be bloodguiltiness on his account. He shall surely make  restitution; if he owns nothing, then he shall be sold for his theft.
 4 "If what he stole is actually found alive in his possession, whether an ox or a donkey or a sheep, he  shall pay double.
 5 "If a man lets a field or vineyard be grazed {bare} and lets his animal loose so that it grazes in another  man's field, he shall make restitution from the best of his own field and the best of his own vineyard.
-6 "If a fire breaks out and spreads to thorn bushes, so that stacked grain or the standing grain or the field  {itself} is consumed, he who started the fire shall surely make restitution. 7" If a man gives his neighbor money or goods to keep {for him} and it is stolen from the man's house, if the thief is caught, he shall pay double. 
+6 "If a fire breaks out and spreads to thorn bushes, so that stacked grain or the standing grain or the field  {itself} is consumed, he who started the fire shall surely make restitution.
+7 "If a man gives his neighbor money or goods to keep {for him} and it is stolen from the man's house, if the thief is caught, he shall pay double.
 8 "If the thief is not caught, then the owner of the house shall appear before the judges, {to} determine  whether he laid his hands on his neighbor's property.
 9 "For every breach of trust, {whether it is} for ox, for donkey, for sheep, for clothing, {or} for any lost  thing about which one says, "This is it,' the case of both parties shall come before the judges; he whom the judges condemn shall pay double to his neighbor.
 10 "If a man gives his neighbor a donkey, an ox, a sheep, or any animal to keep {for him,} and it dies or  is hurt or is driven away while no one is looking,
@@ -664,53 +701,64 @@ Exodus 22 New American Standard Bible
 13 "If it is all torn to pieces, let him bring it as evidence; he shall not make restitution for what has been  torn to pieces.
 14 "If a man borrows {anything} from his neighbor, and it is injured or dies while its owner is not with  it, he shall make full restitution.
 15 "If its owner is with it, he shall not make restitution; if it is hired, it came for its hire. 
-16 " Ifa man seduces a virgin who is not engaged, and lies with her, he must pay a dowry for her {to  be} his wife.
+16 "Ifa man seduces a virgin who is not engaged, and lies with her, he must pay a dowry for her {to  be} his wife.
 17 "If her father absolutely refuses to give her to him, he shall pay money equal to the dowry for virgins. 
 18 "You shall not allow a sorceress to live. 
-19 " Whoever lies with an animal shall surely be put to death. 
-20 " He who sacrifices to any god, other than to the LORD alone, shall be utterly destroyed. 21" You shall not wrong a stranger or oppress him, for you were strangers in the land of Egypt. 22" You shall not afflict any widow or orphan. 
+19 "Whoever lies with an animal shall surely be put to death. 
+20 "He who sacrifices to any god, other than to the LORD alone, shall be utterly destroyed.
+21 "You shall not wrong a stranger or oppress him, for you were strangers in the land of Egypt.
+22 "You shall not afflict any widow or orphan.
 23 "If you afflict him at all, {and} if he does cry out to Me, I will surely hear his cry; 
-24 and My anger will be kindled, and I will kill you with the sword, and your wives shall become  widows and your children fatherless. 25" If you lend money to My people, to the poor among you, you are not to act as a creditor to him; you shall not charge him interest. 
+24 and My anger will be kindled, and I will kill you with the sword, and your wives shall become  widows and your children fatherless.
+25 "If you lend money to My people, to the poor among you, you are not to act as a creditor to him; you shall not charge him interest.
 26 "If you ever take your neighbor's cloak as a pledge, you are to return it to him before the sun sets, 
 27 for that is his only covering; it is his cloak for his body. What else shall he sleep in? And it shall  come about that when he cries out to Me, I will hear {him,} for I am gracious.
 28 "You shall not curse God, nor curse a ruler of your people. 
-29 " You shall not delay {the offering from} your harvest and your vintage. The firstborn of your sons  you shall give to Me.
+29 "You shall not delay {the offering from} your harvest and your vintage. The firstborn of your sons  you shall give to Me.
 
 Exodus 22 New American Standard Bible 
 
-30 " You shall do the same with your oxen {and} with your sheep. It shall be with its mother seven  days; on the eighth day you shall give it to Me.
-31 " You shall be holy men to Me, therefore you shall not eat {any} flesh torn to pieces in the field; you  shall throw it to the dogs.
+30 "You shall do the same with your oxen {and} with your sheep. It shall be with its mother seven  days; on the eighth day you shall give it to Me.
+31 "You shall be holy men to Me, therefore you shall not eat {any} flesh torn to pieces in the field; you  shall throw it to the dogs.
 
 Exodus 23 New American Standard Bible 
 
 1" You shall not bear a false report; do not join your hand with a wicked man to be a malicious witness. 
 2 "You shall not follow the masses in doing evil, nor shall you testify in a dispute so as to turn aside  after a multitude in order to pervert {justice;}
-3 nor shall you be partial to a poor man in his dispute. 4" If you meet your enemy's ox or his donkey wandering away, you shall surely return it to him. 
-5 "If you see the donkey of one who hates you lying {helpless} under its load, you shall refrain from  leaving it to him, you shall surely release {it} with him. 6" You shall not pervert the justice {due} to your needy {brother} in his dispute. 
-7 " Keep far from a false charge, and do not kill the innocent or the righteous, for I will not acquit the  guilty. 8" You shall not take a bribe, for a bribe blinds the clear-sighted and subverts the cause of the just. 9" You shall not oppress a stranger, since you yourselves know the feelings of a stranger, for you {also} were strangers in the land of Egypt. 10" You shall sow your land for six years and gather in its yield, 
+3 nor shall you be partial to a poor man in his dispute.
+4 "If you meet your enemy's ox or his donkey wandering away, you shall surely return it to him.
+5 "If you see the donkey of one who hates you lying {helpless} under its load, you shall refrain from  leaving it to him, you shall surely release {it} with him.
+6 "You shall not pervert the justice {due} to your needy {brother} in his dispute.
+7 "Keep far from a false charge, and do not kill the innocent or the righteous, for I will not acquit the  guilty.
+8 "You shall not take a bribe, for a bribe blinds the clear-sighted and subverts the cause of the just.
+9 "You shall not oppress a stranger, since you yourselves know the feelings of a stranger, for you {also} were strangers in the land of Egypt.
+10 "You shall sow your land for six years and gather in its yield,
 11 but {on} the seventh year you shall let it rest and lie fallow, so that the needy of your people may eat;  and whatever they leave the beast of the field may eat. You are to do the same with your vineyard {and} your olive grove.
-12 " Six days you are to do your work, but on the seventh day you shall cease {from labor} so that your  ox and your donkey may rest, and the son of your female slave, as well as your stranger, may refresh themselves.
-13 "Now concerning everything which I have said to you, be on your guard; and do not mention the  name of other gods, nor let {them} be heard from your mouth. 14" Three times a year you shall celebrate a feast to Me. 
+12 "Six days you are to do your work, but on the seventh day you shall cease {from labor} so that your  ox and your donkey may rest, and the son of your female slave, as well as your stranger, may refresh themselves.
+13 "Now concerning everything which I have said to you, be on your guard; and do not mention the  name of other gods, nor let {them} be heard from your mouth.
+14 "Three times a year you shall celebrate a feast to Me.
 15 "You shall observe the Feast of Unleavened Bread; for seven days you are to eat unleavened bread,  as I commanded you, at the appointed time in the month Abib, for in it you came out of Egypt. And none shall appear before Me empty-handed.
-16 "Also {you shall observe} the Feast of the Harvest {of} the first fruits of your labors {from} what  you sow in the field; also the Feast of the Ingathering at the end of the year when you gather in {the fruit of} your labors from the field. 17" Three times a year all your males shall appear before the Lord GOD. 
-18 " You shall not offer the blood of My sacrifice with leavened bread; nor is the fat of My feast to  remain overnight until morning.
+16 "Also {you shall observe} the Feast of the Harvest {of} the first fruits of your labors {from} what  you sow in the field; also the Feast of the Ingathering at the end of the year when you gather in {the fruit of} your labors from the field.
+17 "Three times a year all your males shall appear before the Lord GOD.
+18 "You shall not offer the blood of My sacrifice with leavened bread; nor is the fat of My feast to  remain overnight until morning.
 19 "You shall bring the choice first fruits of your soil into the house of the LORD your God. " You are  not to boil a young goat in the milk of its mother.
 20 "Behold, I am going to send an angel before you to guard you along the way and to bring you into the  place which I have prepared.
 21 "Be on your guard before him and obey his voice; do not be rebellious toward him, for he will not  pardon your transgression, since My name is in him.
 22 "But if you truly obey his voice and do all that I say, then I will be an enemy to your enemies and an  adversary to your adversaries.
-23 " For My angel will go before you and bring you in to {the land of} the Amorites, the Hittites, the  Perizzites, the Canaanites, the Hivites and the Jebusites; and I will completely destroy them.
-24 " You shall not worship their gods, nor serve them, nor do according to their deeds; but you shall  utterly overthrow them and break their {sacred} pillars in pieces.
-25 " But you shall serve the LORD your God, and He will bless your bread and your water; and I will  remove sickness from your midst.
+23 "For My angel will go before you and bring you in to {the land of} the Amorites, the Hittites, the  Perizzites, the Canaanites, the Hivites and the Jebusites; and I will completely destroy them.
+24 "You shall not worship their gods, nor serve them, nor do according to their deeds; but you shall  utterly overthrow them and break their {sacred} pillars in pieces.
+25 "But you shall serve the LORD your God, and He will bless your bread and your water; and I will  remove sickness from your midst.
 26 "There shall be no one miscarrying or barren in your land; I will fulfill the number of your days. 
 
 Exodus 23 New American Standard Bible 
 
 27 "I will send My terror ahead of you, and throw into confusion all the people among whom you come,  and I will make all your enemies turn {their} backs to you.
 28 "I will send hornets ahead of you so that they will drive out the Hivites, the Canaanites, and the  Hittites before you.
-29 " I will not drive them out before you in a single year, that the land may not become desolate and the  beasts of the field become too numerous for you.
+29 "I will not drive them out before you in a single year, that the land may not become desolate and the  beasts of the field become too numerous for you.
 30 "I will drive them out before you little by little, until you become fruitful and take possession of the  land.
-31 " I will fix your boundary from the Red Sea to the sea of the Philistines, and from the wilderness to  the River {Euphrates;} for I will deliver the inhabitants of the land into your hand, and you will drive them out before you. 32" You shall make no covenant with them or with their gods. 
-33 " They shall not live in your land, because they will make you sin against Me; for {if} you serve their  gods, it will surely be a snare to you."
+31 "I will fix your boundary from the Red Sea to the sea of the Philistines, and from the wilderness to  the River {Euphrates;} for I will deliver the inhabitants of the land into your hand, and you will drive them out before you.
+32 "You shall make no covenant with them or with their gods.
+33 "They shall not live in your land, because they will make you sin against Me; for {if} you serve their  gods, it will surely be a snare to you."
 
 Exodus 24 New American Standard Bible 
 
@@ -736,14 +784,15 @@ Exodus 24 New American Standard Bible
 Exodus 25 New American Standard Bible 
 
 1 Then the LORD spoke to Moses, saying, 
-2 " Tell the sons of Israel to raise a contribution for Me; from every man whose heart moves him you  shall raise My contribution.
+2 "Tell the sons of Israel to raise a contribution for Me; from every man whose heart moves him you  shall raise My contribution.
 3 "This is the contribution which you are to raise from them: gold, silver and bronze, 
 4 blue, purple and scarlet {material,} fine linen, goat {hair, } 
 5 rams' skins dyed red, porpoise skins, acacia wood, 
 6 oil for lighting, spices for the anointing oil and for the fragrant incense, 
 7 onyx stones and setting stones for the ephod and for the breastpiece. 
-8 "Let them construct a sanctuary for Me, that I may dwell among them. 9" According to all that I am going to show you, {as} the pattern of the tabernacle and the pattern of all its furniture, just so you shall construct {it.} 
-10 " They shall construct an ark of acacia wood two and a half cubits long, and one and a half cubits  wide, and one and a half cubits high.
+8 "Let them construct a sanctuary for Me, that I may dwell among them.
+9 "According to all that I am going to show you, {as} the pattern of the tabernacle and the pattern of all its furniture, just so you shall construct {it.}
+10 "They shall construct an ark of acacia wood two and a half cubits long, and one and a half cubits  wide, and one and a half cubits high.
 11 "You shall overlay it with pure gold, inside and out you shall overlay it, and you shall make a gold  molding around it.
 12 "You shall cast four gold rings for it and fasten them on its four feet, and two rings shall be on one  side of it and two rings on the other side of it.
 13 "You shall make poles of acacia wood and overlay them with gold. 
@@ -753,32 +802,34 @@ Exodus 25 New American Standard Bible
 17 "You shall make a mercy seat of pure gold, two and a half cubits long and one and a half cubits wide. 
 18 "You shall make two cherubim of gold, make them of hammered work at the two ends of the mercy  seat.
 19 "Make one cherub at one end and one cherub at the other end; you shall make the cherubim {of one  piece} with the mercy seat at its two ends.
-20 " The cherubim shall have {their} wings spread upward, covering the mercy seat with their wings  and facing one another; the faces of the cherubim are to be {turned} toward the mercy seat.
-21 " You shall put the mercy seat on top of the ark, and in the ark you shall put the testimony which I  will give to you.
-22 " There I will meet with you; and from above the mercy seat, from between the two cherubim which  are upon the ark of the testimony, I will speak to you about all that I will give you in commandment for the sons of Israel.
-23 " You shall make a table of acacia wood, two cubits long and one cubit wide and one and a half  cubits high.
+20 "The cherubim shall have {their} wings spread upward, covering the mercy seat with their wings  and facing one another; the faces of the cherubim are to be {turned} toward the mercy seat.
+21 "You shall put the mercy seat on top of the ark, and in the ark you shall put the testimony which I  will give to you.
+22 "There I will meet with you; and from above the mercy seat, from between the two cherubim which  are upon the ark of the testimony, I will speak to you about all that I will give you in commandment for the sons of Israel.
+23 "You shall make a table of acacia wood, two cubits long and one cubit wide and one and a half  cubits high.
 24 "You shall overlay it with pure gold and make a gold border around it. 
 25 "You shall make for it a rim of a handbreadth around {it;} and you shall make a gold border for the  rim around it.
 26 "You shall make four gold rings for it and put rings on the four corners which are on its four feet. 
 27 "The rings shall be close to the rim as holders for the poles to carry the table. 
 28 "You shall make the poles of acacia wood and overlay them with gold, so that with them the table  may be carried.
 29 "You shall make its dishes and its pans and its jars and its bowls with which to pour drink offerings;  you shall make them of pure gold.
-30 "You shall set the bread of the Presence on the table before Me at all times. 31" Then you shall make a lampstand of pure gold. The lampstand {and} its base and its shaft are to be made of hammered work; its cups, its bulbs and its flowers shall be {of one piece} with it. 
+30 "You shall set the bread of the Presence on the table before Me at all times.
+31 "Then you shall make a lampstand of pure gold. The lampstand {and} its base and its shaft are to be made of hammered work; its cups, its bulbs and its flowers shall be {of one piece} with it.
 
 Exodus 25 New American Standard Bible 
 
-32 " Six branches shall go out from its sides; three branches of the lampstand from its one side and three  branches of the lampstand from its other side.
-33 " Three cups {shall be} shaped like almond {blossoms} in the one branch, a bulb and a flower, and  three cups shaped like almond {blossoms} in the other branch, a bulb and a flower--so for six branches going out from the lampstand;
-34 and in the lampstand four cups shaped like almond {blossoms,} its bulbs and its flowers. 35" A bulb shall be under the {first} pair of branches {coming} out of it, and a bulb under the {second} pair of branches {coming} out of it, and a bulb under the {third} pair of branches {coming} out of it, for the six branches coming out of the lampstand. 
-36 " Their bulbs and their branches {shall be of one piece} with it; all of it shall be one piece of  hammered work of pure gold.
+32 "Six branches shall go out from its sides; three branches of the lampstand from its one side and three  branches of the lampstand from its other side.
+33 "Three cups {shall be} shaped like almond {blossoms} in the one branch, a bulb and a flower, and  three cups shaped like almond {blossoms} in the other branch, a bulb and a flower--so for six branches going out from the lampstand;
+34 and in the lampstand four cups shaped like almond {blossoms,} its bulbs and its flowers.
+35 "A bulb shall be under the {first} pair of branches {coming} out of it, and a bulb under the {second} pair of branches {coming} out of it, and a bulb under the {third} pair of branches {coming} out of it, for the six branches coming out of the lampstand.
+36 "Their bulbs and their branches {shall be of one piece} with it; all of it shall be one piece of  hammered work of pure gold.
 37 "Then you shall make its lamps seven {in number;} and they shall mount its lamps so as to shed light  on the space in front of it.
 38 "Its snuffers and their trays {shall be} of pure gold. 
 39 "It shall be made from a talent of pure gold, with all these utensils. 
-40 " See that you make {them} after the pattern for them, which was shown to you on the mountain. 
+40 "See that you make {them} after the pattern for them, which was shown to you on the mountain. 
 
 Exodus 26 New American Standard Bible 
 
-1 " Moreover you shall make the tabernacle with ten curtains of fine twisted linen and blue and purple  and scarlet {material;} you shall make them with cherubim, the work of a skillful workman.
+1 "Moreover you shall make the tabernacle with ten curtains of fine twisted linen and blue and purple  and scarlet {material;} you shall make them with cherubim, the work of a skillful workman.
 2 "The length of each curtain shall be twenty-eight cubits, and the width of each curtain four cubits; all  the curtains shall have the same measurements.
 3 "Five curtains shall be joined to one another, and {the other} five curtains {shall be} joined to one  another.
 4 "You shall make loops of blue on the edge of the outermost curtain in the {first} set, and likewise you  shall make {them} on the edge of the curtain that is outermost in the second set.
@@ -790,7 +841,8 @@ Exodus 26 New American Standard Bible
 10 "You shall make fifty loops on the edge of the curtain that is outermost in the {first} set, and fifty  loops on the edge of the curtain {that is outermost in} the second set.
 11 "You shall make fifty clasps of bronze, and you shall put the clasps into the loops and join the tent  together so that it will be a unit.
 12 "The overlapping part that is left over in the curtains of the tent, the half curtain that is left over, shall  lap over the back of the tabernacle.
-13 "The cubit on one side and the cubit on the other, of what is left over in the length of the curtains of  the tent, shall lap over the sides of the tabernacle on one side and on the other, to cover it. 14" You shall make a covering for the tent of rams' skins dyed red and a covering of porpoise skins above. 
+13 "The cubit on one side and the cubit on the other, of what is left over in the length of the curtains of  the tent, shall lap over the sides of the tabernacle on one side and on the other, to cover it.
+14 "You shall make a covering for the tent of rams' skins dyed red and a covering of porpoise skins above.
 15 "Then you shall make the boards for the tabernacle of acacia wood, standing upright. 
 16 "Ten cubits {shall be} the length of each board and one and a half cubits the width of each board. 
 17 "{There shall be} two tenons for each board, fitted to one another; thus you shall do for all the boards  of the tabernacle.
@@ -812,16 +864,18 @@ Exodus 26 New American Standard Bible
 30 "Then you shall erect the tabernacle according to its plan which you have been shown in the  mountain.
 31 "You shall make a veil of blue and purple and scarlet {material} and fine twisted linen; it shall be  made with cherubim, the work of a skillful workman.
 32 "You shall hang it on four pillars of acacia overlaid with gold, their hooks {also being of} gold, on  four sockets of silver.
-33 "You shall hang up the veil under the clasps, and shall bring in the ark of the testimony there within  the veil; and the veil shall serve for you as a partition between the holy place and the holy of holies. 34" You shall put the mercy seat on the ark of the testimony in the holy of holies. 
-35 " You shall set the table outside the veil, and the lampstand opposite the table on the side of the  tabernacle toward the south; and you shall put the table on the north side.
-36 " You shall make a screen for the doorway of the tent of blue and purple and scarlet {material} and  fine twisted linen, the work of a weaver.
-37 " You shall make five pillars of acacia for the screen and overlay them with gold, their hooks {also  being of} gold; and you shall cast five sockets of bronze for them.
+33 "You shall hang up the veil under the clasps, and shall bring in the ark of the testimony there within  the veil; and the veil shall serve for you as a partition between the holy place and the holy of holies.
+34 "You shall put the mercy seat on the ark of the testimony in the holy of holies.
+35 "You shall set the table outside the veil, and the lampstand opposite the table on the side of the  tabernacle toward the south; and you shall put the table on the north side.
+36 "You shall make a screen for the doorway of the tent of blue and purple and scarlet {material} and  fine twisted linen, the work of a weaver.
+37 "You shall make five pillars of acacia for the screen and overlay them with gold, their hooks {also  being of} gold; and you shall cast five sockets of bronze for them.
 
 Exodus 27 New American Standard Bible 
 
 1 "And you shall make the altar of acacia wood, five cubits long and five cubits wide; the altar shall be  square, and its height shall be three cubits.
 2 "You shall make its horns on its four corners; its horns shall be of one piece with it, and you shall  overlay it with bronze.
-3 "You shall make its pails for removing its ashes, and its shovels and its basins and its forks and its  firepans; you shall make all its utensils of bronze. 4"You shall make for it a grating of network of bronze, and on the net you shall make four bronze rings at its four corners. 
+3 "You shall make its pails for removing its ashes, and its shovels and its basins and its forks and its  firepans; you shall make all its utensils of bronze.
+4 "You shall make for it a grating of network of bronze, and on the net you shall make four bronze rings at its four corners.
 5 "You shall put it beneath, under the ledge of the altar, so that the net will reach halfway up the altar. 
 6 "You shall make poles for the altar, poles of acacia wood, and overlay them with bronze. 
 7 "Its poles shall be inserted into the rings, so that the poles shall be on the two sides of the altar when it  is carried.
@@ -854,8 +908,9 @@ Exodus 28 New American Standard Bible
 10 six of their names on the one stone and the names of the remaining six on the other stone, according  to their birth.
 11 "As a jeweler engraves a signet, you shall engrave the two stones according to the names of the sons  of Israel; you shall set them in filigree {settings} of gold.
 12 "You shall put the two stones on the shoulder pieces of the ephod, {as} stones of memorial for the  sons of Israel, and Aaron shall bear their names before the LORD on his two shoulders for a memorial.
-13 " You shall make filigree {settings} of gold, 
-14 and two chains of pure gold; you shall make them of twisted cordage work, and you shall put the  corded chains on the filigree {settings.} 15" You shall make a breastpiece of judgment, the work of a skillful workman; like the work of the ephod you shall make it: of gold, of blue and purple and scarlet {material} and fine twisted linen you shall make it. 
+13 "You shall make filigree {settings} of gold, 
+14 and two chains of pure gold; you shall make them of twisted cordage work, and you shall put the  corded chains on the filigree {settings.}
+15 "You shall make a breastpiece of judgment, the work of a skillful workman; like the work of the ephod you shall make it: of gold, of blue and purple and scarlet {material} and fine twisted linen you shall make it.
 16 "It shall be square {and} folded double, a span in length and a span in width. 
 17 "You shall mount on it four rows of stones; the first row {shall be} a row of ruby, topaz and emerald; 
 18 and the second row a turquoise, a sapphire and a diamond; 
@@ -873,7 +928,8 @@ Exodus 28 New American Standard Bible
 Exodus 28 New American Standard Bible 
 
 29 "Aaron shall carry the names of the sons of Israel in the breastpiece of judgment over his heart when  he enters the holy place, for a memorial before the LORD continually.
-30 " You shall put in the breastpiece of judgment the Urim and the Thummim, and they shall be over  Aaron's heart when he goes in before the LORD; and Aaron shall carry the judgment of the sons of Israel over his heart before the LORD continually. 31" You shall make the robe of the ephod all of blue. 
+30 "You shall put in the breastpiece of judgment the Urim and the Thummim, and they shall be over  Aaron's heart when he goes in before the LORD; and Aaron shall carry the judgment of the sons of Israel over his heart before the LORD continually.
+31 "You shall make the robe of the ephod all of blue.
 32 "There shall be an opening at its top in the middle of it; around its opening there shall be a binding of  woven work, like the opening of a coat of mail, so that it will not be torn.
 33 "You shall make on its hem pomegranates of blue and purple and scarlet {material,} all around on its  hem, and bells of gold between them all around:
 34 a golden bell and a pomegranate, a golden bell and a pomegranate, all around on the hem of the robe. 
@@ -889,7 +945,7 @@ Exodus 28 New American Standard Bible
 
 Exodus 29 New American Standard Bible 
 
-1 " Now this is what you shall do to them to consecrate them to minister as priests to Me: take one  young bull and two rams without blemish,
+1 "Now this is what you shall do to them to consecrate them to minister as priests to Me: take one  young bull and two rams without blemish,
 2 and unleavened bread and unleavened cakes mixed with oil, and unleavened wafers spread with oil;  you shall make them of fine wheat flour.
 3 "You shall put them in one basket, and present them in the basket along with the bull and the two  rams.
 4 "Then you shall bring Aaron and his sons to the doorway of the tent of meeting and wash them with  water.
@@ -903,7 +959,7 @@ Exodus 29 New American Standard Bible
 12 "You shall take some of the blood of the bull and put {it} on the horns of the altar with your finger;  and you shall pour out all the blood at the base of the altar.
 13 "You shall take all the fat that covers the entrails and the lobe of the liver, and the two kidneys and  the fat that is on them, and offer them up in smoke on the altar.
 14 "But the flesh of the bull and its hide and its refuse, you shall burn with fire outside the camp; it is a  sin offering.
-15 " You shall also take the one ram, and Aaron and his sons shall lay their hands on the head of the  ram;
+15 "You shall also take the one ram, and Aaron and his sons shall lay their hands on the head of the  ram;
 16 and you shall slaughter the ram and shall take its blood and sprinkle it around on the altar. 
 17 "Then you shall cut the ram into its pieces, and wash its entrails and its legs, and put {them} with its  pieces and its head.
 18 "You shall offer up in smoke the whole ram on the altar; it is a burnt offering to the LORD: it is a  soothing aroma, an offering by fire to the LORD.
@@ -912,21 +968,22 @@ Exodus 29 New American Standard Bible
 21 "Then you shall take some of the blood that is on the altar and some of the anointing oil, and sprinkle  {it} on Aaron and on his garments and on his sons and on his sons' garments with him; so he and his garments shall be consecrated, as well as his sons and his sons' garments with him.
 22 "You shall also take the fat from the ram and the fat tail, and the fat that covers the entrails and the  lobe of the liver, and the two kidneys and the fat that is on them and the right thigh (for it is a ram of ordination),
 23 and one cake of bread and one cake of bread {mixed with} oil and one wafer from the basket of  unleavened bread which is {set} before the LORD;
-24 and you shall put all these in the hands of Aaron and in the hands of his sons, and shall wave them as  a wave Offering before the LORD. 25" You shall take them from their hands, and offer them up in smoke on the altar on the burnt offering for a soothing aroma before the LORD; it is an offering by fire to the LORD. 
+24 and you shall put all these in the hands of Aaron and in the hands of his sons, and shall wave them as  a wave Offering before the LORD.
+25 "You shall take them from their hands, and offer them up in smoke on the altar on the burnt offering for a soothing aroma before the LORD; it is an offering by fire to the LORD.
 
 Exodus 29 New American Standard Bible 
 
 26 "Then you shall take the breast of Aaron's ram of ordination, and wave it as a wave offering before  the LORD; and it shall be your portion.
 27 "You shall consecrate the breast of the wave offering and the thigh of the heave offering which was  waved and which was offered from the ram of ordination, from the one which was for Aaron and from the one which was for his sons.
 28 "It shall be for Aaron and his sons as {their} portion forever from the sons of Israel, for it is a heave  offering; and it shall be a heave offering from the sons of Israel from the sacrifices of their peace offerings, {even} their heave offering to the LORD.
-29 " The holy garments of Aaron shall be for his sons after him, that in them they may be anointed and  ordained.
+29 "The holy garments of Aaron shall be for his sons after him, that in them they may be anointed and  ordained.
 30 "For seven days the one of his sons who is priest in his stead shall put them on when he enters the  tent of meeting to minister in the holy place.
 31 "You shall take the ram of ordination and boil its flesh in a holy place. 
 32 "Aaron and his sons shall eat the flesh of the ram and the bread that is in the basket, at the doorway  of the tent of meeting.
 33 "Thus they shall eat those things by which atonement was made at their ordination {and}  consecration; but a layman shall not eat {them,} because they are holy.
-34 " If any of the flesh of ordination or any of the bread remains until morning, then you shall burn the  remainder with fire; it shall not be eaten, because it is holy.
+34 "If any of the flesh of ordination or any of the bread remains until morning, then you shall burn the  remainder with fire; it shall not be eaten, because it is holy.
 35 "Thus you shall do to Aaron and to his sons, according to all that I have commanded you; you shall  ordain them through seven days.
-36 " Each day you shall offer a bull as a sin offering for atonement, and you shall purify the altar when  you make atonement for it, and you shall anoint it to consecrate it.
+36 "Each day you shall offer a bull as a sin offering for atonement, and you shall purify the altar when  you make atonement for it, and you shall anoint it to consecrate it.
 37 "For seven days you shall make atonement for the altar and consecrate it; then the altar shall be most  holy, {and} whatever touches the altar shall be holy.
 38 "Now this is what you shall offer on the altar: two one year old lambs each day, continuously. 
 39 "The one lamb you shall offer in the morning and the other lamb you shall offer at twilight; 
@@ -935,14 +992,15 @@ Exodus 29 New American Standard Bible
 42 "It shall be a continual burnt offering throughout your generations at the doorway of the tent of  meeting before the LORD, where I will meet with you, to speak to you there.
 43 "I will meet there with the sons of Israel, and it shall be consecrated by My glory. 
 44 "I will consecrate the tent of meeting and the altar; I will also consecrate Aaron and his sons to  minister as priests to Me.
-45 " I will dwell among the sons of Israel and will be their God. 
+45 "I will dwell among the sons of Israel and will be their God. 
 46 "They shall know that I am the LORD their God who brought them out of the land of Egypt, that I  might dwell among them; I am the LORD their God.
 
 Exodus 30 New American Standard Bible 
 
 1 "Moreover, you shall make an altar as a place for burning incense; you shall make it of acacia wood. 
 2 "Its length {shall be} a cubit, and its width a cubit, it shall be square, and its height {shall be} two  cubits; its horns {shall be} of one piece with it.
-3 "You shall overlay it with pure gold, its top and its sides all around, and its horns; and you shall make  a gold molding all around for it. 4"You shall make two gold rings for it under its molding; you shall make {them} on its two side walls-- on opposite sides--and they shall be holders for poles with which to carry it. 
+3 "You shall overlay it with pure gold, its top and its sides all around, and its horns; and you shall make  a gold molding all around for it.
+4 "You shall make two gold rings for it under its molding; you shall make {them} on its two side walls-- on opposite sides--and they shall be holders for poles with which to carry it.
 5 "You shall make the poles of acacia wood and overlay them with gold. 
 6 "You shall put this altar in front of the veil that is near the ark of the testimony, in front of the mercy  seat that is over {the ark of} the testimony, where I will meet with you.
 7 "Aaron shall burn fragrant incense on it; he shall burn it every morning when he trims the lamps. 
@@ -979,7 +1037,7 @@ Exodus 30 New American Standard Bible
 35 "With it you shall make incense, a perfume, the work of a perfumer, salted, pure, {and} holy. 
 36 "You shall beat some of it very fine, and put part of it before the testimony in the tent of meeting  where I will meet with you; it shall be most holy to you.
 37 "The incense which you shall make, you shall not make in the same proportions for yourselves; it  shall be holy to you for the LORD.
-38 " Whoever shall make {any} like it, to use as perfume, shall be cut off from his people." 
+38 "Whoever shall make {any} like it, to use as perfume, shall be cut off from his people." 
 
 Exodus 31 New American Standard Bible 
 
@@ -999,7 +1057,7 @@ Exodus 31 New American Standard Bible
 14 'Therefore you are to observe the sabbath, for it is holy to you. Everyone who profanes it shall surely  be put to death; for whoever does any work on it, that person shall be cut off from among his people.
 15 ' For six days work may be done, but on the seventh day there is a sabbath of complete rest, holy to  the LORD; whoever does any work on the sabbath day shall surely be put to death.
 16 'So the sons of Israel shall observe the sabbath, to celebrate the sabbath throughout their generations  as a perpetual covenant.'
-17 " It is a sign between Me and the sons of Israel forever; for in six days the LORD made heaven and  earth, but on the seventh day He ceased {from labor,} and was refreshed."
+17 "It is a sign between Me and the sons of Israel forever; for in six days the LORD made heaven and  earth, but on the seventh day He ceased {from labor,} and was refreshed."
 18 When He had finished speaking with him upon Mount Sinai, He gave Moses the two tablets of the  testimony, tablets of stone, written by the finger of God.
 
 Exodus 32 New American Standard Bible 
@@ -1073,7 +1131,7 @@ Exodus 34 New American Standard Bible
 
 1 Now the LORD said to Moses, "Cut out for yourself two stone tablets like the former ones, and I will  write on the tablets the words that were on the former tablets which you shattered.
 2 "So be ready by morning, and come up in the morning to Mount Sinai, and present yourself there to  Me on the top of the mountain.
-3 " No man is to come up with you, nor let any man be seen anywhere on the mountain; even the flocks  and the herds may not graze in front of that mountain."
+3 "No man is to come up with you, nor let any man be seen anywhere on the mountain; even the flocks  and the herds may not graze in front of that mountain."
 4 So he cut out two stone tablets like the former ones, and Moses rose up early in the morning and went  up to Mount Sinai, as the LORD had commanded him, and he took two stone tablets in his hand.
 5 The LORD descended in the cloud and stood there with him as he called upon the name of the LORD. 
 6 Then the LORD passed by in front of him and proclaimed, "The LORD, the LORD God,  compassionate and gracious, slow to anger, and abounding in lovingkindness and truth;
@@ -1082,20 +1140,23 @@ Exodus 34 New American Standard Bible
 9 He said, " If now I have found favor in Your sight, O Lord, I pray, let the Lord go along in our midst,  even though the people are so obstinate, and pardon our iniquity and our sin, and take us as Your own possession."
 10 Then God said, "Behold, I am going to make a covenant. Before all your people I will perform  miracles which have not been produced in all the earth nor among any of the nations; and all the people among whom you live will see the working of the LORD, for it is a fearful thing that I am going to perform with you.
 11 "Be sure to observe what I am commanding you this day: behold, I am going to drive out the Amorite  before you, and the Canaanite, the Hittite, the Perizzite, the Hivite and the Jebusite.
-12 " Watch yourself that you make no covenant with the inhabitants of the land into which you are  going, or it will become a snare in your midst.
-13 " But {rather,} you are to tear down their altars and smash their {sacred} pillars and cut down their  Asherim
+12 "Watch yourself that you make no covenant with the inhabitants of the land into which you are  going, or it will become a snare in your midst.
+13 "But {rather,} you are to tear down their altars and smash their {sacred} pillars and cut down their  Asherim
 14 --for you shall not worship any other god, for the LORD, whose name is Jealous, is a jealous God— 
 15 otherwise you might make a covenant with the inhabitants of the land and they would play the harlot  with their gods and sacrifice to their gods, and someone might invite you to eat of his sacrifice,
-16 and you might take some of his daughters for your sons, and his daughters might play the harlot with  their gods and cause your sons {also} to play the harlot with their gods. 17" You shall make for yourself no molten gods. 
-18 "You shall observe the Feast of Unleavened Bread. For seven days you are to eat unleavened bread,  as I commanded you, at the appointed time in the month of Abib, for in the month of Abib you came out of Egypt. 19" The first offspring from every womb belongs to Me, and all your male livestock, the first offspring from cattle and sheep. 20" You shall redeem with a lamb the first offspring from a donkey; and if you do not redeem {it,} then you shall break its neck. You shall redeem all the firstborn of your sons. None shall appear before Me empty-handed. 
+16 and you might take some of his daughters for your sons, and his daughters might play the harlot with  their gods and cause your sons {also} to play the harlot with their gods.
+17 "You shall make for yourself no molten gods.
+18 "You shall observe the Feast of Unleavened Bread. For seven days you are to eat unleavened bread,  as I commanded you, at the appointed time in the month of Abib, for in the month of Abib you came out of Egypt.
+19 "The first offspring from every womb belongs to Me, and all your male livestock, the first offspring from cattle and sheep.
+20 "You shall redeem with a lamb the first offspring from a donkey; and if you do not redeem {it,} then you shall break its neck. You shall redeem all the firstborn of your sons. None shall appear before Me empty-handed.
 21 "You shall work six days, but on the seventh day you shall rest; {even} during plowing time and  harvest you shall rest.
 22 "You shall celebrate the Feast of Weeks, {that is,} the first fruits of the wheat harvest, and the Feast  of Ingathering at the turn of the year.
-23 " Three times a year all your males are to appear before the Lord GOD, the God of Israel. 
+23 "Three times a year all your males are to appear before the Lord GOD, the God of Israel. 
 
 Exodus 34 New American Standard Bible 
 
 24 "For I will drive out nations before you and enlarge your borders, and no man shall covet your land  when you go up three times a year to appear before the LORD your God.
-25 " You shall not offer the blood of My sacrifice with leavened bread, nor is the sacrifice of the Feast  of the Passover to be left over until morning.
+25 "You shall not offer the blood of My sacrifice with leavened bread, nor is the sacrifice of the Feast  of the Passover to be left over until morning.
 26 "You shall bring the very first of the first fruits of your soil into the house of the LORD your God.  "You shall not boil a young goat in its mother's milk."
 27 Then the LORD said to Moses, " Write down these words, for in accordance with these words I have  made a covenant with you and with Israel."
 28 So he was there with the LORD forty days and forty nights; he did not eat bread or drink water. And  he wrote on the tablets the words of the covenant, the Ten Commandments.
@@ -1109,7 +1170,8 @@ Exodus 34 New American Standard Bible
 
 Exodus 35 New American Standard Bible 
 
-1 Then Moses assembled all the congregation of the sons of Israel, and said to them, " These are the  things that the LORD has commanded {you} to do: 2." For six days work may be done, but on the seventh day you shall have a holy {day,} a sabbath of complete rest to the LORD; whoever does any work on it shall be put to death. 3" You shall not kindle a fire in any of your dwellings on the sabbath day." 
+1 Then Moses assembled all the congregation of the sons of Israel, and said to them, " These are the  things that the LORD has commanded {you} to do: 2." For six days work may be done, but on the seventh day you shall have a holy {day,} a sabbath of complete rest to the LORD; whoever does any work on it shall be put to death.
+3 "You shall not kindle a fire in any of your dwellings on the sabbath day."
 4 Moses spoke to all the congregation of the sons of Israel, saying, "This is the thing which the LORD  has commanded, saying,
 5 ' Take from among you a contribution to the LORD; whoever is of a willing heart, let him bring it as  the LORD'S contribution: gold, silver, and bronze,
 6 and blue, purple and scarlet {material,' fine linen, goats' {hair,} 
@@ -1144,7 +1206,7 @@ Exodus 35 New American Standard Bible
 
 33 and in the cutting of stones for settings and in the carving of wood, so as to perform in every  inventive work.
 34 "He also has put in his heart to teach, both he and Oholiab, the son of Ahisamach, of the tribe of Dan. 
-35 " He has filled them with skill to perform every work of an engraver and of a designer and of an  embroiderer, in blue and in purple {and} in scarlet {material,} and in fine linen, and of a weaver, as performers of every work and makers of designs.
+35 "He has filled them with skill to perform every work of an engraver and of a designer and of an  embroiderer, in blue and in purple {and} in scarlet {material,} and in fine linen, and of a weaver, as performers of every work and makers of designs.
 
 Exodus 36 New American Standard Bible 
 
@@ -1310,7 +1372,9 @@ Exodus 39 New American Standard Bible
 
 Exodus 40 New American Standard Bible 
 
-1 Then the LORD spoke to Moses, saying, 2" On the first day of the first month you shall set up the tabernacle of the tent of meeting. 3" You shall place the ark of the testimony there, and you shall screen the ark with the veil. 
+1 Then the LORD spoke to Moses, saying,
+2 "On the first day of the first month you shall set up the tabernacle of the tent of meeting.
+3 "You shall place the ark of the testimony there, and you shall screen the ark with the veil.
 4 "You shall bring in the table and arrange what belongs on it; and you shall bring in the lampstand and  mount its lamps.
 5 "Moreover, you shall set the gold altar of incense before the ark of the testimony, and set up the veil  for the doorway to the tabernacle.
 6 "You shall set the altar of burnt offering in front of the doorway of the tabernacle of the tent of  meeting.
@@ -1320,7 +1384,7 @@ Exodus 40 New American Standard Bible
 10 "You shall anoint the altar of burnt offering and all its utensils, and consecrate the altar, and the altar  shall be most holy.
 11 "You shall anoint the laver and its stand, and consecrate it. 
 12 "Then you shall bring Aaron and his sons to the doorway of the tent of meeting and wash them with  water.
-13 " You shall put the holy garments on Aaron and anoint him and consecrate him, that he may minister  as a priest to Me.
+13 "You shall put the holy garments on Aaron and anoint him and consecrate him, that he may minister  as a priest to Me.
 14 "You shall bring his sons and put tunics on them; 
 15 and you shall anoint them even as you have anointed their father, that they may minister as priests to  Me; and their anointing will qualify them for a perpetual priesthood throughout their generations."
 16 Thus Moses did; according to all that the LORD had commanded him, so he did. 

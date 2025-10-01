@@ -478,7 +478,8 @@ Psalms 30 New American Standard Bible
 6 Now as for me, I said in my prosperity, "I will never be moved." 
 7 O LORD, by Your favor You have made my mountain to stand strong; You hid Your face, I was  dismayed.
 8 To You, O LORD, I called, And to the Lord I made supplication: 
-9 "What profit is there in my blood, if I go down to the pit? Will the dust praise You? Will it declare  Your faithfulness? 10" Hear, O LORD, and be gracious to me; O LORD, be my helper." 
+9 "What profit is there in my blood, if I go down to the pit? Will the dust praise You? Will it declare  Your faithfulness?
+10 "Hear, O LORD, and be gracious to me; O LORD, be my helper."
 11 You have turned for me my mourning into dancing; You have loosed my sackcloth and girded me  with gladness,
 12 That {my} soul may sing praise to You and not be silent. O LORD my God, I will give thanks to  You forever.
 
@@ -696,12 +697,12 @@ Psalms 39 New American Standard Bible
 5 "Behold, You have made my days {as} handbreadths, And my lifetime as nothing in Your sight;  Surely every man at his best is a mere breath. Selah.
 6 "Surely every man walks about as a phantom; Surely they make an uproar for nothing; He amasses  {riches} and does not know who will gather them.
 7 "And now, Lord, for what do I wait? My hope is in You. 
-8 " Deliver me from all my transgressions; Make me not the reproach of the foolish. 
+8 "Deliver me from all my transgressions; Make me not the reproach of the foolish. 
 9 "I have become mute, I do not open my mouth, Because it is You who have done {it.} 
-10 " Remove Your plague from me; Because of the opposition of Your hand I am perishing. 
+10 "Remove Your plague from me; Because of the opposition of Your hand I am perishing. 
 11 "With reproofs You chasten a man for iniquity; You consume as a moth what is precious to him;  Surely every man is a mere breath. Selah.
-12 " Hear my prayer, O LORD, and give ear to my cry; Do not be silent at my tears; For I am a stranger  with You, A sojourner like all my fathers.
-13 " Turn Your gaze away from me, that I may smile {again} Before I depart and am no more." 
+12 "Hear my prayer, O LORD, and give ear to my cry; Do not be silent at my tears; For I am a stranger  with You, A sojourner like all my fathers.
+13 "Turn Your gaze away from me, that I may smile {again} Before I depart and am no more." 
 
 Psalms 40 New American Standard Bible 
 
@@ -883,7 +884,8 @@ Psalms 50 New American Standard Bible
 3 May our God come and not keep silence; Fire devours before Him, And it is very tempestuous around  Him.
 4 He summons the heavens above, And the earth, to judge His people: 
 5 "Gather My godly ones to Me, Those who have made a covenant with Me by sacrifice." 
-6 And the heavens declare His righteousness, For God Himself is judge. Selah. 7" Hear, O My people, and I will speak; O Israel, I will testify against you; I am God, your God. 
+6 And the heavens declare His righteousness, For God Himself is judge. Selah.
+7 "Hear, O My people, and I will speak; O Israel, I will testify against you; I am God, your God.
 8 "I do not reprove you for your sacrifices, And your burnt offerings are continually before Me. 
 9 "I shall take no young bull out of your house Nor male goats out of your folds. 
 10 "For every beast of the forest is Mine, The cattle on a thousand hills. 
@@ -1051,7 +1053,9 @@ Psalms 60 New American Standard Bible
 3 You have made Your people experience hardship; You have given us wine to drink that makes us  stagger.
 4 You have given a banner to those who fear You, That it may be displayed because of the truth. Selah. 
 5 That Your beloved may be delivered, Save with Your right hand, and answer us! 
-6 God has spoken in His holiness: "I will exult, I will portion out Shechem and measure out the valley of  Succoth. 7" Gilead is Mine, and Manasseh is Mine; Ephraim also is the helmet of My head; Judah is My scepter. 8" Moab is My washbowl; Over Edom I shall throw My shoe; Shout loud, O Philistia, because of Me!" 
+6 God has spoken in His holiness: "I will exult, I will portion out Shechem and measure out the valley of  Succoth.
+7 "Gilead is Mine, and Manasseh is Mine; Ephraim also is the helmet of My head; Judah is My scepter.
+8 "Moab is My washbowl; Over Edom I shall throw My shoe; Shout loud, O Philistia, because of Me!"
 9 Who will bring me into the besieged city? Who will lead me to Edom? 
 10 Have not You Yourself, O God, rejected us? And will You not go forth with our armies, O God? 
 11 O give us help against the adversary, For deliverance by man is in vain. 
@@ -1130,7 +1134,8 @@ Psalms 66 New American Standard Bible
 
 1 Shout joyfully to God, all the earth; 
 2 Sing the glory of His name; Make His praise glorious. 
-3 Say to God, "How awesome are Your works! Because of the greatness of Your power Your enemies  will give feigned obedience to You. 4" All the earth will worship You, And will sing praises to You; They will sing praises to Your name." Selah. 
+3 Say to God, "How awesome are Your works! Because of the greatness of Your power Your enemies  will give feigned obedience to You.
+4 "All the earth will worship You, And will sing praises to You; They will sing praises to Your name." Selah.
 5 Come and see the works of God, {Who is} awesome in {His} deeds toward the sons of men. 
 6 He turned the sea into dry land; They passed through the river on foot; There let us rejoice in Him! 
 7 He rules by His might forever; His eyes keep watch on the nations; Let not the rebellious exalt  themselves. Selah.
@@ -1171,7 +1176,7 @@ Psalms 68 New American Standard Bible
 9 You shed abroad a plentiful rain, O God; You confirmed Your inheritance when it was parched. 
 10 Your creatures settled in it; You provided in Your goodness for the poor, O God. 
 11 The Lord gives the command; The women who proclaim the {good} tidings are a great host: 
-12 " Kings of armies flee, they flee, And she who remains at home will divide the spoil!" 
+12 "Kings of armies flee, they flee, And she who remains at home will divide the spoil!" 
 13 When you lie down among the sheepfolds, {You are like} the wings of a dove covered with silver,  And its pinions with glistening gold.
 14 When the Almighty scattered the kings there, It was snowing in Zalmon. 
 15 A mountain of God is the mountain of Bashan; A mountain {of many} peaks is the mountain of  Bashan.
@@ -1529,14 +1534,14 @@ Psalms 81 New American Standard Bible
 5 He established it for a testimony in Joseph When he went throughout the land of Egypt. I heard a  language that I did not know:
 6 "I relieved his shoulder of the burden, His hands were freed from the basket. 
 7 "You called in trouble and I rescued you; I answered you in the hiding place of thunder; I proved you  at the waters of Meribah. Selah.
-8 " Hear, O My people, and I will admonish you; O Israel, if you would listen to Me! 
+8 "Hear, O My people, and I will admonish you; O Israel, if you would listen to Me! 
 9 "Let there be no strange god among you; Nor shall you worship any foreign god. 
-10 " I, the LORD, am your God, Who brought you up from the land of Egypt; Open your mouth wide  and I will fill it.
+10 "I, the LORD, am your God, Who brought you up from the land of Egypt; Open your mouth wide  and I will fill it.
 11 "But My people did not listen to My voice, And Israel did not obey Me. 
 12 "So I gave them over to the stubbornness of their heart, To walk in their own devices. 
 13 "Oh that My people would listen to Me, That Israel would walk in My ways! 
 14 "I would quickly subdue their enemies And turn My hand against their adversaries. 
-15 " Those who hate the LORD would pretend obedience to Him, And their time {of punishment}  would be forever.
+15 "Those who hate the LORD would pretend obedience to Him, And their time {of punishment}  would be forever.
 16 "But I would feed you with the finest of the wheat, And with honey from the rock I would satisfy  you."
 
 Psalms 82 New American Standard Bible 
@@ -1745,7 +1750,8 @@ Psalms 91 New American Standard Bible
 10 No evil will befall you, Nor will any plague come near your tent. 
 11 For He will give His angels charge concerning you, To guard you in all your ways. 
 12 They will bear you up in their hands, That you do not strike your foot against a stone. 
-13 You will tread upon the lion and cobra, The young lion and the serpent you will trample down. 14" Because he has loved Me, therefore I will deliver him; I will set him {securely} on high, because he has known My name. 
+13 You will tread upon the lion and cobra, The young lion and the serpent you will trample down.
+14 "Because he has loved Me, therefore I will deliver him; I will set him {securely} on high, because he has known My name.
 15 "He will call upon Me, and I will answer him; I will be with him in trouble; I will rescue him and  honor him.
 16 "With a long life I will satisfy him And let him see My salvation." 
 
@@ -1999,7 +2005,7 @@ Psalms 105 New American Standard Bible
 12 When they were only a few men in number, Very few, and strangers in it. 
 13 And they wandered about from nation to nation, From {one} kingdom to another people. 
 14 He permitted no man to oppress them, And He reproved kings for their sakes: 
-15 " Do not touch My anointed ones, And do My prophets no harm." 
+15 "Do not touch My anointed ones, And do My prophets no harm." 
 16 And He called for a famine upon the land; He broke the whole staff of bread. 
 17 He sent a man before them, Joseph, {who} was sold as a slave. 
 18 They afflicted his feet with fetters, He himself was laid in irons; 
@@ -2791,8 +2797,8 @@ Psalms 142 New American Standard Bible
 3 When my spirit was overwhelmed within me, You knew my path. In the way where I walk They have  hidden a trap for me.
 4 Look to the right and see; For there is no one who regards me; There is no escape for me; No one cares  for my soul.
 5 I cried out to You, O LORD; I said, "You are my refuge, My portion in the land of the living. 
-6 " Give heed to my cry, For I am brought very low; Deliver me from my persecutors, For they are too  strong for me.
-7 " Bring my soul out of prison, So that I may give thanks to Your name; The righteous will surround  me, For You will deal bountifully with me."
+6 "Give heed to my cry, For I am brought very low; Deliver me from my persecutors, For they are too  strong for me.
+7 "Bring my soul out of prison, So that I may give thanks to Your name; The righteous will surround  me, For You will deal bountifully with me."
 
 Psalms 143 New American Standard Bible 
 

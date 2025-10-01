@@ -76,7 +76,7 @@
 6 It came about while there was war between the house of Saul and the house of David that Abner was  making himself strong in the house of Saul.
 7 Now Saul had a concubine whose name was Rizpah, the daughter of Aiah; and Ish-bosheth said to  Abner, "Why have you gone in to my father's concubine?"
 8 Then Abner was very angry over the words of Ish-bosheth and said, " Am I a dog's head that belongs  to Judah? Today I show kindness to the house of Saul your father, to his brothers and to his friends, and have not delivered you into the hands of David; and yet today you charge me with a guilt concerning the woman.
-9 " May God do so to Abner, and more also, if as the LORD has sworn to David, I do not accomplish  this for him,
+9 "May God do so to Abner, and more also, if as the LORD has sworn to David, I do not accomplish  this for him,
 10 to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and  over Judah, from Dan even to Beersheba."
 11 And he could no longer answer Abner a word, because he was afraid of him. 
 12 Then Abner sent messengers to David in his place, saying, "Whose is the land? Make your covenant  with me, and behold, my hand shall be with you to bring all Israel over to you."
@@ -99,7 +99,7 @@
 26 When Joab came out from David, he sent messengers after Abner, and they brought him back from  the well of Sirah; but David did not know {it.}
 27 So when Abner returned to Hebron, Joab took him aside into the middle of the gate to speak with him  privately, and there he struck him in the belly so that he died on account of the blood of Asahel his brother.
 28 Afterward when David heard it, he said, "I and my kingdom are innocent before the LORD forever of  the blood of Abner the son of Ner.
-29 " May it fall on the head of Joab and on all his father's house; and may there not fail from the house  of Joab one who has a discharge, or who is a leper, or who takes hold of a distaff, or who falls by the sword, or who lacks bread."
+29 "May it fall on the head of Joab and on all his father's house; and may there not fail from the house  of Joab one who has a discharge, or who is a leper, or who takes hold of a distaff, or who falls by the sword, or who lacks bread."
 30 So Joab and Abishai his brother killed Abner because he had put their brother Asahel to death in the  battle at Gibeon.
 31 Then David said to Joab and to all the people who were with him, " Tear your clothes and gird on  sackcloth and lament before Abner." And King David walked behind the bier.
 32 Thus they buried Abner in Hebron; and the king lifted up his voice and wept at the grave of Abner,  and all the people wept.
@@ -265,7 +265,7 @@
 9 Now when Joab saw that the battle was set against him in front and in the rear, he selected from all the  choice men of Israel, and arrayed {them} against the Arameans.
 10 But the remainder of the people he placed in the hand of Abishai his brother, and he arrayed {them}  against the sons of Ammon.
 11 He said, "If the Arameans are too strong for me, then you shall help me, but if the sons of Ammon  are too strong for you, then I will come to help you.
-12 " Be strong, and let us show ourselves courageous for the sake of our people and for the cities of our  God; and may the LORD do what is good in His sight."
+12 "Be strong, and let us show ourselves courageous for the sake of our people and for the cities of our  God; and may the LORD do what is good in His sight."
 13 So Joab and the people who were with him drew near to the battle against the Arameans, and they  fled before him.
 14 When the sons of Ammon saw that the Arameans fled, they {also} fled before Abishai and entered  the city. Then Joab returned from {fighting} against the sons of Ammon and came to Jerusalem.
 15 When the Arameans saw that they had been defeated by Israel, they gathered themselves together. 
@@ -480,7 +480,7 @@
 5 When King David came to Bahurim, behold, there came out from there a man of the family of the  house of Saul whose name was Shimei, the son of Gera; he came out cursing continually as he came.
 6 He threw stones at David and at all the servants of King David; and all the people and all the mighty  men were at his right hand and at his left.
 7 Thus Shimei said when he cursed, "Get out, get out, you man of bloodshed, and worthless fellow! 
-8 " The LORD has returned upon you all the bloodshed of the house of Saul, in whose place you have  reigned; and the LORD has given the kingdom into the hand of your son Absalom. And behold, you are {taken} in your own evil, for you are a man of bloodshed!"
+8 "The LORD has returned upon you all the bloodshed of the house of Saul, in whose place you have  reigned; and the LORD has given the kingdom into the hand of your son Absalom. And behold, you are {taken} in your own evil, for you are a man of bloodshed!"
 9 Then Abishai the son of Zeruiah said to the king, "Why should this dead dog curse my lord the king?  Let me go over now and cut off his head."
 10 But the king said, " What have I to do with you, O sons of Zeruiah? If he curses, and if the LORD has  told him, 'Curse David,' then who shall say, 'Why have you done so?' "
 11 Then David said to Abishai and to all his servants, "Behold, my son who came out from me seeks my  life; how much more now this Benjamite? Let him alone and let him curse, for the LORD has told him.
@@ -499,7 +499,8 @@
 
 2 Samuel 17 New American Standard Bible 
 
-1 Furthermore, Ahithophel said to Absalom, "Please let me choose 12,000 men that I may arise and  pursue David tonight. 2" I will come upon him while he is weary and exhausted and terrify him, so that all the people who are with him will flee. Then I will strike down the king alone, 
+1 Furthermore, Ahithophel said to Absalom, "Please let me choose 12,000 men that I may arise and  pursue David tonight.
+2 "I will come upon him while he is weary and exhausted and terrify him, so that all the people who are with him will flee. Then I will strike down the king alone,
 3 and I will bring back all the people to you. The return of everyone depends on the man you seek;  {then} all the people will be at peace."
 4 So the plan pleased Absalom and all the elders of Israel. 
 5 Then Absalom said, "Now call Hushai the Archite also, and let us hear what he has to say." 
@@ -689,28 +690,38 @@
 3 My God, my rock, in whom I take refuge, My shield and the horn of my salvation, my stronghold and  my refuge; My savior, You save me from violence.
 4 "I call upon the LORD, who is worthy to be praised, And I am saved from my enemies. 
 5 "For the waves of death encompassed me; The torrents of destruction overwhelmed me; 
-6 The cords of Sheol surrounded me; The snares of death confronted me. 7" In my distress I called upon the LORD, Yes, I cried to my God; And from His temple He heard my voice, And my cry for help {came} into His ears. 
+6 The cords of Sheol surrounded me; The snares of death confronted me.
+7 "In my distress I called upon the LORD, Yes, I cried to my God; And from His temple He heard my voice, And my cry for help {came} into His ears.
 8 "Then the earth shook and quaked, The foundations of heaven were trembling And were shaken,  because He was angry.
 9 "Smoke went up out of His nostrils, Fire from His mouth devoured; Coals were kindled by it. 
 10 "He bowed the heavens also, and came down With thick darkness under His feet. 
-11 " And He rode on a cherub and flew; And He appeared on the wings of the wind. 
-12 " And He made darkness canopies around Him, A mass of waters, thick clouds of the sky. 
-13 "From the brightness before Him Coals of fire were kindled. 14" The LORD thundered from heaven, And the Most High uttered His voice. 
-15 " And He sent out arrows, and scattered them, Lightning, and routed them. 
-16 "Then the channels of the sea appeared, The foundations of the world were laid bare By the rebuke of  the LORD, At the blast of the breath of His nostrils. 17" He sent from on high, He took me; He drew me out of many waters. 
+11 "And He rode on a cherub and flew; And He appeared on the wings of the wind. 
+12 "And He made darkness canopies around Him, A mass of waters, thick clouds of the sky. 
+13 "From the brightness before Him Coals of fire were kindled.
+14 "The LORD thundered from heaven, And the Most High uttered His voice.
+15 "And He sent out arrows, and scattered them, Lightning, and routed them. 
+16 "Then the channels of the sea appeared, The foundations of the world were laid bare By the rebuke of  the LORD, At the blast of the breath of His nostrils.
+17 "He sent from on high, He took me; He drew me out of many waters.
 18 "He delivered me from my strong enemy, From those who hated me, for they were too strong for me. 
 19 "They confronted me in the day of my calamity, But the LORD was my support. 
-20 " He also brought me forth into a broad place; He rescued me, because He delighted in me. 
-21 " The LORD has rewarded me according to my righteousness; According to the cleanness of my  hands He has recompensed me. 22" For I have kept the ways of the LORD, And have not acted wickedly against my God. 
-23 " For all His ordinances {were} before me, And {as for} His statutes, I did not depart from them. 24" I was also blameless toward Him, And I kept myself from my iniquity. 
-25 " Therefore the LORD has recompensed me according to my righteousness, According to my  cleanness before His eyes.
-26 " With the kind You show Yourself kind, With the blameless You show Yourself blameless; 
+20 "He also brought me forth into a broad place; He rescued me, because He delighted in me. 
+21 "The LORD has rewarded me according to my righteousness; According to the cleanness of my  hands He has recompensed me.
+22 "For I have kept the ways of the LORD, And have not acted wickedly against my God.
+23 "For all His ordinances {were} before me, And {as for} His statutes, I did not depart from them.
+24 "I was also blameless toward Him, And I kept myself from my iniquity.
+25 "Therefore the LORD has recompensed me according to my righteousness, According to my  cleanness before His eyes.
+26 "With the kind You show Yourself kind, With the blameless You show Yourself blameless; 
 27 With the pure You show Yourself pure, And with the perverted You show Yourself astute. 
-28 " And You save an afflicted people; But Your eyes are on the haughty {whom} You abase. 29" For You are my lamp, O LORD; And the LORD illumines my darkness. 30" For by You I can run upon a troop; By my God I can leap over a wall. 31" As for God, His way is blameless; The word of the LORD is tested; He is a shield to all who take refuge in Him. 
-32 " For who is God, besides the LORD? And who is a rock, besides our God? 
-33 " God is my strong fortress; And He sets the blameless in His way. 
-34 " He makes my feet like hinds' {feet,} And sets me on my high places. 35" He trains my hands for battle, So that my arms can bend a bow of bronze. 
-36 "You have also given me the shield of Your salvation, And Your help makes me great. 37" You enlarge my steps under me, And my feet have not slipped. 
+28 "And You save an afflicted people; But Your eyes are on the haughty {whom} You abase.
+29 "For You are my lamp, O LORD; And the LORD illumines my darkness.
+30 "For by You I can run upon a troop; By my God I can leap over a wall.
+31 "As for God, His way is blameless; The word of the LORD is tested; He is a shield to all who take refuge in Him.
+32 "For who is God, besides the LORD? And who is a rock, besides our God? 
+33 "God is my strong fortress; And He sets the blameless in His way. 
+34 "He makes my feet like hinds' {feet,} And sets me on my high places.
+35 "He trains my hands for battle, So that my arms can bend a bow of bronze.
+36 "You have also given me the shield of Your salvation, And Your help makes me great.
+37 "You enlarge my steps under me, And my feet have not slipped.
 38 "I pursued my enemies and destroyed them, And I did not turn back until they were consumed. 
 39 "And I have devoured them and shattered them, so that they did not rise; And they fell under my feet. 
 
@@ -718,14 +729,15 @@
 
 40 "For You have girded me with strength for battle; You have subdued under me those who rose up  against me.
 41 "You have also made my enemies turn {their} backs to me, And I destroyed those who hated me. 
-42 " They looked, but there was none to save; {Even} to the LORD, but He did not answer them. 
-43 " Then I pulverized them as the dust of the earth; I crushed {and} stamped them as the mire of the  streets. 44" You have also delivered me from the contentions of my people; You have kept me as head of the nations; A people whom I have not known serve me. 
-45 " Foreigners pretend obedience to me; As soon as they hear, they obey me. 
+42 "They looked, but there was none to save; {Even} to the LORD, but He did not answer them. 
+43 "Then I pulverized them as the dust of the earth; I crushed {and} stamped them as the mire of the  streets.
+44 "You have also delivered me from the contentions of my people; You have kept me as head of the nations; A people whom I have not known serve me.
+45 "Foreigners pretend obedience to me; As soon as they hear, they obey me. 
 46 "Foreigners lose heart, And come trembling out of their fortresses. 
 47 "The LORD lives, and blessed be my rock; And exalted be God, the rock of my salvation, 
 48 The God who executes vengeance for me, And brings down peoples under me, 
 49 Who also brings me out from my enemies; You even lift me above those who rise up against me;  You rescue me from the violent man.
-50 " Therefore I will give thanks to You, O LORD, among the nations, And I will sing praises to Your  name.
+50 "Therefore I will give thanks to You, O LORD, among the nations, And I will sing praises to Your  name.
 51 " {He} is a tower of deliverance to His king, And shows lovingkindness to His anointed, To David  and his descendants forever."
 
 2 Samuel 23 New American Standard Bible 

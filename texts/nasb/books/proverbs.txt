@@ -104,8 +104,9 @@ Proverbs 4 New American Standard Bible
 3 When I was a son to my father, Tender and the only son in the sight of my mother, 
 4 Then he taught me and said to me, "Let your heart hold fast my words; Keep my commandments and live;
 5 Acquire wisdom! Acquire understanding! Do not forget nor turn away from the words of my mouth.
-6 "Do not forsake her, and she will guard you; Love her, and she will watch over you. 7" The beginning of wisdom {is:} Acquire wisdom; And with all your acquiring, get understanding.
-8 " Prize her, and she will exalt you; She will honor you if you embrace her.
+6 "Do not forsake her, and she will guard you; Love her, and she will watch over you.
+7 "The beginning of wisdom {is:} Acquire wisdom; And with all your acquiring, get understanding.
+8 "Prize her, and she will exalt you; She will honor you if you embrace her.
 9 "She will place on your head a garland of grace; She will present you with a crown of beauty." 
 10 Hear, my son, and accept my sayings And the years of your life will be many.
 11 I have directed you in the way of wisdom; I have led you in upright paths.
@@ -162,7 +163,8 @@ Proverbs 6 New American Standard Bible
 6 Go to the ant, O sluggard, Observe her ways and be wise, 
 7 Which, having no chief, Officer or ruler, 
 8 Prepares her food in the summer {And} gathers her provision in the harvest.
-9 How long will you lie down, O sluggard? When will you arise from your sleep? 10" A little sleep, a little slumber, A little folding of the hands to rest"— 
+9 How long will you lie down, O sluggard? When will you arise from your sleep?
+10 "A little sleep, a little slumber, A little folding of the hands to rest"—
 11 Your poverty will come in like a vagabond And your need like an armed man.
 12 A worthless person, a wicked man, Is the one who walks with a perverse mouth, 
 13 Who winks with his eyes, who signals with his feet, Who points with his fingers; 
@@ -223,7 +225,8 @@ Proverbs 8 New American Standard Bible
 
 1 Does not wisdom call, And understanding lift up her voice? 
 2 On top of the heights beside the way, Where the paths meet, she takes her stand; 
-3 Beside the gates, at the opening to the city, At the entrance of the doors, she cries out: 4"To you, O men, I call, And my voice is to the sons of men.
+3 Beside the gates, at the opening to the city, At the entrance of the doors, she cries out:
+4 "To you, O men, I call, And my voice is to the sons of men.
 5 "O naive ones, understand prudence; And, O fools, understand wisdom.
 6 "Listen, for I will speak noble things; And the opening of my lips {will reveal} right things.
 7 "For my mouth will utter truth; And wickedness is an abomination to my lips.
@@ -232,17 +235,19 @@ Proverbs 8 New American Standard Bible
 10 "Take my instruction and not silver, And knowledge rather than choicest gold.
 11 "For wisdom is better than jewels; And all desirable things cannot compare with her.
 12 "I, wisdom, dwell with prudence, And I find knowledge {and} discretion.
-13 "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverted mouth, I hate. 14" Counsel is mine and sound wisdom; I am understanding, power is mine.
+13 "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverted mouth, I hate.
+14 "Counsel is mine and sound wisdom; I am understanding, power is mine.
 15 "By me kings reign, And rulers decree justice.
 16 "By me princes rule, and nobles, All who judge rightly.
 17 "I love those who love me; And those who diligently seek me will find me.
-18 " Riches and honor are with me, Enduring wealth and righteousness.
+18 "Riches and honor are with me, Enduring wealth and righteousness.
 19 "My fruit is better than gold, even pure gold, And my yield {better} than choicest silver.
 20 "I walk in the way of righteousness, In the midst of the paths of justice, 
 21 To endow those who love me with wealth, That I may fill their treasuries.
 22 "The LORD possessed me at the beginning of His way, Before His works of old.
 23 "From everlasting I was established, From the beginning, from the earliest times of the earth.
-24 "When there were no depths I was brought forth, When there were no springs abounding with water.25" Before the mountains were settled, Before the hills I was brought forth;
+24 "When there were no depths I was brought forth, When there were no springs abounding with water
+25 "Before the mountains were settled, Before the hills I was brought forth;
 26 While He had not yet made the earth and the fields, Nor the first dust of the world.
 27 "When He established the heavens, I was there, When He inscribed a circle on the face of the deep, 
 28 When He made firm the skies above, When the springs of the deep became fixed, 
@@ -250,7 +255,8 @@ Proverbs 8 New American Standard Bible
 30 Then I was beside Him, {as} a master workman; And I was daily {His} delight, Rejoicing always before Him,
 31 Rejoicing in the world, His earth, And {having} my delight in the sons of men.
 32 "Now therefore, {O} sons, listen to me, For blessed are they who keep my ways.
-33 " Heed instruction and be wise, And do not neglect {it.} 34" Blessed is the man who listens to me, Watching daily at my gates, Waiting at my doorposts.
+33 "Heed instruction and be wise, And do not neglect {it.}
+34 "Blessed is the man who listens to me, Watching daily at my gates, Waiting at my doorposts.
 35 "For he who finds me finds life And obtains favor from the LORD.
 36 "But he who sins against me injures himself; All those who hate me love death." 
 
@@ -258,7 +264,8 @@ Proverbs 9 New American Standard Bible
 
 1 Wisdom has built her house, She has hewn out her seven pillars; 
 2 She has prepared her food, she has mixed her wine; She has also set her table; 
-3 She has sent out her maidens, she calls From the tops of the heights of the city: 4" Whoever is naive, let him turn in here!" To him who lacks understanding she says, 
+3 She has sent out her maidens, she calls From the tops of the heights of the city:
+4 "Whoever is naive, let him turn in here!" To him who lacks understanding she says,
 5 "Come, eat of my food And drink of the wine I have mixed.
 6 "Forsake {your} folly and live, And proceed in the way of understanding." 
 7 He who corrects a scoffer gets dishonor for himself, And he who reproves a wicked man {gets} insults for himself.
@@ -270,7 +277,7 @@ Proverbs 9 New American Standard Bible
 13 The woman of folly is boisterous, {She is} naive and knows nothing.
 14 She sits at the doorway of her house, On a seat by the high places of the city, 
 15 Calling to those who pass by, Who are making their paths straight: 
-16 " Whoever is naive, let him turn in here," And to him who lacks understanding she says, 
+16 "Whoever is naive, let him turn in here," And to him who lacks understanding she says, 
 17 "Stolen water is sweet; And bread {eaten} in secret is pleasant." 
 18 But he does not know that the dead are there, {That} her guests are in the depths of Sheol.
 
@@ -773,7 +780,7 @@ Proverbs 24 New American Standard Bible
 30 I passed by the field of the sluggard And by the vineyard of the man lacking sense, 
 31 And behold, it was completely overgrown with thistles; Its surface was covered with nettles, And its stone wall was broken down.
 32 When I saw, I reflected upon it; I looked, {and} received instruction.
-33 " A little sleep, a little slumber, A little folding of the hands to rest," 
+33 "A little sleep, a little slumber, A little folding of the hands to rest," 
 34 Then your poverty will come {as} a robber And your want like an armed man.
 
 Proverbs 25 New American Standard Bible 

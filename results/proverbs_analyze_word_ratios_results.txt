@@ -5,110 +5,110 @@ Hebrew vs English Word Count Ratios
 TOP 20 VERSES: Fewest Hebrew words relative to English words
 ================================================================================
 
-1. Proverbs 1:31
+1. Proverbs 23:34
+   Ratio: 0.259 (7 Hebrew / 27 English)
+   Hebrew: וְ֭הָיִיתָ כְּשֹׁכֵ֣ב בְּלֶב־יָ֑ם וּ֝כְשֹׁכֵ֗ב בְּרֹ֣אשׁ חִבֵּֽל
+   English: And you will be like one who lies down in the middle of the sea, Or like one who lies down on the top of a mast.
+
+2. Proverbs 1:31
    Ratio: 0.278 (5 Hebrew / 18 English)
    Hebrew: וְֽ֭יֹאכְלוּ מִפְּרִ֣י דַרְכָּ֑ם וּֽמִמֹּעֲצֹ֖תֵיהֶ֣ם יִשְׂבָּֽעוּ
    English: "So they shall eat of the fruit of their own way And be satiated with their own devices.
 
-2. Proverbs 4:6
+3. Proverbs 11:19
+   Ratio: 0.286 (6 Hebrew / 21 English)
+   Hebrew: כֵּן־צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ
+   English: He who is steadfast in righteousness {will attain} to life, And he who pursues evil {will bring about} his own death.
+
+4. Proverbs 11:24
+   Ratio: 0.286 (8 Hebrew / 28 English)
+   Hebrew: יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ־לְמַחְסֽוֹר
+   English: There is one who scatters, and {yet} increases all the more, And there is one who withholds what is justly due, {and yet it results} only in want.
+
+5. Proverbs 4:6
    Ratio: 0.294 (5 Hebrew / 17 English)
    Hebrew: אַל־תַּעַזְבֶ֥הָ וְתִשְׁמְרֶ֑ךָּ אֱהָבֶ֥הָ וְתִצְּרֶֽךָּ
    English: "Do not forsake her, and she will guard you; Love her, and she will watch over you.
 
-3. Proverbs 23:25
+6. Proverbs 23:25
    Ratio: 0.294 (5 Hebrew / 17 English)
    Hebrew: יִֽשְׂמַח־אָבִ֥יךָ וְאִמֶּ֑ךָ וְ֝תָגֵ֗ל יֽוֹלַדְתֶּֽךָ
    English: Let your father and your mother be glad, And let her rejoice who gave birth to you.
 
-4. Proverbs 27:26
+7. Proverbs 27:26
    Ratio: 0.294 (5 Hebrew / 17 English)
    Hebrew: כְּבָשִׂ֥ים לִלְבוּשֶׁ֑ךָ וּמְחִ֥יר שָׂ֝דֶ֗ה עַתּוּדִֽים
    English: The lambs {will be} for your clothing, And the goats {will bring} the price of a field,
 
-5. Proverbs 6:5
+8. Proverbs 6:2
+   Ratio: 0.300 (6 Hebrew / 20 English)
+   Hebrew: נוֹקַ֥שְׁתָּ בְאִמְרֵי־פִ֑יךָ נִ֝לְכַּ֗דְתָּ בְּאִמְרֵי־פִֽיךָ
+   English: {If} you have been snared with the words of your mouth, Have been caught with the words of your mouth,
+
+9. Proverbs 6:5
    Ratio: 0.300 (6 Hebrew / 20 English)
    Hebrew: הִ֭נָּצֵל כִּצְבִ֣י מִיָּ֑ד וּ֝כְצִפּ֗וֹר מִיַּ֥ד יָקֽוּשׁ׃
    English: Deliver yourself like a gazelle from {the hunter's} hand And like a bird from the hand of the fowler.
 
-6. Proverbs 23:34
-   Ratio: 0.304 (7 Hebrew / 23 English)
-   Hebrew: וְ֭הָיִיתָ כְּשֹׁכֵ֣ב בְּלֶב־יָ֑ם וּ֝כְשֹׁכֵ֗ב בְּרֹ֣אשׁ חִבֵּֽל
-   English: And you will be like one who lies down in the middle of the sea, Or like one who lies down on the
+10. Proverbs 30:21
+   Ratio: 0.310 (9 Hebrew / 29 English)
+   Hebrew: תַּ֣חַת שָׁ֭לוֹשׁ רָ֣גְזָה אֶ֑רֶץ וְתַ֥חַת אַ֝רְבַּ֗ע לֹא־תוּכַ֥ל שְׂאֵֽת
+   English: Under three things the earth quakes, And under four, it cannot bear up: Under a slave when he becomes king, And a fool when he is satisfied with food,
 
-7. Proverbs 6:2
-   Ratio: 0.316 (6 Hebrew / 19 English)
-   Hebrew: נוֹקַ֥שְׁתָּ בְאִמְרֵי־פִ֑יךָ נִ֝לְכַּ֗דְתָּ בְּאִמְרֵי־פִֽיךָ
-   English: {If} you have been snared with the words of your mouth, Have been caught with the words of your
+11. Proverbs 1:28
+   Ratio: 0.318 (7 Hebrew / 22 English)
+   Hebrew: אָ֣ז יִ֭קְרָאֻנְנִי וְלֹ֣א אֶֽעֱנֶ֑ה יְ֝שַׁחֲרֻ֗נְנִי וְלֹ֣א יִמְצָאֻֽנְנִי
+   English: "Then they will call on me, but I will not answer; They will seek me diligently but they will not find me,
 
-8. Proverbs 20:2
+12. Proverbs 20:2
    Ratio: 0.318 (7 Hebrew / 22 English)
    Hebrew: נַ֣הַם כַּ֭כְּפִיר אֵ֣ימַת מֶ֑לֶךְ מִ֝תְעַבְּר֗וֹ חוֹטֵ֥א נַפְשֽׁוֹ
    English: The terror of a king is like the growling of a lion; He who provokes him to anger forfeits his own life.
 
-9. Proverbs 1:28
-   Ratio: 0.333 (7 Hebrew / 21 English)
-   Hebrew: אָ֣ז יִ֭קְרָאֻנְנִי וְלֹ֣א אֶֽעֱנֶ֑ה יְ֝שַׁחֲרֻ֗נְנִי וְלֹ֣א יִמְצָאֻֽנְנִי
-   English: "Then they will call on me, but I will not answer; They will seek me diligently but they will not find
-
-10. Proverbs 2:22
+13. Proverbs 2:22
    Ratio: 0.333 (6 Hebrew / 18 English)
    Hebrew: וּ֭רְשָׁעִים מֵאֶ֣רֶץ יִכָּרֵ֑תוּ וּ֝בוֹגְדִ֗ים יִסְּח֥וּ מִמֶּֽנָּה׃
    English: But the wicked will be cut off from the land And the treacherous will be uprooted from it.
 
-11. Proverbs 3:18
+14. Proverbs 3:18
    Ratio: 0.333 (7 Hebrew / 21 English)
    Hebrew: עֵץ־חַיִּ֣ים הִ֭יא לַמַּחֲזִיקִ֣ים בָּ֑הּ וְֽתֹמְכֶ֥יהָ מְאֻשָּֽׁר׃
    English: She is a tree of life to those who take hold of her, And happy are all who hold her fast.
 
-12. Proverbs 4:8
+15. Proverbs 4:8
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: סַלְסְלֶ֥הָ וּֽתְרוֹמְמֶ֑ךָּ תְּ֝כַבֵּ֗דְךָ כִּ֣י תְחַבְּקֶֽנָּה
-   English: " Prize her, and she will exalt you; She will honor you if you embrace her.
+   English: "Prize her, and she will exalt you; She will honor you if you embrace her.
 
-13. Proverbs 5:11
+16. Proverbs 5:10
+   Ratio: 0.333 (7 Hebrew / 21 English)
+   Hebrew: פֶּֽן־יִשְׂבְּע֣וּ זָרִ֣ים כֹּחֶ֑ךָ וַ֝עֲצָבֶ֗יךָ בְּבֵ֣ית נָכְרֽ͏ִי
+   English: And strangers will be filled with your strength And your hard-earned goods {will go} to the house of an alien;
+
+17. Proverbs 5:11
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: וְנָהַמְתָּ֥ בְאַחֲרִיתֶ֑ךָ בִּכְל֥וֹת בְּ֝שָׂרְךָ֗ וּשְׁאֵרֶֽךָ
    English: And you groan at your final end, When your flesh and your body are consumed;
 
-14. Proverbs 8:23
+18. Proverbs 8:23
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: מֵ֭עוֹלָם נִסַּ֥כְתִּי מֵרֹ֗אשׁ מִקַּדְמֵי־אָֽרֶץ
    English: "From everlasting I was established, From the beginning, from the earliest times of the earth.
 
-15. Proverbs 11:11
+19. Proverbs 11:6
+   Ratio: 0.333 (6 Hebrew / 18 English)
+   Hebrew: צִדְקַ֣ת יְ֭שָׁרִים תַּצִּילֵ֑ם וּ֝בְהַוַּ֗ת בֹּגְדִ֥ים יִלָּכֵֽדוּ
+   English: The righteousness of the upright will deliver them, But the treacherous will be caught by {their own} greed.
+
+20. Proverbs 11:11
    Ratio: 0.333 (7 Hebrew / 21 English)
    Hebrew: בְּבִרְכַּ֣ת יְ֭שָׁרִים תָּר֣וּם קָ֑רֶת וּבְפִ֥י רְ֝שָׁעִ֗ים תֵּהָרֵֽס
    English: By the blessing of the upright a city is exalted, But by the mouth of the wicked it is torn down.
 
-16. Proverbs 11:19
-   Ratio: 0.333 (6 Hebrew / 18 English)
-   Hebrew: כֵּן־צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ
-   English: He who is steadfast in righteousness {will attain} to life, And he who pursues evil {will bring about}
-
-17. Proverbs 12:15
-   Ratio: 0.333 (7 Hebrew / 21 English)
-   Hebrew: דֶּ֣רֶךְ אֱ֭וִיל יָשָׁ֣ר בְּעֵינָ֑יו וְשֹׁמֵ֖עַ לְעֵצָ֣ה חָכָֽם
-   English: The way of a fool is right in his own eyes, But a wise man is he who listens to counsel.
-
-18. Proverbs 14:3
-   Ratio: 0.333 (7 Hebrew / 21 English)
-   Hebrew: בְּֽפִי־אֱ֭וִיל חֹ֣טֶר גַּאֲוָ֑ה וְשִׂפְתֵ֥י חֲ֝כָמִ֗ים תִּשְׁמוּרֵֽם
-   English: In the mouth of the foolish is a rod for {his} back, But the lips of the wise will protect them.
-
-19. Proverbs 16:1
-   Ratio: 0.333 (6 Hebrew / 18 English)
-   Hebrew: לְאָדָ֥ם מַֽעַרְכֵי־לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן
-   English: The plans of the heart belong to man, But the answer of the tongue is from the LORD.
-
-20. Proverbs 16:15
-   Ratio: 0.333 (7 Hebrew / 21 English)
-   Hebrew: בְּאוֹר־פְּנֵי־מֶ֥לֶךְ חַיִּ֑ים וּ֝רְצוֹנ֗וֹ כְּעָ֣ב מַלְקֽוֹשׁ
-   English: In the light of a king's face is life, And his favor is like a cloud with the spring rain.
-
 ================================================================================
 STATISTICS
 ================================================================================
-Average Hebrew/English ratio: 0.491
-Lowest ratio: 0.278 (Proverbs 1:31)
-Highest ratio: 1.588 (Proverbs 30:4)
-Total verses analyzed: 907
+Average Hebrew/English ratio: 0.483
+Lowest ratio: 0.259 (Proverbs 23:34)
+Highest ratio: 0.889 (Proverbs 10:12)
+Total verses analyzed: 914

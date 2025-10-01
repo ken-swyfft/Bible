@@ -28,7 +28,8 @@ Job 2 New American Standard Bible
 1 Again there was a day when the sons of God came to present themselves before the LORD, and Satan  also came among them to present himself before the LORD.
 2 The LORD said to Satan, "Where have you come from?" Then Satan answered the LORD and said,  "From roaming about on the earth and walking around on it."
 3 The LORD said to Satan, "Have you considered My servant Job? For there is no one like him on the  earth, a blameless and upright man fearing God and turning away from evil. And he still holds fast his integrity, although you incited Me against him to ruin him without cause."
-4 Satan answered the LORD and said, "Skin for skin! Yes, all that a man has he will give for his life. 5" However, put forth Your hand now, and touch his bone and his flesh; he will curse You to Your face." 
+4 Satan answered the LORD and said, "Skin for skin! Yes, all that a man has he will give for his life.
+5 "However, put forth Your hand now, and touch his bone and his flesh; he will curse You to Your face."
 6 So the LORD said to Satan, "Behold, he is in your power, only spare his life." 
 7 Then Satan went out from the presence of the LORD and smote Job with sore boils from the sole of  his foot to the crown of his head.
 8 And he took a potsherd to scrape himself while he was sitting among the ashes. 
@@ -41,7 +42,8 @@ Job 2 New American Standard Bible
 Job 3 New American Standard Bible 
 
 1 Afterward Job opened his mouth and cursed the day of his {birth.} 
-2 And Job said, 3" Let the day perish on which I was to be born, And the night {which} said, 'A boy is conceived.' 
+2 And Job said,
+3 "Let the day perish on which I was to be born, And the night {which} said, 'A boy is conceived.'
 4 "May that day be darkness; Let not God above care for it, Nor light shine on it. 
 5 "Let darkness and black gloom claim it; Let a cloud settle on it; Let the blackness of the day terrify it. 
 6 "{As for} that night, let darkness seize it; Let it not rejoice among the days of the year; Let it not come  into the number of the months.
@@ -49,7 +51,7 @@ Job 3 New American Standard Bible
 8 "Let those curse it who curse the day, Who are prepared to rouse Leviathan. 
 9 "Let the stars of its twilight be darkened; Let it wait for light but have none, And let it not see the  breaking dawn;
 10 Because it did not shut the opening of my {mother's} womb, Or hide trouble from my eyes. 
-11 " Why did I not die at birth, Come forth from the womb and expire? 
+11 "Why did I not die at birth, Come forth from the womb and expire? 
 12 "Why did the knees receive me, And why the breasts, that I should suck? 
 13 "For now I would have lain down and been quiet; I would have slept then, I would have been at rest, 
 14 With kings and {with} counselors of the earth, Who rebuilt ruins for themselves; 
@@ -70,7 +72,8 @@ Job 4 New American Standard Bible
 
 1 Then Eliphaz the Temanite answered, 
 2 "If one ventures a word with you, will you become impatient? But who can refrain from speaking? 
-3 "Behold you have admonished many, And you have strengthened weak hands. 4"Your words have helped the tottering to stand, And you have strengthened feeble knees. 
+3 "Behold you have admonished many, And you have strengthened weak hands.
+4 "Your words have helped the tottering to stand, And you have strengthened feeble knees.
 5 "But now it has come to you, and you are impatient; It touches you, and you are dismayed. 
 6 "Is not your fear {of God} your confidence, And the integrity of your ways your hope? 
 7 "Remember now, who {ever} perished being innocent? Or where were the upright destroyed? 
@@ -121,7 +124,8 @@ Job 5 New American Standard Bible
 
 Job 6 New American Standard Bible 
 
-1 Then Job answered, 2" Oh that my grief were actually weighed And laid in the balances together with my calamity! 
+1 Then Job answered,
+2 "Oh that my grief were actually weighed And laid in the balances together with my calamity!
 3 "For then it would be heavier than the sand of the seas; Therefore my words have been rash. 
 4 "For the arrows of the Almighty are within me, Their poison my spirit drinks; The terrors of God are  arrayed against me.
 5 "Does the wild donkey bray over {his} grass, Or does the ox low over his fodder? 
@@ -168,16 +172,19 @@ Job 7 New American Standard Bible
 13 "If I say, ' My bed will comfort me, My couch will ease my complaint, 
 14 Then You frighten me with dreams And terrify me by visions; 
 15 So that my soul would choose suffocation, Death rather than my pains. 
-16 "I waste away; I will not live forever. Leave me alone, for my days are {but} a breath. 17" What is man that You magnify him, And that You are concerned about him, 
-18 That You examine him every morning And try him every moment? 19" Will You never turn Your gaze away from me, Nor let me alone until I swallow my spittle? 
-20 " Have I sinned? What have I done to You, O watcher of men? Why have You set me as Your target,  So that I am a burden to myself?
+16 "I waste away; I will not live forever. Leave me alone, for my days are {but} a breath.
+17 "What is man that You magnify him, And that You are concerned about him,
+18 That You examine him every morning And try him every moment?
+19 "Will You never turn Your gaze away from me, Nor let me alone until I swallow my spittle?
+20 "Have I sinned? What have I done to You, O watcher of men? Why have You set me as Your target,  So that I am a burden to myself?
 21 "Why then do You not pardon my transgression And take away my iniquity? For now I will lie down  in the dust; And You will seek me, but I will not be."
 
 Job 8 New American Standard Bible 
 
 1 Then Bildad the Shuhite answered, 
 2 "How long will you say these things, And the words of your mouth be a mighty wind? 
-3 "Does God pervert justice? Or does the Almighty pervert what is right? 4" If your sons sinned against Him, Then He delivered them into the power of their transgression. 
+3 "Does God pervert justice? Or does the Almighty pervert what is right?
+4 "If your sons sinned against Him, Then He delivered them into the power of their transgression.
 5 "If you would seek God And implore the compassion of the Almighty, 
 6 If you are pure and upright, Surely now He would rouse Himself for you And restore your righteous  estate.
 7 "Though your beginning was insignificant, Yet your end will increase greatly. 
@@ -201,7 +208,9 @@ Job 9 New American Standard Bible
 
 1 Then Job answered, 
 2 "In truth I know that this is so; But how can a man be in the right before God? 
-3 "If one wished to dispute with Him, He could not answer Him once in a thousand {times. } 4" Wise in heart and mighty in strength, Who has defied Him without harm? 5" {It is God} who removes the mountains, they know not {how,} When He overturns them in His anger; 
+3 "If one wished to dispute with Him, He could not answer Him once in a thousand {times. }
+4 "Wise in heart and mighty in strength, Who has defied Him without harm?
+5 " {It is God} who removes the mountains, they know not {how,} When He overturns them in His anger;
 6 Who shakes the earth out of its place, And its pillars tremble; 
 7 Who commands the sun not to shine, And sets a seal upon the stars; 
 8 Who alone stretches out the heavens And tramples down the waves of the sea; 
@@ -216,7 +225,7 @@ Job 9 New American Standard Bible
 17 "For He bruises me with a tempest And multiplies my wounds without cause. 
 18 "He will not allow me to get my breath, But saturates me with bitterness. 
 19 "If {it is a matter} of power, behold, {He is} the strong one! And if {it is a matter} of justice, who  can summon Him?
-20 " Though I am righteous, my mouth will condemn me; Though I am guiltless, He will declare me  guilty.
+20 "Though I am righteous, my mouth will condemn me; Though I am guiltless, He will declare me  guilty.
 21 "I am guiltless; I do not take notice of myself; I despise my life. 
 22 "It is {all} one; therefore I say, 'He destroys the guiltless and the wicked.’ 
 23 "If the scourge kills suddenly, He mocks the despair of the innocent. 
@@ -235,13 +244,14 @@ Job 9 New American Standard Bible
 
 Job 10 New American Standard Bible 
 
-1 " I loathe my own life; I will give full vent to my complaint; I will speak in the bitterness of my soul. 
+1 "I loathe my own life; I will give full vent to my complaint; I will speak in the bitterness of my soul. 
 2 "I will say to God, ' Do not condemn me; Let me know why You contend with me. 
 3 'Is it right for You indeed to oppress, To reject the labor of Your hands, And to look favorably on the  schemes of the wicked?
 4 'Have You eyes of flesh? Or do You see as a man sees? 
 5 'Are Your days as the days of a mortal, Or Your years as man's years, 
 6 That You should seek for my guilt And search after my sin? 
-7 'According to Your knowledge I am indeed not guilty, Yet there is no deliverance from Your hand. 8' Your hands fashioned and made me altogether, And would You destroy me? 
+7 'According to Your knowledge I am indeed not guilty, Yet there is no deliverance from Your hand.
+8 ' Your hands fashioned and made me altogether, And would You destroy me?
 9 "Remember now, that You have made me as clay; And would You turn me into dust again? 
 10 'Did You not pour me out like milk And curdle me like cheese; 
 11 Clothe me with skin and flesh, And knit me together with bones and sinews? 
@@ -250,7 +260,8 @@ Job 10 New American Standard Bible
 14 If I sin, then You would take note of me, And would not acquit me of my guilt. 
 15 'If I am wicked, woe to me! And if I am righteous, I dare not lift up my head. {I am} sated with  disgrace and conscious of my misery.
 16 'Should {my head} be lifted up, You would hunt me like a lion; And again You would show Your  power against me.
-17 "You renew Your witnesses against me And increase Your anger toward me; Hardship after hardship  is with me. 18' Why then have You brought me out of the womb? Would that I had died and no eye had seen me! 
+17 "You renew Your witnesses against me And increase Your anger toward me; Hardship after hardship  is with me.
+18 ' Why then have You brought me out of the womb? Would that I had died and no eye had seen me!
 19 'I should have been as though I had not been, Carried from womb to tomb." 
 20 "Would He not let my few days alone? Withdraw from me that I may have a little cheer 
 21 Before I go-- and I shall not return-- To the land of darkness and deep shadow, 
@@ -263,12 +274,14 @@ Job 11 New American Standard Bible
 3 "Shall your boasts silence men? And shall you scoff and none rebuke? 
 4 "For you have said, 'My teaching is pure, And I am innocent in your eyes." 
 5 "But would that God might speak, And open His lips against you, 
-6 And show you the secrets of wisdom! For sound wisdom has two sides. Know then that God forgets a  part of your iniquity. 7" Can you discover the depths of God? Can you discover the limits of the Almighty? 
+6 And show you the secrets of wisdom! For sound wisdom has two sides. Know then that God forgets a  part of your iniquity.
+7 "Can you discover the depths of God? Can you discover the limits of the Almighty?
 8 "{They are} high as the heavens, what can you do? Deeper than Sheol, what can you know? 
 9 "Its measure is longer than the earth And broader than the sea. 
 10 "If He passes by or shuts up, Or calls an assembly, who can restrain Him? 
-11 "For He knows false men, And He sees iniquity without investigating. 12" An idiot will become intelligent When the foal of a wild donkey is born a man. 
-13 " If you would direct your heart right And spread out your hand to Him, 
+11 "For He knows false men, And He sees iniquity without investigating.
+12 "An idiot will become intelligent When the foal of a wild donkey is born a man.
+13 "If you would direct your heart right And spread out your hand to Him, 
 14 If iniquity is in your hand, put it far away, And do not let wickedness dwell in your tents; 
 15 "Then, indeed, you could lift up your face without {moral} defect, And you would be steadfast and  not fear.
 16 "For you would forget {your} trouble, As waters that have passed by, you would remember {it. } 
@@ -307,8 +320,10 @@ Job 12 New American Standard Bible
 
 Job 13 New American Standard Bible 
 
-1 " Behold, my eye has seen all {this,} My ear has heard and understood it. 2" What you know I also know; I am not inferior to you. 
-3 "But I would speak to the Almighty, And I desire to argue with God. 4"But you smear with lies; You are all worthless physicians. 
+1 "Behold, my eye has seen all {this,} My ear has heard and understood it.
+2 "What you know I also know; I am not inferior to you.
+3 "But I would speak to the Almighty, And I desire to argue with God.
+4 "But you smear with lies; You are all worthless physicians.
 5 "O that you would be completely silent, And that it would become your wisdom! 
 6 "Please hear my argument And listen to the contentions of my lips. 
 7 "Will you speak what is unjust for God, And speak what is deceitful for Him? 
@@ -317,16 +332,17 @@ Job 13 New American Standard Bible
 10 "He will surely reprove you If you secretly show partiality. 
 11 "Will not His majesty terrify you, And the dread of Him fall on you? 
 12 "Your memorable sayings are proverbs of ashes, Your defenses are defenses of clay. 
-13 " Be silent before me so that I may speak; Then let come on me what may. 
+13 "Be silent before me so that I may speak; Then let come on me what may. 
 14 "Why should I take my flesh in my teeth And put my life in my hands? 
-15 " Though He slay me, I will hope in Him. Nevertheless I will argue my ways before Him. 
+15 "Though He slay me, I will hope in Him. Nevertheless I will argue my ways before Him. 
 16 "This also will be my salvation, For a godless man may not come before His presence. 
 17 "Listen carefully to my speech, And let my declaration {fill} your ears. 
-18 "Behold now, I have prepared my case; I know that I will be vindicated. 19" Who will contend with me? For then I would be silent and die. 
+18 "Behold now, I have prepared my case; I know that I will be vindicated.
+19 "Who will contend with me? For then I would be silent and die.
 20 "Only two things do not do to me, Then I will not hide from Your face: 
 21 Remove Your hand from me, And let not the dread of You terrify me. 
 22 "Then call, and I will answer; Or let me speak, then reply to me. 
-23 " How many are my iniquities and sins? Make known to me my rebellion and my sin. 
+23 "How many are my iniquities and sins? Make known to me my rebellion and my sin. 
 24 "Why do You hide Your face And consider me Your enemy? 
 25 "Will You cause a driven leaf to tremble? Or will You pursue the dry chaff? 
 26 "For You write bitter things against me And make me to inherit the iniquities of my youth. 
@@ -336,8 +352,10 @@ Job 13 New American Standard Bible
 Job 14 New American Standard Bible 
 
 1" Man, who is born of woman, Is short-lived and full of turmoil. 2" Like a flower he comes forth and withers. He also flees like a shadow and does not remain. 
-3 "You also open Your eyes on him And bring him into judgment with Yourself. 4" Who can make the clean out of the unclean? No one! 
-5 "Since his days are determined, The number of his months is with You; And his limits You have set so  that he cannot pass. 6" Turn Your gaze from him that he may rest, Until he fulfills his day like a hired man. 
+3 "You also open Your eyes on him And bring him into judgment with Yourself.
+4 "Who can make the clean out of the unclean? No one!
+5 "Since his days are determined, The number of his months is with You; And his limits You have set so  that he cannot pass.
+6 "Turn Your gaze from him that he may rest, Until he fulfills his day like a hired man.
 7 "For there is hope for a tree, When it is cut down, that it will sprout again, And its shoots will not fail. 
 8 "Though its roots grow old in the ground And its stump dies in the dry soil, 
 9 At the scent of water it will flourish And put forth sprigs like a plant. 
@@ -364,7 +382,8 @@ Job 15 New American Standard Bible
 5 "For your guilt teaches your mouth, And you choose the language of the crafty. 
 6 "Your own mouth condemns you, and not I; And your own lips testify against you. 
 7 "Were you the first man to be born, Or were you brought forth before the hills? 
-8 "Do you hear the secret counsel of God, And limit wisdom to yourself? 9" What do you know that we do not know? {What} do you understand that we do not? 
+8 "Do you hear the secret counsel of God, And limit wisdom to yourself?
+9 "What do you know that we do not know? {What} do you understand that we do not?
 10 "Both the gray-haired and the aged are among us, Older than your father. 
 11 "Are the consolations of God too small for you, Even the word {spoken} gently with you? 
 12 "Why does your heart carry you away? And why do your eyes flash, 
@@ -419,7 +438,8 @@ Job 16 New American Standard Bible
 
 Job 17 New American Standard Bible 
 
-1 "My spirit is broken, my days are extinguished, The grave is {ready} for me. 2" Surely mockers are with me, And my eye gazes on their provocation. 
+1 "My spirit is broken, my days are extinguished, The grave is {ready} for me.
+2 "Surely mockers are with me, And my eye gazes on their provocation.
 3 "Lay down, now, a pledge for me with Yourself; Who is there that will be my guarantor? 
 4 "For You have kept their heart from understanding, Therefore You will not exalt {them.} 
 5 "He who informs against friends for a share {of the spoil,} The eyes of his children also will languish. 
@@ -452,7 +472,8 @@ Job 18 New American Standard Bible
 13 "His skin is devoured by disease, The firstborn of death devours his limbs. 
 14 "He is torn from the security of his tent, And they march him before the king of terrors. 
 15 "There dwells in his tent nothing of his; Brimstone is scattered on his habitation. 
-16 "His roots are dried below, And his branch is cut off above. 17" Memory of him perishes from the earth, And he has no name abroad. 
+16 "His roots are dried below, And his branch is cut off above.
+17 "Memory of him perishes from the earth, And he has no name abroad.
 18 "He is driven from light into darkness, And chased from the inhabited world. 
 19 "He has no offspring or posterity among his people, Nor any survivor where he sojourned. 
 20 "Those in the west are appalled at his fate, And those in the east are seized with horror. 
@@ -494,7 +515,8 @@ Job 20 New American Standard Bible
 
 1 Then Zophar the Naamathite answered, 
 2 "Therefore my disquieting thoughts make me respond, Even because of my inward agitation. 
-3 "I listened to the reproof which insults me, And the spirit of my understanding makes me answer.  4"Do you know this from of old, From the establishment of man on earth,
+3 "I listened to the reproof which insults me, And the spirit of my understanding makes me answer.
+4 "Do you know this from of old, From the establishment of man on earth,
 5 That the triumphing of the wicked is short, And the joy of the godless momentary? 
 6 "Though his loftiness reaches the heavens, And his head touches the clouds, 
 7 He perishes forever like his refuse; Those who have seen him will say, "Where is he?" 
@@ -525,7 +547,8 @@ Job 21 New American Standard Bible
 
 1 Then Job answered, 
 2 "Listen carefully to my speech, And let this be your {way of} consolation. 
-3 "Bear with me that I may speak; Then after I have spoken, you may mock. 4"As for me, is my complaint to man? And why should I not be impatient? 
+3 "Bear with me that I may speak; Then after I have spoken, you may mock.
+4 "As for me, is my complaint to man? And why should I not be impatient?
 5 "Look at me, and be astonished, And put {your} hand over {your} mouth. 
 6 "Even when I remember, I am disturbed, And horror takes hold of my flesh. 
 7 "Why do the wicked {still} live, Continue on, also become very powerful? 
@@ -571,13 +594,15 @@ Job 22 New American Standard Bible
 10 "Therefore snares surround you, And sudden dread terrifies you, 
 11 Or darkness, so that you cannot see, And an abundance of water covers you. 
 12 "Is not God {in} the height of heaven? Look also at the distant stars, how high they are! 
-13 "You say, ' What does God know? Can He judge through the thick darkness? 14' Clouds are a hiding place for Him, so that He cannot see; And He walks on the vault of heaven.' 
+13 "You say, ' What does God know? Can He judge through the thick darkness?
+14 ' Clouds are a hiding place for Him, so that He cannot see; And He walks on the vault of heaven.'
 15 "Will you keep to the ancient path Which wicked men have trod, 
 16 Who were snatched away before heir time, Whose foundations were washed away by a river? 
 17 "They said to God, 'Depart from us!' And 'What can the Almighty do to them?' 
 18 "Yet He filled their houses with good {things;} But the counsel of the wicked is far from me. 
 19 "The righteous see and are glad, And the innocent mock them, 
-20 {Saying,} 'Truly our adversaries are cut off, And their abundance the fire has consumed.' 21" Yield now and be at peace with Him; Thereby good will come to you. 
+20 {Saying,} 'Truly our adversaries are cut off, And their abundance the fire has consumed.'
+21 "Yield now and be at peace with Him; Thereby good will come to you.
 22 "Please receive instruction from His mouth And establish His words in your heart. 
 23 "If you return to the Almighty, you will be restored; If you remove unrighteousness far from your  tent,
 24 And place {your} gold in the dust, And {the gold of} Ophir among the stones of the brooks, 
@@ -615,7 +640,8 @@ Job 24 New American Standard Bible
 3 "They drive away the donkeys of the orphans; They take the widow's ox for a pledge. 
 4 "They push the needy aside from the road; The poor of the land are made to hide themselves  altogether.
 5 "Behold, as wild donkeys in the wilderness They go forth seeking food in their activity, As bread for  {their} children in the desert.
-6 "They harvest their fodder in the field And glean the vineyard of the wicked. 7" They spend the night naked, without clothing, And have no covering against the cold. 
+6 "They harvest their fodder in the field And glean the vineyard of the wicked.
+7 "They spend the night naked, without clothing, And have no covering against the cold.
 8 "They are wet with the mountain rains And hug the rock for want of a shelter. 
 9 "Others snatch the orphan from the breast, And against the poor they take a pledge. 
 10 "They cause {the poor} to go about naked without clothing, And they take away the sheaves from the  hungry.
@@ -637,7 +663,8 @@ Job 24 New American Standard Bible
 
 Job 25 New American Standard Bible 
 
-1 Then Bildad the Shuhite answered, 2" Dominion and awe belong to Him Who establishes peace in His heights. 
+1 Then Bildad the Shuhite answered,
+2 "Dominion and awe belong to Him Who establishes peace in His heights.
 3 "Is there any number to His troops? And upon whom does His light not rise? 
 4 "How then can a man be just with God? Or how can he be clean who is born of woman? 
 5 "If even the moon has no brightness And the stars are not pure in His sight, 
@@ -647,7 +674,8 @@ Job 26 New American Standard Bible
 
 1 Then Job responded, 
 2 "What a help you are to the weak! How you have saved the arm without strength! 
-3 "What counsel you have given to {one} without wisdom! What helpful insight you have abundantly  provided! 4"To whom have you uttered words? And whose spirit was expressed through you? 
+3 "What counsel you have given to {one} without wisdom! What helpful insight you have abundantly  provided!
+4 "To whom have you uttered words? And whose spirit was expressed through you?
 5 "The departed spirits tremble Under the waters and their inhabitants. 
 6 "Naked is Sheol before Him, And Abaddon has no covering. 
 7 "He stretches out the north over empty space And hangs the earth on nothing. 
@@ -679,7 +707,8 @@ Job 27 New American Standard Bible
 16 "Though he piles up silver like dust And prepares garments as {plentiful as} the clay, 
 17 He may prepare {it,} but the just will wear {it} And the innocent will divide the silver. 
 18 "He has built his house like the spider's web, Or as a hut {which} the watchman has made. 
-19 "He lies down rich, but never again; He opens his eyes, and it is no longer. 20" Terrors overtake him like a flood; A tempest steals him away in the night. 
+19 "He lies down rich, but never again; He opens his eyes, and it is no longer.
+20 "Terrors overtake him like a flood; A tempest steals him away in the night.
 21 "The east wind carries him away, and he is gone, For it whirls him away from his place. 
 22 "For it will hurl at him without sparing; He will surely try to flee from its power. 
 23 "{Men} will clap their hands at him And will hiss him from his place. 
@@ -698,15 +727,17 @@ Job 28 New American Standard Bible
 10 "He hews out channels through the rocks, And his eye sees anything precious. 
 11 "He dams up the streams from flowing, And what is hidden he brings out to the light. 
 12 "But where can wisdom be found? And where is the place of understanding? 
-13 " Man does not know its value, Nor is it found in the land of the living. 
+13 "Man does not know its value, Nor is it found in the land of the living. 
 14 "The deep says, 'It is not in me’; And the sea says, 'It is not with me.' 
-15 " Pure gold cannot be given in exchange for it, Nor can silver be weighed as its price. 
-16 "It cannot be valued in the gold of Ophir, In precious onyx, or sapphire. 17" Gold or glass cannot equal it, Nor can it be exchanged for articles of fine gold. 
+15 "Pure gold cannot be given in exchange for it, Nor can silver be weighed as its price. 
+16 "It cannot be valued in the gold of Ophir, In precious onyx, or sapphire.
+17 "Gold or glass cannot equal it, Nor can it be exchanged for articles of fine gold.
 18 "Coral and crystal are not to be mentioned; And the acquisition of wisdom is above {that of} pearls. 
 19 "The topaz of Ethiopia cannot equal it, Nor can it be valued in pure gold. 
-20 " Where then does wisdom come from? And where is the place of understanding? 
-21 "Thus it is hidden from the eyes of all living And concealed from the birds of the sky. 22" Abaddon and Death say, "With our ears we have heard a report of it.' 
-23 " God understands its way, And He knows its place. 
+20 "Where then does wisdom come from? And where is the place of understanding? 
+21 "Thus it is hidden from the eyes of all living And concealed from the birds of the sky.
+22 "Abaddon and Death say, "With our ears we have heard a report of it.'
+23 "God understands its way, And He knows its place. 
 24 "For He looks to the ends of the earth And sees everything under the heavens. 
 25 "When He imparted weight to the wind And meted out the waters by measure, 
 26 When He set a limit for the rain And a course for the thunderbolt, 
@@ -757,7 +788,7 @@ Job 30 New American Standard Bible
 12 "On the right hand their brood arises; They thrust aside my feet and build up against me their ways of  destruction.
 13 "They break up my path, They profit from my destruction; No one restrains them. 
 14 "As {through} a wide breach they come, Amid the tempest they roll on. 
-15 " Terrors are turned against me; They pursue my honor as the wind, And my prosperity has passed  away like a cloud.
+15 "Terrors are turned against me; They pursue my honor as the wind, And my prosperity has passed  away like a cloud.
 16 "And now my soul is poured out within me; Days of affliction have seized me. 
 17 "At night it pierces my bones within me, And my gnawing {pains} take no rest. 
 18 "By a great force my garment is distorted; It binds me about as the collar of my coat. 
@@ -848,7 +879,8 @@ Job 33 New American Standard Bible
 1 "However now, Job, please hear my speech, And listen to all my words. 
 2 "Behold now, I open my mouth, My tongue in my mouth speaks. 
 3 "My words are {from} the uprightness of my heart, And my lips speak knowledge sincerely. 
-4 "The Spirit of God has made me, And the breath of the Almighty gives me life. 5" Refute me if you can; Array yourselves before me, take your stand. 
+4 "The Spirit of God has made me, And the breath of the Almighty gives me life.
+5 "Refute me if you can; Array yourselves before me, take your stand.
 6 "Behold, I belong to God like you; I too have been formed out of the clay. 
 7 "Behold, no fear of me should terrify you, Nor should my pressure weigh heavily on you. 
 8 "Surely you have spoken in my hearing, And I have heard the sound of {your} words: 
@@ -923,7 +955,8 @@ Job 35 New American Standard Bible
 1 Then Elihu continued and said, 
 2 "Do you think this is according to justice? Do you say, 'My righteousness is more than God's'? 
 3 "For you say, ' What advantage will it be to You? What profit will I have, more than if I had sinned?" 
-4 "I will answer you, And your friends with you. 5" Look at the heavens and see; And behold the clouds--they are higher than you. 
+4 "I will answer you, And your friends with you.
+5 "Look at the heavens and see; And behold the clouds--they are higher than you.
 6 "If you have sinned, what do you accomplish against Him? And if your transgressions are many, what  do you do to Him?
 7 "If you are righteous, what do you give to Him, Or what does He receive from your hand? 
 8 "Your wickedness is for a man like yourself, And your righteousness is for a son of man. 
@@ -947,7 +980,7 @@ Job 36 New American Standard Bible
 7 "He does not withdraw His eyes from the righteous; But with kings on the throne He has seated them  forever, and they are exalted.
 8 "And if they are bound in fetters, And are caught in the cords of affliction, 
 9 Then He declares to them their work And their transgressions, that they have magnified themselves. 
-10 " He opens their ear to instruction, And commands that they return from evil. 
+10 "He opens their ear to instruction, And commands that they return from evil. 
 11 "If they hear and serve {Him,} They will end their days in prosperity And their years in pleasures. 
 12 "But if they do not hear, they shall perish by the sword And they will die without knowledge. 
 13 "But the godless in heart lay up anger; They do not cry for help when He binds them. 
@@ -1086,10 +1119,11 @@ Job 40 New American Standard Bible
 6 Then the LORD answered Job out of the storm and said, 
 7 "Now gird up your loins like a man; I will ask you, and you instruct Me. 
 8 "Will you really annul My judgment? Will you condemn Me that you may be justified? 
-9 "Or do you have an arm like God, And can you thunder with a voice like His? 10" Adorn yourself with eminence and dignity, And clothe yourself with honor and majesty. 
+9 "Or do you have an arm like God, And can you thunder with a voice like His?
+10 "Adorn yourself with eminence and dignity, And clothe yourself with honor and majesty.
 11 "Pour out the overflowings of your anger, And look on everyone who is proud, and make him low. 
 12 "Look on everyone who is proud, {and} humble him, And tread down the wicked where they stand. 
-13 " Hide them in the dust together; Bind them in the hidden {place. } 
+13 "Hide them in the dust together; Bind them in the hidden {place. } 
 14 "Then I will also confess to you, That your own right hand can save you. 
 15 "Behold now, Behemoth, which I made as well as you; He eats grass like an ox. 
 16 "Behold now, his strength in his loins And his power in the muscles of his belly. 
@@ -1136,7 +1170,7 @@ Job 41 New American Standard Bible
 30 "His underparts are {like} sharp potsherds; He spreads out {like} a threshing sledge on the mire. 
 31 "He makes the depths boil like a pot; He makes the sea like a jar of ointment. 
 32 "Behind him he makes a wake to shine; One would think the deep to be gray-haired. 
-33 " Nothing on earth is like him, One made without fear. 
+33 "Nothing on earth is like him, One made without fear. 
 34 "He looks on everything that is high; He is king over all the sons of pride." 
 
 Job 42 New American Standard Bible 

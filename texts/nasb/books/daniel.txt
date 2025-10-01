@@ -99,7 +99,7 @@ Daniel 3 New American Standard Bible
 15 "Now if you are ready, at the moment you hear the sound of the horn, flute, lyre, trigon, psaltery and  bagpipe and all kinds of music, to fall down and worship the image that I have made, {very well.} But if you do not worship, you will immediately be cast into the midst of a furnace of blazing fire; and what god is there who can deliver you out of my hands?"
 16 Shadrach, Meshach and Abed-nego replied to the king, "O Nebuchadnezzar, we do not need to give  you an answer concerning this matter.
 17 "If it be {so,} our God whom we serve is able to deliver us from the furnace of blazing fire; and He  will deliver us out of your hand, O king.
-18 " But {even} if {He does} not, let it be known to you, O king, that we are not going to serve your  gods or worship the golden image that you have set up."
+18 "But {even} if {He does} not, let it be known to you, O king, that we are not going to serve your  gods or worship the golden image that you have set up."
 19 Then Nebuchadnezzar was filled with wrath, and his facial expression was altered toward Shadrach,  Meshach and Abed-nego. He answered by giving orders to heat the furnace seven times more than it was usually heated.
 20 He commanded certain valiant warriors who {were} in his army to tie up Shadrach, Meshach and  Abed-nego in order to cast {them} into the furnace of blazing fire.
 21 Then these men were tied up in their trousers, their coats, their caps and their {other} clothes, and  were cast into the midst of the furnace of blazing fire.
@@ -149,13 +149,13 @@ Daniel 4 New American Standard Bible
 26 'And in that it was commanded to leave the stump with the roots of the tree, your kingdom will be  assured to you after you recognize that {it is} Heaven {that} rules.
 27 'Therefore, O king, may my advice be pleasing to you: break away now from your sins by {doing}  righteousness and from your iniquities by showing mercy to {the} poor, in case there may be a prolonging of your prosperity.'
 28 "All {this} happened to Nebuchadnezzar the king. 
-29 " Twelve months later he was walking on the {roof of} the royal palace of Babylon. 
+29 "Twelve months later he was walking on the {roof of} the royal palace of Babylon. 
 30 "The king reflected and said, 'Is this not Babylon the great, which I myself have built as a royal  residence by the might of my power and for the glory of my majesty?’
 31 "While the word {was} in the king's mouth, a voice came from heaven, {saying,} 'King  Nebuchadnezzar, to you it is declared: sovereignty has been removed from you,
 32 and you will be driven away from mankind, and your dwelling place {will be} with the beasts of the  field. You will be given grass to eat like cattle, and seven periods of time will pass over you until you recognize that the Most High is ruler over the realm of mankind and bestows it on whomever He wishes.'
 33 "Immediately the word concerning Nebuchadnezzar was fulfilled; and he was driven away from  mankind and began eating grass like cattle, and his body was drenched with the dew of heaven until his hair had grown like eagles' {feathers} and his nails like birds' {claws.}
 34 "But at the end of that period, I, Nebuchadnezzar, raised my eyes toward heaven and my reason  returned to me, and I blessed the Most High and praised and honored Him who lives forever; For His dominion is an everlasting dominion, And His kingdom {endures} from generation to generation.
-35 " All the inhabitants of the earth are accounted as nothing, But He does according to His will in the  host of heaven And {among} the inhabitants of earth; And no one can ward off His hand Or say to Him, ' What have You done?’
+35 "All the inhabitants of the earth are accounted as nothing, But He does according to His will in the  host of heaven And {among} the inhabitants of earth; And no one can ward off His hand Or say to Him, ' What have You done?’
 36 "At that time my reason returned to me. And my majesty and splendor were restored to me for the  glory of my kingdom, and my counselors and my nobles began seeking me out; so I was reestablished in my sovereignty, and surpassing greatness was added to me.
 37 "Now I, Nebuchadnezzar, praise, exalt and honor the King of heaven, for all His works are true and  His ways just, and He is able to humble those who walk in pride."
 
@@ -189,7 +189,8 @@ Daniel 5 New American Standard Bible
 23 but you have exalted yourself against the Lord of heaven; and they have brought the vessels of His  house before you, and you and your nobles, your wives and your concubines have been drinking wine from them; and you have praised the gods of silver and gold, of bronze, iron, wood and stone, which do not see, hear or understand. But the God in whose hand are your life-breath and your ways, you have not glorified.
 24 "Then the hand was sent from Him and this inscription was written out. 
 25 "Now this is the inscription that was written out: 'MENE, MENE, TEKEL, UPHARSIN.' 
-26 "This is the interpretation of the message: 'MENE'--God has numbered your kingdom and put an end  to it. 27" 'TEKEL'--you have been weighed on the scales and found deficient. 
+26 "This is the interpretation of the message: 'MENE'--God has numbered your kingdom and put an end  to it.
+27 " 'TEKEL'--you have been weighed on the scales and found deficient.
 28 "'PERES'--your kingdom has been divided and given over to the Medes and Persians." 
 29 Then Belshazzar gave orders, and they clothed Daniel with purple and {put} a necklace of gold  around his neck, and issued a proclamation concerning him that he {now} had authority as the third {ruler} in the kingdom.
 30 That same night Belshazzar the Chaldean king was slain. 
@@ -304,7 +305,7 @@ Daniel 9 New American Standard Bible
 4 I prayed to the LORD my God and confessed and said, "Alas, O Lord, the great and awesome God,  who keeps His covenant and lovingkindness for those who love Him and keep His commandments,
 5 we have sinned, committed iniquity, acted wickedly and rebelled, even turning aside from Your  commandments and ordinances.
 6 "Moreover, we have not listened to Your servants the prophets, who spoke in Your name to our kings,  our princes, our fathers and all the people of the land.
-7 " Righteousness belongs to You, O Lord, but to us open shame, as it is this day--to the men of Judah,  the inhabitants of Jerusalem and all Israel, those who are nearby and those who are far away in all the countries to which You have driven them, because of their unfaithful deeds which they have committed against You.
+7 "Righteousness belongs to You, O Lord, but to us open shame, as it is this day--to the men of Judah,  the inhabitants of Jerusalem and all Israel, those who are nearby and those who are far away in all the countries to which You have driven them, because of their unfaithful deeds which they have committed against You.
 8 "Open shame belongs to us, O Lord, to our kings, our princes and our fathers, because we have sinned  against You.
 9 "To the Lord our God {belong} compassion and forgiveness, for we have rebelled against Him; 
 10 nor have we obeyed the voice of the LORD our God, to walk in His teachings which He set before us  through His servants the prophets.
@@ -390,7 +391,7 @@ Daniel 11 New American Standard Bible
 30 "For ships of Kittim will come against him; therefore he will be disheartened and will return and  become enraged at the holy covenant and take action; so he will come back and show regard for those who forsake the holy covenant.
 31 "Forces from him will arise, desecrate the sanctuary fortress, and do away with the regular sacrifice.  And they will set up the abomination of desolation.
 32 "By smooth {words} he will turn to godlessness those who act wickedly toward the covenant, but the  people who know their God will display strength and take action.
-33 " Those who have insight among the people will give understanding to the many; yet they will fall by  sword and by flame, by captivity and by plunder for {many} days.
+33 "Those who have insight among the people will give understanding to the many; yet they will fall by  sword and by flame, by captivity and by plunder for {many} days.
 34 "Now when they fall they will be granted a little help, and many will join with them in hypocrisy. 
 35 "Some of those who have insight will fall, in order to refine, purge and make them pure until the end  time; because {it is} still {to come} at the appointed time.
 36 "Then the king will do as he pleases, and he will exalt and magnify himself above every god and will  speak monstrous things against the God of gods; and he will prosper until the indignation is finished, for that which is decreed will be done.
@@ -409,7 +410,8 @@ Daniel 11 New American Standard Bible
 
 Daniel 12 New American Standard Bible 
 
-1 "Now at that time Michael, the great prince who stands {guard} over the sons of your people, will  arise. And there will be a time of distress such as never occurred since there was a nation until that time; and at that time your people, everyone who is found written in the book, will be rescued. 2" Many of those who sleep in the dust of the ground will awake, these to everlasting life, but the others to disgrace {and} everlasting contempt. 
+1 "Now at that time Michael, the great prince who stands {guard} over the sons of your people, will  arise. And there will be a time of distress such as never occurred since there was a nation until that time; and at that time your people, everyone who is found written in the book, will be rescued.
+2 "Many of those who sleep in the dust of the ground will awake, these to everlasting life, but the others to disgrace {and} everlasting contempt.
 3 "Those who have insight will shine brightly like the brightness of the expanse of heaven, and those  who lead the many to righteousness, like the stars forever and ever.
 4 "But as for you, Daniel, conceal these words and seal up the book until the end of time; many will go  back and forth, and knowledge will increase."
 5 Then I, Daniel, looked and behold, two others were standing, one on this bank of the river and the  other on that bank of the river.
@@ -417,7 +419,7 @@ Daniel 12 New American Standard Bible
 7 I heard the man dressed in linen, who was above the waters of the river, as he raised his right hand and  his left toward heaven, and swore by Him who lives forever that it would be for a time, times, and half {a} {time;} and as soon as they finish shattering the power of the holy people, all these {events} will be completed.
 8 As for me, I heard but could not understand; so I said, "My lord, what {will be} the outcome of these  {events?}"
 9 He said, "Go {your way,} Daniel, for {these} words are concealed and sealed up until the end time. 
-10 " Many will be purged, purified and refined, but the wicked will act wickedly; and none of the  wicked will understand, but those who have insight will understand.
+10 "Many will be purged, purified and refined, but the wicked will act wickedly; and none of the  wicked will understand, but those who have insight will understand.
 11 "From the time that the regular sacrifice is abolished and the abomination of desolation is set up,  {there will be} 1,290 days.
 12 "How blessed is he who keeps waiting and attains to the 1,335 days! 
 13 "But as for you, go {your way} to the end; then you will enter into rest and rise {again} for your  allotted portion at the end of the age."

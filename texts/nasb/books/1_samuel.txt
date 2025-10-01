@@ -30,7 +30,7 @@
 25 Then they slaughtered the bull, and brought the boy to Eli. 
 26 She said, "Oh, my lord! As your soul lives, my lord, I am the woman who stood here beside you,  praying to the LORD.
 27 "For this boy I prayed, and the LORD has given me my petition which I asked of Him. 
-28 " So I have also dedicated him to the LORD; as long as he lives he is dedicated to the LORD." And  he worshiped the LORD there.
+28 "So I have also dedicated him to the LORD; as long as he lives he is dedicated to the LORD." And  he worshiped the LORD there.
 
 1 Samuel 2 New American Standard Bible 
 
@@ -259,7 +259,8 @@
 15 Saul's uncle said, "Please tell me what Samuel said to you." 
 16 So Saul said to his uncle, " He told us plainly that the donkeys had been found." But he did not tell  him about the matter of the kingdom which Samuel had mentioned.
 17 Thereafter Samuel called the people together to the LORD at Mizpah; 
-18 and he said to the sons of Israel, " Thus says the LORD, the God of Israel, 'I brought Israel up from  Egypt, and I delivered you from the hand of the Egyptians and from the power of all the kingdoms that were oppressing you.’ 19"But you have today rejected your God, who delivers you from all your calamities and your distresses; yet you have said, 'No, but set a king over us!' Now therefore, present yourselves before the LORD by your tribes and by your clans." 
+18 and he said to the sons of Israel, " Thus says the LORD, the God of Israel, 'I brought Israel up from  Egypt, and I delivered you from the hand of the Egyptians and from the power of all the kingdoms that were oppressing you.’
+19 "But you have today rejected your God, who delivers you from all your calamities and your distresses; yet you have said, 'No, but set a king over us!' Now therefore, present yourselves before the LORD by your tribes and by your clans."
 20 Thus Samuel brought all the tribes of Israel near, and the tribe of Benjamin was taken by lot. 
 21 Then he brought the tribe of Benjamin near by its families, and the Matrite family was taken. And  Saul the son of Kish was taken; but when they looked for him, he could not be found.
 22 Therefore they inquired further of the LORD, "Has the man come here yet?" So the LORD said,  "Behold, he is hiding himself by the baggage."
@@ -496,7 +497,7 @@
 15 but David went back and forth from Saul to tend his father's flock at Bethlehem. 
 16 The Philistine came forward morning and evening for forty days and took his stand. 
 17 Then Jesse said to David his son, " Take now for your brothers an ephah of this roasted grain and  these ten loaves and run to the camp to your brothers.
-18 " Bring also these ten cuts of cheese to the commander of their thousand, and look into the welfare of  your brothers, and bring back news of them.
+18 "Bring also these ten cuts of cheese to the commander of their thousand, and look into the welfare of  your brothers, and bring back news of them.
 19 "For Saul and they and all the men of Israel are in the valley of Elah, fighting with the Philistines." 
 20 So David arose early in the morning and left the flock with a keeper and took the supplies and went  as Jesse had commanded him. And he came to the circle of the camp while the army was going out in battle array shouting the war cry.
 21 Israel and the Philistines drew up in battle array, army against army. 
@@ -686,7 +687,8 @@
 6 Then Saul heard that David and the men who were with him had been discovered. Now Saul was  sitting in Gibeah, under the tamarisk tree on the height with his spear in his hand, and all his servants were standing around him.
 7 Saul said to his servants who stood around him, "Hear now, O Benjamites! Will the son of Jesse also  give to all of you fields and vineyards? Will he make you all commanders of thousands and commanders of hundreds?
 8 "For all of you have conspired against me so that there is no one who discloses to me when my son  makes a covenant with the son of Jesse, and there is none of you who is sorry for me or discloses to me that my son has stirred up my servant against me to lie in ambush, as it is this day."
-9 Then Doeg the Edomite, who was standing by the servants of Saul, said, " I saw the son of Jesse  coming to Nob, to Ahimelech the son of Ahitub. 10" He inquired of the LORD for him, gave him provisions, and gave him the sword of Goliath the Philistine." 
+9 Then Doeg the Edomite, who was standing by the servants of Saul, said, " I saw the son of Jesse  coming to Nob, to Ahimelech the son of Ahitub.
+10 "He inquired of the LORD for him, gave him provisions, and gave him the sword of Goliath the Philistine."
 11 Then the king sent someone to summon Ahimelech the priest, the son of Ahitub, and all his father's  household, the priests who were in Nob; and all of them came to the king.
 12 Saul said, "Listen now, son of Ahitub." And he answered, "Here I am, my lord." 
 13 Saul then said to him, "Why have you and the son of Jesse conspired against me, in that you have  given him bread and a sword and have inquired of God for him, so that he would rise up against me by lying in ambush as it is this day?"

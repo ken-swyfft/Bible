@@ -1,6 +1,7 @@
 Ecclesiastes 1 New American Standard Bible 
 
-1 The words of the Preacher, the son of David, king in Jerusalem. 2" Vanity of vanities," says the Preacher, "Vanity of vanities! All is vanity." 
+1 The words of the Preacher, the son of David, king in Jerusalem.
+2 "Vanity of vanities," says the Preacher, "Vanity of vanities! All is vanity."
 3 What advantage does man have in all his work Which he does under the sun? 
 4 A generation goes and a generation comes, But the earth remains forever. 
 5 Also, the sun rises and the sun sets; And hastening to its place it rises there {again.} 
@@ -246,7 +247,8 @@ Ecclesiastes 12 New American Standard Bible
 4 and the doors on the street are shut as the sound of the grinding mill is low, and one will arise at the  sound of the bird, and all the daughters of song will sing softly.
 5 Furthermore, men are afraid of a high place and of terrors on the road; the almond tree blossoms, the  grasshopper drags himself along, and the caperberry is ineffective. For man goes to his eternal home while mourners go about in the street.
 6 {Remember Him} before the silver cord is broken and the golden bowl is crushed, the pitcher by the  well is shattered and the wheel at the cistern is crushed;
-7 then the dust will return to the earth as it was, and the spirit will return to God who gave it. 8" Vanity of vanities," says the Preacher, "all is vanity!" 
+7 then the dust will return to the earth as it was, and the spirit will return to God who gave it.
+8 "Vanity of vanities," says the Preacher, "all is vanity!"
 9 In addition to being a wise man, the Preacher also taught the people knowledge; and he pondered,  searched out and arranged many proverbs.
 10 The Preacher sought to find delightful words and to write words of truth correctly. 
 11 The words of wise men are like goads, and masters of {these} collections are like well-driven nails;  they are given by one Shepherd.

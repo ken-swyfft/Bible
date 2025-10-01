@@ -114,9 +114,6 @@ def parse_english_proverbs(file_path):
             verse_num = int(verse_match.group(1))
             verse_text = verse_match.group(2).strip()
 
-            # Handle multi-line verses by checking if the next lines continue the verse
-            # This is a simple implementation - we'll process line by line for now
-
             # Count English words (split by whitespace, remove punctuation for counting)
             english_words = re.findall(r'\b\w+\b', verse_text)
 

@@ -97,12 +97,13 @@ Genesis 4 New American Standard Bible
 3 So it came about in the course of time that Cain brought an offering to the LORD of the fruit of the  ground.
 4 Abel, on his part also brought of the firstlings of his flock and of their fat portions. And the LORD had  regard for Abel and for his offering;
 5 but for Cain and for his offering He had no regard. So Cain became very angry and his countenance  fell.
-6 Then the LORD said to Cain, " Why are you angry? And why has your countenance fallen? 7" If you do well, will not {your countenance} be lifted up? And if you do not do well, sin is crouching at the door; and its desire is for you, but you must master it." 
+6 Then the LORD said to Cain, " Why are you angry? And why has your countenance fallen?
+7 "If you do well, will not {your countenance} be lifted up? And if you do not do well, sin is crouching at the door; and its desire is for you, but you must master it."
 8 Cain told Abel his brother. And it came about when they were in the field, that Cain rose up against  Abel his brother and killed him.
 9 Then the LORD said to Cain, " Where is Abel your brother?" And he said, "I do not know. Am I my  brother's keeper?"
 10 He said, "What have you done? The voice of your brother's blood is crying to Me from the ground. 
 11 "Now you are cursed from the ground, which has opened its mouth to receive your brother's blood  from your hand.
-12 " When you cultivate the ground, it will no longer yield its strength to you; you will be a vagrant and  a wanderer on the earth."
+12 "When you cultivate the ground, it will no longer yield its strength to you; you will be a vagrant and  a wanderer on the earth."
 13 Cain said to the LORD, "My punishment is too great to bear! 
 14 "Behold, You have driven me this day from the face of the ground; and from Your face I will be  hidden, and I will be a vagrant and a wanderer on the earth, and whoever finds me will kill me."
 15 So the LORD said to him, "Therefore whoever kills Cain, vengeance will be taken on him  sevenfold." And the LORD appointed a sign for Cain, so that no one finding him would slay him.
@@ -173,8 +174,8 @@ Genesis 6 New American Standard Bible
 16 "You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark  in the side of it; you shall make it with lower, second, and third decks.
 17 "Behold, I, even I am bringing the flood of water upon the earth, to destroy all flesh in which is the  breath of life, from under heaven; everything that is on the earth shall perish.
 18 "But I will establish My covenant with you; and you shall enter the ark--you and your sons and your  wife, and your sons! wives with you.
-19 " And of every living thing of all flesh, you shall bring two of every {kind} into the ark, to keep  {them} alive with you; they shall be male and female.
-20 " Of the birds after their kind, and of the animals after their kind, of every creeping thing of the  ground after its kind, two of every {kind} will come to you to keep {them} alive.
+19 "And of every living thing of all flesh, you shall bring two of every {kind} into the ark, to keep  {them} alive with you; they shall be male and female.
+20 "Of the birds after their kind, and of the animals after their kind, of every creeping thing of the  ground after its kind, two of every {kind} will come to you to keep {them} alive.
 21 "As for you, take for yourself some of all food which is edible, and gather {it} to yourself; and it  shall be for food for you and for them."
 22 Thus Noah did; according to all that God had commanded him, so he did. 
 
@@ -453,13 +454,14 @@ Genesis 17 New American Standard Bible
 
 1 Now when Abram was ninety-nine years old, the LORD appeared to Abram and said to him, "I am  God Almighty; Walk before Me, and be blameless.
 2 "I will establish My covenant between Me and you, And I will multiply you exceedingly." 
-3 Abram fell on his face, and God talked with him, saying, 4"As for Me, behold, My covenant is with you, And you will be the father of a multitude of nations. 
+3 Abram fell on his face, and God talked with him, saying,
+4 "As for Me, behold, My covenant is with you, And you will be the father of a multitude of nations.
 5 "No longer shall your name be called Abram, But your name shall be Abraham; For I have made you  the father of a multitude of nations.
 6 "I will make you exceedingly fruitful, and I will make nations of you, and kings will come forth from  you.
 7 "I will establish My covenant between Me and you and your descendants after you throughout their  generations for an everlasting covenant, to be God to you and to your descendants after you.
-8 " I will give to you and to your descendants after you, the land of your sojournings, all the land of  Canaan, for an everlasting possession; and I will be their God."
+8 "I will give to you and to your descendants after you, the land of your sojournings, all the land of  Canaan, for an everlasting possession; and I will be their God."
 9 God said further to Abraham, "Now as for you, you shall keep My covenant, you and your  descendants after you throughout their generations.
-10 " This is My covenant, which you shall keep, between Me and you and your descendants after you:  every male among you shall be circumcised.
+10 "This is My covenant, which you shall keep, between Me and you and your descendants after you:  every male among you shall be circumcised.
 11 "And you shall be circumcised in the flesh of your foreskin, and it shall be the sign of the covenant  between Me and you.
 12 "And every male among you who is eight days old shall be circumcised throughout your generations,  a {servant} who is born in the house or who is bought with money from any foreigner, who is not of your descendants.
 13 "A {servant} who is born in your house or who is bought with your money shall surely be  circumcised; thus shall My covenant be in your flesh for an everlasting covenant.
@@ -713,9 +715,9 @@ Genesis 24 New American Standard Bible
 34 So he said, "I am Abraham's servant. 
 35 "The LORD has greatly blessed my master, so that he has become rich; and He has given him flocks  and herds, and silver and gold, and servants and maids, and camels and donkeys.
 36 "Now Sarah my master's wife bore a son to my master in her old age, and he has given him all that he  has.
-37 " My master made me swear, saying, "You shall not take a wife for my son from the daughters of the  Canaanites, in whose land I live;
+37 "My master made me swear, saying, "You shall not take a wife for my son from the daughters of the  Canaanites, in whose land I live;
 38 but you shall go to my father's house and to my relatives, and take a wife for my son. 
-39 " I said to my master, 'Suppose the woman does not follow me.' 
+39 "I said to my master, 'Suppose the woman does not follow me.' 
 40 "He said to me, ' The LORD, before whom I have walked, will send His angel with you to make your  journey successful, and you will take a wife for my son from my relatives and from my father's house;
 41 then you will be free from my oath, when you come to my relatives; and if they do not give her to  you, you will be free from my oath.'
 42 "So I came today to the spring, and said, '0 LORD, the God of my master Abraham, if now You will  make my journey on which I go successful;
@@ -723,7 +725,7 @@ Genesis 24 New American Standard Bible
 44 and she will say to me, "You drink, and I will draw for your camels also"; let her be the woman  whom the LORD has appointed for my master's son."
 45 "Before I had finished speaking in my heart, behold, Rebekah came out with her jar on her shoulder,  and went down to the spring and drew, and I said to her, 'Please let me drink.’
 46 "She quickly lowered her jar from her {shoulder,} and said, ' Drink, and I will water your camels  also'; so I drank, and she watered the camels also.
-47 " Then I asked her, and said, 'Whose daughter are you?' And she said, 'The daughter of Bethuel,  Nahor's son, whom Milcah bore to him’; and I put the ring on her nose, and the bracelets on her wrists.
+47 "Then I asked her, and said, 'Whose daughter are you?' And she said, 'The daughter of Bethuel,  Nahor's son, whom Milcah bore to him’; and I put the ring on her nose, and the bracelets on her wrists.
 48 "And I bowed low and worshiped the LORD, and blessed the LORD, the God of my master  Abraham, who had guided me in the right way to take the daughter of my master's kinsman for his son.
 49 "So now if you are going to deal kindly and truly with my master, tell me; and if not, let me know,  that I may turn to the right hand or the left."
 50 Then Laban and Bethuel replied, " The matter comes from the LORD; {so} we cannot speak to you  bad or good.
@@ -792,7 +794,8 @@ Genesis 26 New American Standard Bible
 
 1 Now there was a famine in the land, besides the previous famine that had occurred in the days of  Abraham. So Isaac went to Gerar, to Abimelech king of the Philistines.
 2 The LORD appeared to him and said, "Do not go down to Egypt; stay in the land of which I shall tell  you.
-3 "Sojourn in this land and I will be with you and bless you, for to you and to your descendants I will  give all these lands, and I will establish the oath which I swore to your father Abraham. 4" I will multiply your descendants as the stars of heaven, and will give your descendants all these lands; and by your descendants all the nations of the earth shall be blessed; 
+3 "Sojourn in this land and I will be with you and bless you, for to you and to your descendants I will  give all these lands, and I will establish the oath which I swore to your father Abraham.
+4 "I will multiply your descendants as the stars of heaven, and will give your descendants all these lands; and by your descendants all the nations of the earth shall be blessed;
 5 because Abraham obeyed Me and kept My charge, My commandments, My statutes and My laws." 
 6 So Isaac lived in Gerar. 
 7 When the men of the place asked about his wife, he said, " She is my sister," for he was afraid to say,  "my wife," {thinking,} "the men of the place might kill me on account of Rebekah, for she is beautiful."
@@ -840,7 +843,8 @@ Genesis 27 New American Standard Bible
 8 "Now therefore, my son, listen to me as I command you. 
 9 "Go now to the flock and bring me two choice young goats from there, that I may prepare them {as} a  savory dish for your father, such as he loves.
 10 "Then you shall bring {it} to your father, that he may eat, so that he may bless you before his death." 
-11 Jacob answered his mother Rebekah, "Behold, Esau my brother is a hairy man and I am a smooth  man. 12" Perhaps my father will feel me, then I will be as a deceiver in his sight, and I will bring upon myself a curse and not a blessing." 
+11 Jacob answered his mother Rebekah, "Behold, Esau my brother is a hairy man and I am a smooth  man.
+12 "Perhaps my father will feel me, then I will be as a deceiver in his sight, and I will bring upon myself a curse and not a blessing."
 13 But his mother said to him, "Your curse be on me, my son; only obey my voice, and go, get {them}  for me."
 14 So he went and got {them,} and brought {them} to his mother; and his mother made savory food  such as his father loved.
 15 Then Rebekah took the best garments of Esau her elder son, which were with her in the house, and  put them on Jacob her younger son.
@@ -1000,7 +1004,8 @@ Genesis 31 New American Standard Bible
 2 Jacob saw the attitude of Laban, and behold, it was not {friendly} toward him as formerly. 
 3 Then the LORD said to Jacob, " Return to the land of your fathers and to your relatives, and I will be  with you."
 4 So Jacob sent and called Rachel and Leah to his flock in the field, 
-5 and said to them, " I see your father's attitude, that it is not {friendly} toward me as formerly, but the  God of my father has been with me. 6" You know that I have served your father with all my strength. 
+5 and said to them, " I see your father's attitude, that it is not {friendly} toward me as formerly, but the  God of my father has been with me.
+6 "You know that I have served your father with all my strength.
 7 "Yet your father has cheated me and changed my wages ten times; however, God did not allow him to  hurt me.
 8 "If he spoke thus, "The speckled shall be your wages,' then all the flock brought forth speckled; and if  he spoke thus, 'The striped shall be your wages,' then all the flock brought forth striped.
 9 "Thus God has taken away your father's livestock and given {them} to me. 
@@ -1029,7 +1034,7 @@ Genesis 31 New American Standard Bible
 
 30 "Now you have indeed gone away because you longed greatly for your father's house; {but} why did  you steal my gods?"
 31 Then Jacob replied to Laban, "Because I was afraid, for I thought that you would take your daughters  from me by force.
-32 " The one with whom you find your gods shall not live; in the presence of our kinsmen point out  what is yours among my belongings and take {it} for yourself." For Jacob did not know that Rachel had stolen them.
+32 "The one with whom you find your gods shall not live; in the presence of our kinsmen point out  what is yours among my belongings and take {it} for yourself." For Jacob did not know that Rachel had stolen them.
 33 So Laban went into Jacob's tent and into Leah's tent and into the tent of the two maids, but he did not  find {them.} Then he went out of Leah's tent and entered Rachel's tent.
 34 Now Rachel had taken the household idols and put them in the camel's saddle, and she sat on them.  And Laban felt through all the tent but did not find {them.}
 35 She said to her father, "Let not my lord be angry that I cannot rise before you, for the manner of  women is upon me." So he searched but did not find the household idols.
@@ -1050,7 +1055,7 @@ Genesis 31 New American Standard Bible
 50 "If you mistreat my daughters, or if you take wives besides my daughters, {although} no man is with  us, see, God is witness between you and me."
 51 Laban said to Jacob, "Behold this heap and behold the pillar which I have set between you and me. 
 52 "This heap is a witness, and the pillar is a witness, that I will not pass by this heap to you for harm,  and you will not pass by this heap and this pillar to me, for harm.
-53 " The God of Abraham and the God of Nahor, the God of their father, judge between us." So Jacob  swore by the fear of his father Isaac.
+53 "The God of Abraham and the God of Nahor, the God of their father, judge between us." So Jacob  swore by the fear of his father Isaac.
 54 Then Jacob offered a sacrifice on the mountain, and called his kinsmen to the meal; and they ate the  meal and spent the night on the mountain.
 
 Genesis 31 New American Standard Bible 
@@ -1069,7 +1074,7 @@ Genesis 32 New American Standard Bible
 8 for he said, "If Esau comes to the one company and attacks it, then the company which is left will  escape."
 9 Jacob said, "O God of my father Abraham and God of my father Isaac, O LORD, who said to me, '  Return to your country and to your relatives, and I will prosper you,
 10 I am unworthy of all the lovingkindness and of all the faithfulness which You have shown to Your  servant; for with my staff {only} I crossed this Jordan, and now I have become two companies.
-11 " Deliver me, I pray, from the hand of my brother, from the hand of Esau; for I fear him, that he will  come and attack me {and} the mothers with the children.
+11 "Deliver me, I pray, from the hand of my brother, from the hand of Esau; for I fear him, that he will  come and attack me {and} the mothers with the children.
 12 "For You said, ' I will surely prosper you and make your descendants as the sand of the sea, which is  too great to be numbered.'"
 13 So he spent the night there. Then he selected from what he had with him a present for his brother  Esau:
 14 two hundred female goats and twenty male goats, two hundred ewes and twenty rams, 
@@ -1168,7 +1173,7 @@ Genesis 35 New American Standard Bible
 9 Then God appeared to Jacob again when he came from Paddan-aram, and He blessed him. 
 10 God said to him, "Your name is Jacob; You shall no longer be called Jacob, But Israel shall be your  name." Thus He called him Israel.
 11 God also said to him, "I am God Almighty; Be fruitful and multiply; A nation and a company of  nations shall come from you, And kings shall come forth from you.
-12 " The land which I gave to Abraham and Isaac, I will give it to you, And I will give the land to your  descendants after you."
+12 "The land which I gave to Abraham and Isaac, I will give it to you, And I will give the land to your  descendants after you."
 13 Then God went up from him in the place where He had spoken with him. 
 14 Jacob set up a pillar in the place where He had spoken with him, a pillar of stone, and he poured out a  drink offering on it; he also poured oil on it.
 15 So Jacob named the place where God had spoken with him, Bethel. 
@@ -1264,7 +1269,7 @@ Genesis 37 New American Standard Bible
 24 and they took him and threw him into the pit. Now the pit was empty, without any water in it. 
 25 Then they sat down to eat a meal. And as they raised their eyes and looked, behold, a caravan of  Ishmaelites was coming from Gilead, with their camels bearing aromatic gum and balm and myrrh, on their way to bring {them} down to Egypt.
 26 Judah said to his brothers, "What profit is it for us to kill our brother and cover up his blood? 
-27 " Come and let us sell him to the Ishmaelites and not lay our hands on him, for he is our brother, our  {own} flesh." And his brothers listened {to him.}
+27 "Come and let us sell him to the Ishmaelites and not lay our hands on him, for he is our brother, our  {own} flesh." And his brothers listened {to him.}
 
 Genesis 37 New American Standard Bible 
 
@@ -1324,7 +1329,7 @@ Genesis 39 New American Standard Bible
 6 So he left everything he owned in Joseph's charge; and with him {there} he did not concern himself  with anything except the food which he ate. Now Joseph was handsome in form and appearance.
 7 It came about after these events that his master's wife looked with desire at Joseph, and she said, " Lie  with me."
 8 But he refused and said to his master's wife, "Behold, with me {here,} my master does not concern  himself with anything in the house, and he has put all that he owns in my charge.
-9 " There is no one greater in this house than I, and he has withheld nothing from me except you,  because you are his wife. How then could I do this great evil and sin against God?"
+9 "There is no one greater in this house than I, and he has withheld nothing from me except you,  because you are his wife. How then could I do this great evil and sin against God?"
 10 As she spoke to Joseph day after day, he did not listen to her to lie beside her {or} be with her. 
 11 Now it happened one day that he went into the house to do his work, and none of the men of the  household was there inside.
 12 She caught him by his garment, saying, "Lie with me!" And he left his garment in her hand and fled,  and went outside.
@@ -1378,7 +1383,7 @@ Genesis 41 New American Standard Bible
 8 Now in the morning his spirit was troubled, so he sent and called for all the magicians of Egypt, and  all its wise men. And Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
 9 Then the chief cupbearer spoke to Pharaoh, saying, "I would make mention today of my {own}  offenses.
 10 "Pharaoh was furious with his servants, and he put me in confinement in the house of the captain of  the bodyguard, {both} me and the chief baker.
-11 " We had a dream on the same night, he and I; each of us dreamed according to the interpretation of  his {own} dream.
+11 "We had a dream on the same night, he and I; each of us dreamed according to the interpretation of  his {own} dream.
 12 "Now a Hebrew youth {was} with us there, a servant of the captain of the bodyguard, and we related  {them} to him, and he interpreted our dreams for us. To each one he interpreted according to his {own} dream.
 13 "And just as he interpreted for us, so it happened; he restored me in my office, but he hanged him." 
 14 Then Pharaoh sent and called for Joseph, and they hurriedly brought him out of the dungeon; and  when he had shaved himself and changed his clothes, he came to Pharaoh.
@@ -1410,7 +1415,7 @@ Genesis 41 New American Standard Bible
 37 Now the proposal seemed good to Pharaoh and to all his servants. 
 38 Then Pharaoh said to his servants, "Can we find a man like this, in whom is a divine spirit?" 
 39 So Pharaoh said to Joseph, "Since God has informed you of all this, there is no one so discerning and  wise as you are.
-40 " You shall be over my house, and according to your command all my people shall do homage; only  in the throne I will be greater than you."
+40 "You shall be over my house, and according to your command all my people shall do homage; only  in the throne I will be greater than you."
 41 Pharaoh said to Joseph, "See, I have set you over all the land of Egypt." 
 42 Then Pharaoh took off his signet ring from his hand and put it on Joseph's hand, and clothed him in  garments of fine linen and put the gold necklace around his neck.
 43 He had him ride in his second chariot; and they proclaimed before him, "Bow the knee!" And he set  him over all the land of Egypt.
@@ -1485,7 +1490,8 @@ Genesis 43 New American Standard Bible
 5 "But if you do not send {him,} we will not go down; for the man said to us, "You will not see my face  unless your brother is with you.'"
 6 Then Israel said, "Why did you treat me so badly by telling the man whether you still had {another}  brother?"
 7 But they said, "The man questioned particularly about us and our relatives, saying, ' Is your father still  alive? Have you {another} brother?! So we answered his questions. Could we possibly know that he would say, 'Bring your brother down'?"
-8 Judah said to his father Israel, "Send the lad with me and we will arise and go, that we may live and  not die, we as well as you and our little ones. 9" I myself will be surety for him; you may hold me responsible for him. If I do not bring him {back} to you and set him before you, then let me bear the blame before you forever. 
+8 Judah said to his father Israel, "Send the lad with me and we will arise and go, that we may live and  not die, we as well as you and our little ones.
+9 "I myself will be surety for him; you may hold me responsible for him. If I do not bring him {back} to you and set him before you, then let me bear the blame before you forever.
 10 "For if we had not delayed, surely by now we could have returned twice." 
 11 Then their father Israel said to them, "If {it must be} so, then do this: take some of the best products  of the land in your bags, and carry down to the man as a present, a little balm and a little honey, aromatic gum and myrrh, pistachio nuts and almonds.
 12 "Take double {the} money in your hand, and take back in your hand the money that was returned in  the mouth of your sacks; perhaps it was a mistake.
@@ -1524,7 +1530,8 @@ Genesis 44 New American Standard Bible
 5 'Is not this the one from which my lord drinks and which he indeed uses for divination? You have  done wrong in doing this.'"
 6 So he overtook them and spoke these words to them. 
 7 They said to him, "Why does my lord speak such words as these? Far be it from your servants to do  such a thing.
-8 "Behold, the money which we found in the mouth of our sacks we have brought back to you from the  land of Canaan. How then could we steal silver or gold from your lord's house? 9" With whomever of your servants it is found, let him die, and we also will be my lord's slaves." 
+8 "Behold, the money which we found in the mouth of our sacks we have brought back to you from the  land of Canaan. How then could we steal silver or gold from your lord's house?
+9 "With whomever of your servants it is found, let him die, and we also will be my lord's slaves."
 10 So he said, "Now let it also be according to your words; he with whom it is found shall be my slave,  and {the rest of} you shall be innocent."
 11 Then they hurried, each man lowered his sack to the ground, and each man opened his sack. 
 12 He searched, beginning with the oldest and ending with the youngest, and the cup was found in  Benjamin's sack.
@@ -1533,12 +1540,14 @@ Genesis 44 New American Standard Bible
 15 Joseph said to them, "What is this deed that you have done? Do you not know that such a man as I  can indeed practice divination?"
 16 So Judah said, "What can we say to my lord? What can we speak? And how can we justify  ourselves? God has found out the iniquity of your servants; behold, we are my lord's slaves, both we and the one in whose possession the cup has been found."
 17 But he said, "Far be it from me to do this. The man in whose possession the cup has been found, he  shall be my slave; but as for you, go up in peace to your father."
-18 Then Judah approached him, and said, "Oh my lord, may your servant please speak a word in my  lord's ears, and do not be angry with your servant; for you are equal to Pharaoh. 19" My lord asked his servants, saying, 'Have you a father or a brother?! 
+18 Then Judah approached him, and said, "Oh my lord, may your servant please speak a word in my  lord's ears, and do not be angry with your servant; for you are equal to Pharaoh.
+19 "My lord asked his servants, saying, 'Have you a father or a brother?!
 20 "We said to my lord, 'We have an old father and a little child of {his} old age. Now his brother is  dead, so he alone is left of his mother, and his father loves him.’
 21 "Then you said to your servants, ' Bring him down to me that I may set my eyes on him. 
 22 "But we said to my lord, 'The lad cannot leave his father, for if he should leave his father, his father  would die.'
 23 "You said to your servants, however, ' Unless your youngest brother comes down with you, you will  not see my face again.’
-24 "Thus it came about when we went up to your servant my father, we told him the words of my lord.  25" Our father said, 'Go back, buy us a little food.'
+24 "Thus it came about when we went up to your servant my father, we told him the words of my lord.
+25 "Our father said, 'Go back, buy us a little food.'
 26 "But we said, 'We cannot go down. If our youngest brother is with us, then we will go down; for we  cannot see the man's face unless our youngest brother is with us.'
 27 "Your servant my father said to us, "You know that my wife bore me two sons; 
 28 and the one went out from me, and I said, "Surely he is torn in pieces," and I have not seen him since. 
@@ -1559,7 +1568,8 @@ Genesis 45 New American Standard Bible
 3 Then Joseph said to his brothers, " I am Joseph! Is my father still alive?" But his brothers could not  answer him, for they were dismayed at his presence.
 4 Then Joseph said to his brothers, "Please come closer to me." And they came closer. And he said, "I  am your brother Joseph, whom you sold into Egypt.
 5 "Now do not be grieved or angry with yourselves, because you sold me here, for God sent me before  you to preserve life.
-6 "For the famine {has been} in the land these two years, and there are still five years in which there will  be neither plowing nor harvesting. 7" God sent me before you to preserve for you a remnant in the earth, and to keep you alive by a great deliverance. 
+6 "For the famine {has been} in the land these two years, and there are still five years in which there will  be neither plowing nor harvesting.
+7 "God sent me before you to preserve for you a remnant in the earth, and to keep you alive by a great deliverance.
 8 "Now, therefore, it was not you who sent me here, but God; and He has made me a father to Pharaoh  and lord of all his household and ruler over all the land of Egypt.
 9 "Hurry and go up to my father, and say to him, 'Thus says your son Joseph, "God has made me lord of  all Egypt; come down to me, do not delay.
 10 "You shall live in the land of Goshen, and you shall be near me, you and your children and your  children's children and your flocks and your herds and all that you have.
@@ -1590,7 +1600,7 @@ Genesis 46 New American Standard Bible
 1 So Israel set out with all that he had, and came to Beersheba, and offered sacrifices to the God of his  father Isaac.
 2 God spoke to Israel in visions of the night and said, " Jacob, Jacob." And he said, "Here I am." 
 3 He said, " I am God, the God of your father; do not be afraid to go down to Egypt, for I will make you  a great nation there.
-4 " I will go down with you to Egypt, and I will also surely bring you up again; and Joseph will close  your eyes."
+4 "I will go down with you to Egypt, and I will also surely bring you up again; and Joseph will close  your eyes."
 5 Then Jacob arose from Beersheba; and the sons of Israel carried their father Jacob and their little ones  and their wives in the wagons which Pharaoh had sent to carry him.
 6 They took their livestock and their property, which they had acquired in the land of Canaan, and came  to Egypt, Jacob and all his descendants with him:
 7 his sons and his grandsons with him, his daughters and his granddaughters, and all his descendants he  brought with him to Egypt.
@@ -1692,17 +1702,25 @@ Genesis 49 New American Standard Bible
 1 Then Jacob summoned his sons and said, "Assemble yourselves that I may tell you what will befall  you in the days to come.
 2 "Gather together and hear, O sons of Jacob; And listen to Israel your father. 
 3 "Reuben, you are my firstborn; My might and the beginning of my strength, Preeminent in dignity and  preeminent in power.
-4 "Uncontrolled as water, you shall not have preeminence, Because you went up to your father's bed;  Then you defiled {it} --he went up to my couch. 5" Simeon and Levi are brothers; Their swords are implements of violence. 
-6 " Let my soul not enter into their council; Let not my glory be united with their assembly; Because in  their anger they slew men, And in their self-will they lamed oxen.
+4 "Uncontrolled as water, you shall not have preeminence, Because you went up to your father's bed;  Then you defiled {it} --he went up to my couch.
+5 "Simeon and Levi are brothers; Their swords are implements of violence.
+6 "Let my soul not enter into their council; Let not my glory be united with their assembly; Because in  their anger they slew men, And in their self-will they lamed oxen.
 7 "Cursed be their anger, for it is fierce; And their wrath, for it is cruel. I will disperse them in Jacob,  And scatter them in Israel.
 8 "Judah, your brothers shall praise you; Your hand shall be on the neck of your enemies; Your father's  sons shall bow down to you.
 9 "Judah is a lion's whelp; From the prey, my son, you have gone up. He couches, he lies down as a lion,  And as a lion, who dares rouse him up?
-10 " The scepter shall not depart from Judah, Nor the ruler's staff from between his feet, Until Shiloh  comes, And to him {shall be} the obedience of the peoples. 11" He ties {his} foal to the vine, And his donkey's colt to the choice vine; He washes his garments in wine, And his robes in the blood of grapes. 
+10 "The scepter shall not depart from Judah, Nor the ruler's staff from between his feet, Until Shiloh  comes, And to him {shall be} the obedience of the peoples.
+11 "He ties {his} foal to the vine, And his donkey's colt to the choice vine; He washes his garments in wine, And his robes in the blood of grapes.
 12 "His eyes are dull from wine, And his teeth white from milk. 
-13 " Zebulun will dwell at the seashore; And he {shall be} a haven for ships, And his flank {shall be}  toward Sidon.
+13 "Zebulun will dwell at the seashore; And he {shall be} a haven for ships, And his flank {shall be}  toward Sidon.
 14 "Issachar is a strong donkey, Lying down between the sheepfolds. 
-15 "When he saw that a resting place was good And that the land was pleasant, He bowed his shoulder  to bear {burdens,} And became a slave at forced labor. 16" Dan shall judge his people, As one of the tribes of Israel. 
-17 "Dan shall be a serpent in the way, A horned snake in the path, That bites the horse's heels, So that  his rider falls backward. 18" For Your salvation I wait, O LORD. 19" As for Gad, raiders shall raid him, But he will raid {at} their heels. 20" As for Asher, his food shall be rich, And he will yield royal dainties. 21" Naphtali is a doe let loose, He gives beautiful words. 22" Joseph is a fruitful bough, A fruitful bough by a spring; {Its} branches run over a wall. 
+15 "When he saw that a resting place was good And that the land was pleasant, He bowed his shoulder  to bear {burdens,} And became a slave at forced labor.
+16 "Dan shall judge his people, As one of the tribes of Israel.
+17 "Dan shall be a serpent in the way, A horned snake in the path, That bites the horse's heels, So that  his rider falls backward.
+18 "For Your salvation I wait, O LORD.
+19 "As for Gad, raiders shall raid him, But he will raid {at} their heels.
+20 "As for Asher, his food shall be rich, And he will yield royal dainties.
+21 "Naphtali is a doe let loose, He gives beautiful words.
+22 "Joseph is a fruitful bough, A fruitful bough by a spring; {Its} branches run over a wall.
 23 "The archers bitterly attacked him, And shot {at him} and harassed him; 
 24 But his bow remained firm, And his arms were agile, From the hands of the Mighty One of Jacob  (From there is the Shepherd, the Stone of Israel),
 25 From the God of your father who helps you, And by the Almighty who blesses you {With} blessings  of heaven above, Blessings of the deep that lies beneath, Blessings of the breasts and of the womb.

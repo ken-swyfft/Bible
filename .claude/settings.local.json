@@ -10,7 +10,8 @@
       "WebFetch(domain:sblgnt.com)",
       "WebFetch(domain:sites.google.com)",
       "WebFetch(domain:github.com)",
-      "Bash(/dev/null)"
+      "Bash(/dev/null)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
