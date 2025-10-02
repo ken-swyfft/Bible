@@ -67,6 +67,11 @@ def parse_hebrew_proverbs(file_path):
             # Remove common Hebrew punctuation like ׃ פ ס at the end
             hebrew_text = re.sub(r'[׃פס]\s*$', '', hebrew_text).strip()
 
+            # Deduplicate ketiv/qere: remove ketiv (marked with *word), keep qere (marked with **word)
+            # Pattern: *ketiv **qere - we want to remove both markers and keep only qere
+            hebrew_text = re.sub(r'\*\S+\s+\*\*', '**', hebrew_text)  # Remove ketiv, leave qere marker
+            hebrew_text = re.sub(r'\*\*', '', hebrew_text)  # Remove qere marker
+
             # Split into words and handle maqqeph-separated words
             # First split by spaces, then split by maqqeph (־) to count each part as a separate word
             hebrew_words = []
@@ -190,7 +195,14 @@ def analyze_word_ratios():
     print("STATISTICS")
     print("="*80)
     if ratios:
+        # Calculate total word counts
+        total_hebrew_words = sum(r['hebrew_count'] for r in ratios)
+        total_english_words = sum(r['english_count'] for r in ratios)
+
         avg_ratio = sum(r['ratio'] for r in ratios) / len(ratios)
+        print(f"Total Hebrew words in Proverbs: {total_hebrew_words:,}")
+        print(f"Total English words in Proverbs: {total_english_words:,}")
+        print(f"Overall Hebrew/English ratio: {total_hebrew_words/total_english_words:.3f}")
         print(f"Average Hebrew/English ratio: {avg_ratio:.3f}")
         print(f"Lowest ratio: {ratios[0]['ratio']:.3f} (Proverbs {ratios[0]['verse']})")
         print(f"Highest ratio: {ratios[-1]['ratio']:.3f} (Proverbs {ratios[-1]['verse']})")
@@ -243,7 +255,14 @@ if __name__ == "__main__":
         f.write("STATISTICS\n")
         f.write("="*80 + "\n")
         if ratios:
+            # Calculate total word counts
+            total_hebrew_words = sum(r['hebrew_count'] for r in ratios)
+            total_english_words = sum(r['english_count'] for r in ratios)
+
             avg_ratio = sum(r['ratio'] for r in ratios) / len(ratios)
+            f.write(f"Total Hebrew words in Proverbs: {total_hebrew_words:,}\n")
+            f.write(f"Total English words in Proverbs: {total_english_words:,}\n")
+            f.write(f"Overall Hebrew/English ratio: {total_hebrew_words/total_english_words:.3f}\n")
             f.write(f"Average Hebrew/English ratio: {avg_ratio:.3f}\n")
             f.write(f"Lowest ratio: {ratios[0]['ratio']:.3f} (Proverbs {ratios[0]['verse']})\n")
             f.write(f"Highest ratio: {ratios[-1]['ratio']:.3f} (Proverbs {ratios[-1]['verse']})\n")

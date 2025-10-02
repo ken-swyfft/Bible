@@ -1,0 +1,56 @@
+OLD TESTAMENT BOOKS: Hebrew vs English Word Counts
+Sorted by Hebrew/English ratio (lowest = most concise Hebrew)
+==========================================================================================
+
+Book                    Hebrew Words   English Words      Ratio
+------------------------------------------------------------------------------------------
+Lamentations                   1,554           3,367      0.462
+Micah                          1,402           3,033      0.462
+Obadiah                          291             629      0.463
+Song Of Solomon                1,262           2,725      0.463
+Psalms                        19,657          42,124      0.467
+Proverbs                       6,984          14,890      0.469
+Hosea                          2,395           5,087      0.471
+Isaiah                        17,035          36,119      0.472
+Nahum                            562           1,188      0.473
+Habakkuk                         673           1,412      0.477
+Job                            8,447          17,291      0.489
+Malachi                          883           1,805      0.489
+Zephaniah                        772           1,574      0.490
+Joel                             957           1,942      0.493
+Leviticus                     12,004          24,331      0.493
+Amos                           2,048           4,120      0.497
+Ezekiel                       18,876          37,741      0.500
+Zechariah                      3,146           6,269      0.502
+Daniel                         5,965          11,789      0.506
+Ruth                           1,303           2,519      0.517
+Numbers                       16,496          31,728      0.520
+Jeremiah                      22,003          42,189      0.522
+Deuteronomy                   14,380          27,516      0.523
+Exodus                        16,793          31,940      0.526
+2 Chronicles                  13,408          25,236      0.531
+Nehemiah                       5,349           9,997      0.535
+2 Kings                       12,369          23,117      0.535
+Jonah                            691           1,285      0.538
+Judges                         9,944          18,490      0.538
+1 Samuel                      13,372          24,842      0.538
+1 Chronicles                  10,825          20,089      0.539
+Joshua                        10,123          18,672      0.542
+Ezra                           3,782           6,931      0.546
+2 Samuel                      11,120          20,365      0.546
+Ecclesiastes                   2,998           5,471      0.548
+Genesis                       20,707          37,673      0.550
+1 Kings                       13,239          24,057      0.550
+Esther                         3,081           5,542      0.556
+Haggai                           605           1,082      0.559
+
+==========================================================================================
+STATISTICS
+==========================================================================================
+Total books analyzed: 39
+Total Hebrew words (all OT): 307,501
+Total English words (all OT): 596,177
+Overall Hebrew/English ratio: 0.516
+Average book ratio: 0.510
+Lowest ratio: 0.462 (Lamentations)
+Highest ratio: 0.559 (Haggai)

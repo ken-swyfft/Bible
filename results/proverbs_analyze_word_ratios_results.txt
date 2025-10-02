@@ -108,6 +108,9 @@ TOP 20 VERSES: Fewest Hebrew words relative to English words
 ================================================================================
 STATISTICS
 ================================================================================
+Total Hebrew words in Proverbs: 7,037
+Total English words in Proverbs: 14,890
+Overall Hebrew/English ratio: 0.473
 Average Hebrew/English ratio: 0.483
 Lowest ratio: 0.259 (Proverbs 23:34)
 Highest ratio: 0.889 (Proverbs 10:12)

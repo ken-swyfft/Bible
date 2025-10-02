@@ -11,7 +11,8 @@
       "WebFetch(domain:sites.google.com)",
       "WebFetch(domain:github.com)",
       "Bash(/dev/null)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebFetch(domain:tanach.us)"
     ],
     "deny": [],
     "ask": []

@@ -43,6 +43,26 @@
 - **IMPORTANT**: Treat maqqeph (־) separated words as separate words when counting
 - Hebrew character range for filtering: `\u0590` to `\u05FF` (includes vowel points and cantillation)
 
+#### Ketiv/Qere Deduplication
+Ketiv (כְּתִיב, "written") and Qere (קְרֵי, "read") are textual variants in the Hebrew Bible. The ketiv is what's written in the text, while the qere is what should be read aloud. Westminster Leningrad Codex marks these as:
+- Format: `*ketiv **qere` (e.g., `*וצפן **יִצְפֹּ֣ן` or `*חסידו **חֲסִידָ֣יו`)
+- The asterisk (`*`) marks the ketiv, double asterisk (`**`) marks the qere
+- Example from Proverbs 2:7: `*וצפן **יִצְפֹּ֣ן` - ketiv is וצפן, qere is יִצְפֹּ֣ן
+
+**When analyzing Hebrew text for word counts or linguistic analysis, ALWAYS deduplicate ketiv/qere by keeping only the qere:**
+
+```python
+# Remove ketiv, keep qere
+text = re.sub(r'\*\S+\s+\*\*', '**', text)  # Remove ketiv word, leave qere marker
+text = re.sub(r'\*\*', '', text)            # Remove qere marker
+```
+
+This two-step process:
+1. Removes the ketiv word (marked with `*`) and the space before the qere marker
+2. Removes the qere marker (`**`) leaving just the qere word
+
+**Why this matters**: Without deduplication, you'll count both ketiv and qere as separate words, inflating word counts. The OT contains approximately 850+ ketiv/qere variants.
+
 ### English Text Parsing
 - Look for chapter headers: `Proverbs N New American Standard Bible`
 - Verse pattern: `number verse_text`
