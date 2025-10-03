@@ -25,6 +25,16 @@
 - Format: Plain text with verse numbers
 - Books: All 66 Bible books in separate .txt files
 - Naming: Lowercase, e.g., `genesis.txt`, `proverbs.txt`
+- Chapter headers: `BookName N New American Standard Bible` with blank lines before and after
+
+### English Texts (ESV)
+- Location: `./texts/esv/books/`
+- Source: English Standard Version (from lguenth/mdbible GitHub repository)
+- Format: Plain text with verse numbers (identical structure to NASB)
+- Books: All 66 Bible books in separate .txt files
+- Naming: Lowercase, matching NASB convention, e.g., `genesis.txt`, `proverbs.txt`
+- Chapter headers: `BookName N English Standard Version` with blank lines before and after
+- Conversion script: `convert_esv_to_txt.py` (converts from markdown to plain text)
 
 ### Greek New Testament
 - Location: `./texts/greek_nt/`
@@ -64,7 +74,10 @@ This two-step process:
 **Why this matters**: Without deduplication, you'll count both ketiv and qere as separate words, inflating word counts. The OT contains approximately 850+ ketiv/qere variants.
 
 ### English Text Parsing
-- Look for chapter headers: `Proverbs N New American Standard Bible`
+- Look for chapter headers:
+  - NASB: `Proverbs N New American Standard Bible`
+  - ESV: `Proverbs N English Standard Version`
+- Both formats have blank lines before and after chapter headers
 - Verse pattern: `number verse_text`
 - Word counting: Use `re.findall(r'\b\w+\b', text)` to handle punctuation properly
 

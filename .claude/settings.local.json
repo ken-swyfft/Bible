@@ -12,7 +12,12 @@
       "WebFetch(domain:github.com)",
       "Bash(/dev/null)",
       "Bash(cat:*)",
-      "WebFetch(domain:tanach.us)"
+      "WebFetch(domain:tanach.us)",
+      "WebFetch(domain:openbible.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl:*)",
+      "Bash(git clone:*)"
     ],
     "deny": [],
     "ask": []
