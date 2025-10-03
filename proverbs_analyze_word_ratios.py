@@ -4,8 +4,9 @@ PROVERBS HEBREW VS ENGLISH WORD COUNT ANALYSIS
 
 PURPOSE:
 This script compares word counts between the original Hebrew text of Proverbs and its English
-translation (NASB) to identify verses where Hebrew is most concise relative to English.
-Demonstrates the efficiency of Hebrew grammatical structures.
+translation (NASB) to identify verses where Hebrew is most concise relative to English,
+as well as verses where Hebrew uses more words. Demonstrates the variation in Hebrew
+grammatical structures and translation patterns.
 
 METHODOLOGY:
 1. Parses Hebrew Proverbs from Westminster Leningrad Codex (UXLC format)
@@ -14,7 +15,7 @@ METHODOLOGY:
    - Hebrew: Treats maqqeph (־) separated words as individual words
    - English: Uses word boundary regex to handle punctuation properly
 4. Calculates Hebrew/English ratios for each verse
-5. Identifies verses with the lowest ratios (most Hebrew efficiency)
+5. Identifies verses with both the lowest and highest ratios
 
 TECHNICAL APPROACH:
 - Hebrew parsing: Handles Unicode directional marks, verse patterns (num ׃num text)
@@ -30,7 +31,8 @@ that efficiency and identifies the most striking examples.
 
 OUTPUT:
 Generates results/proverbs_analyze_word_ratios_results.txt with:
-- Top 20 verses with lowest Hebrew/English word ratios
+- Top 20 verses with lowest Hebrew/English word ratios (most Hebrew efficiency)
+- Top 20 verses with highest Hebrew/English word ratios (Hebrew more verbose)
 - Statistical summary of translation expansion patterns
 - Full Hebrew text with accurate word counts
 """
@@ -190,6 +192,19 @@ def analyze_word_ratios():
             print(f"   Hebrew: [Hebrew text - {verse_data['hebrew_count']} words]")
         print(f"   English: {verse_data['english_text']}")
 
+    print("\n" + "="*80)
+    print("TOP 20 VERSES: Most Hebrew words relative to English words")
+    print("="*80)
+
+    for i, verse_data in enumerate(ratios[-20:], 1):
+        print(f"\n{i}. Proverbs {verse_data['verse']}")
+        print(f"   Ratio: {verse_data['ratio']:.3f} ({verse_data['hebrew_count']} Hebrew / {verse_data['english_count']} English)")
+        try:
+            print(f"   Hebrew: {verse_data['hebrew_text']}")
+        except UnicodeEncodeError:
+            print(f"   Hebrew: [Hebrew text - {verse_data['hebrew_count']} words]")
+        print(f"   English: {verse_data['english_text']}")
+
     # Also show some statistics
     print(f"\n" + "="*80)
     print("STATISTICS")
@@ -246,6 +261,16 @@ if __name__ == "__main__":
         f.write("="*80 + "\n")
 
         for i, verse_data in enumerate(ratios[:20], 1):
+            f.write(f"\n{i}. Proverbs {verse_data['verse']}\n")
+            f.write(f"   Ratio: {verse_data['ratio']:.3f} ({verse_data['hebrew_count']} Hebrew / {verse_data['english_count']} English)\n")
+            f.write(f"   Hebrew: {verse_data['hebrew_text']}\n")
+            f.write(f"   English: {verse_data['english_text']}\n")
+
+        f.write("\n" + "="*80 + "\n")
+        f.write("TOP 20 VERSES: Most Hebrew words relative to English words\n")
+        f.write("="*80 + "\n")
+
+        for i, verse_data in enumerate(ratios[-20:], 1):
             f.write(f"\n{i}. Proverbs {verse_data['verse']}\n")
             f.write(f"   Ratio: {verse_data['ratio']:.3f} ({verse_data['hebrew_count']} Hebrew / {verse_data['english_count']} English)\n")
             f.write(f"   Hebrew: {verse_data['hebrew_text']}\n")

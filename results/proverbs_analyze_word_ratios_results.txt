@@ -65,53 +65,157 @@ TOP 20 VERSES: Fewest Hebrew words relative to English words
    Hebrew: נַ֣הַם כַּ֭כְּפִיר אֵ֣ימַת מֶ֑לֶךְ מִ֝תְעַבְּר֗וֹ חוֹטֵ֥א נַפְשֽׁוֹ
    English: The terror of a king is like the growling of a lion; He who provokes him to anger forfeits his own life.
 
-13. Proverbs 2:22
+13. Proverbs 2:7
+   Ratio: 0.333 (6 Hebrew / 18 English)
+   Hebrew: יִצְפֹּ֣ן לַ֭יְשָׁרִים תּוּשִׁיָּ֑ה מָ֝גֵ֗ן לְהֹ֣לְכֵי תֹֽם
+   English: He stores up sound wisdom for the upright; {He is} a shield to those who walk in integrity,
+
+14. Proverbs 2:22
    Ratio: 0.333 (6 Hebrew / 18 English)
    Hebrew: וּ֭רְשָׁעִים מֵאֶ֣רֶץ יִכָּרֵ֑תוּ וּ֝בוֹגְדִ֗ים יִסְּח֥וּ מִמֶּֽנָּה׃
    English: But the wicked will be cut off from the land And the treacherous will be uprooted from it.
 
-14. Proverbs 3:18
+15. Proverbs 3:18
    Ratio: 0.333 (7 Hebrew / 21 English)
    Hebrew: עֵץ־חַיִּ֣ים הִ֭יא לַמַּחֲזִיקִ֣ים בָּ֑הּ וְֽתֹמְכֶ֥יהָ מְאֻשָּֽׁר׃
    English: She is a tree of life to those who take hold of her, And happy are all who hold her fast.
 
-15. Proverbs 4:8
+16. Proverbs 4:8
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: סַלְסְלֶ֥הָ וּֽתְרוֹמְמֶ֑ךָּ תְּ֝כַבֵּ֗דְךָ כִּ֣י תְחַבְּקֶֽנָּה
    English: "Prize her, and she will exalt you; She will honor you if you embrace her.
 
-16. Proverbs 5:10
+17. Proverbs 5:10
    Ratio: 0.333 (7 Hebrew / 21 English)
    Hebrew: פֶּֽן־יִשְׂבְּע֣וּ זָרִ֣ים כֹּחֶ֑ךָ וַ֝עֲצָבֶ֗יךָ בְּבֵ֣ית נָכְרֽ͏ִי
    English: And strangers will be filled with your strength And your hard-earned goods {will go} to the house of an alien;
 
-17. Proverbs 5:11
+18. Proverbs 5:11
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: וְנָהַמְתָּ֥ בְאַחֲרִיתֶ֑ךָ בִּכְל֥וֹת בְּ֝שָׂרְךָ֗ וּשְׁאֵרֶֽךָ
    English: And you groan at your final end, When your flesh and your body are consumed;
 
-18. Proverbs 8:23
+19. Proverbs 8:17
+   Ratio: 0.333 (5 Hebrew / 15 English)
+   Hebrew: אֲ֭נִי אֹהֲבַ֣י אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי
+   English: "I love those who love me; And those who diligently seek me will find me.
+
+20. Proverbs 8:23
    Ratio: 0.333 (5 Hebrew / 15 English)
    Hebrew: מֵ֭עוֹלָם נִסַּ֥כְתִּי מֵרֹ֗אשׁ מִקַּדְמֵי־אָֽרֶץ
    English: "From everlasting I was established, From the beginning, from the earliest times of the earth.
 
-19. Proverbs 11:6
-   Ratio: 0.333 (6 Hebrew / 18 English)
-   Hebrew: צִדְקַ֣ת יְ֭שָׁרִים תַּצִּילֵ֑ם וּ֝בְהַוַּ֗ת בֹּגְדִ֥ים יִלָּכֵֽדוּ
-   English: The righteousness of the upright will deliver them, But the treacherous will be caught by {their own} greed.
+================================================================================
+TOP 20 VERSES: Most Hebrew words relative to English words
+================================================================================
 
-20. Proverbs 11:11
-   Ratio: 0.333 (7 Hebrew / 21 English)
-   Hebrew: בְּבִרְכַּ֣ת יְ֭שָׁרִים תָּר֣וּם קָ֑רֶת וּבְפִ֥י רְ֝שָׁעִ֗ים תֵּהָרֵֽס
-   English: By the blessing of the upright a city is exalted, But by the mouth of the wicked it is torn down.
+1. Proverbs 23:29
+   Ratio: 0.682 (15 Hebrew / 22 English)
+   Hebrew: לְמִ֨י א֥וֹי לְמִ֪י אֲב֡וֹי לְמִ֤י מִדְיָנִ֨ים ׀ לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם
+   English: Who has woe? Who has sorrow? Who has contentions? Who has complaining? Who has wounds without cause? Who has redness of eyes?
+
+2. Proverbs 30:15
+   Ratio: 0.682 (15 Hebrew / 22 English)
+   Hebrew: לֽ͏ַעֲלוּקָ֨ה ׀ שְׁתֵּ֥י בָנוֹת֮ הַ֤ב ׀ הַ֥ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא־אָ֥מְרוּ הֽוֹן
+   English: The leech has two daughters, "Give," "Give." There are three things that will not be satisfied, Four that will not say, "Enough":
+
+3. Proverbs 3:29
+   Ratio: 0.692 (9 Hebrew / 13 English)
+   Hebrew: אַל־תַּחֲרֹ֣שׁ עַל־רֵעֲךָ֣ רָעָ֑ה וְהֽוּא־יוֹשֵׁ֖ב לָבֶ֣טַח אִתָּֽךְ
+   English: Do not devise harm against your neighbor, While he lives securely beside you.
+
+4. Proverbs 23:6
+   Ratio: 0.692 (9 Hebrew / 13 English)
+   Hebrew: אַל־תִּלְחַ֗ם אֶת־לֶ֭חֶם רַ֣ע עָ֑יִן וְאַל־תִּ֝תְאָ֗יו לְמַטְעַמֹּתָֽיו
+   English: Do not eat the bread of a selfish man, Or desire his delicacies;
+
+5. Proverbs 8:16
+   Ratio: 0.700 (7 Hebrew / 10 English)
+   Hebrew: בִּ֭י שָׂרִ֣ים יָשֹׂ֑רוּ וּ֝נְדִיבִ֗ים כָּל־שֹׁ֥פְטֵי צֶֽדֶק
+   English: "By me princes rule, and nobles, All who judge rightly.
+
+6. Proverbs 11:16
+   Ratio: 0.700 (7 Hebrew / 10 English)
+   Hebrew: אֵֽשֶׁת־חֵ֭ן תִּתְמֹ֣ךְ כָּב֑וֹד וְ֝עָרִיצִ֗ים יִתְמְכוּ־עֹֽשֶׁר
+   English: A gracious woman attains honor, And ruthless men attain riches.
+
+7. Proverbs 16:18
+   Ratio: 0.700 (7 Hebrew / 10 English)
+   Hebrew: לִפְנֵי־שֶׁ֥בֶר גָּא֑וֹן וְלִפְנֵ֥י כִ֝שָּׁל֗וֹן גֹּ֣בַהּ רֽוּחַ
+   English: Pride {goes} before destruction, And a haughty spirit before stumbling.
+
+8. Proverbs 17:4
+   Ratio: 0.714 (10 Hebrew / 14 English)
+   Hebrew: מֵ֭רַע מַקְשִׁ֣יב עַל־שְׂפַת־אָ֑וֶן שֶׁ֥קֶר מֵ֝זִין עַל־לְשׁ֥וֹן הַוֺּֽת
+   English: An evildoer listens to wicked lips; A liar pays attention to a destructive tongue.
+
+9. Proverbs 4:2
+   Ratio: 0.727 (8 Hebrew / 11 English)
+   Hebrew: כִּ֤י לֶ֣קַח ט֭וֹב נָתַ֣תִּי לָכֶ֑ם תּֽ֝וֹרָתִ֗י אַֽל־תַּעֲזֹֽבוּ
+   English: For I give you sound teaching; Do not abandon my instruction.
+
+10. Proverbs 6:17
+   Ratio: 0.727 (8 Hebrew / 11 English)
+   Hebrew: עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם־נָקִֽי
+   English: Haughty eyes, a lying tongue, And hands that shed innocent blood,
+
+11. Proverbs 29:12
+   Ratio: 0.727 (8 Hebrew / 11 English)
+   Hebrew: מֹ֭שֵׁל מַקְשִׁ֣יב עַל־דְּבַר־שָׁ֑קֶר כָּֽל־מְשָׁרְתָ֥יו רְשָׁעִֽים
+   English: If aruler pays attention to falsehood, All his ministers {become} wicked.
+
+12. Proverbs 25:1
+   Ratio: 0.733 (11 Hebrew / 15 English)
+   Hebrew: גַּם־אֵ֭לֶּה מִשְׁלֵ֣י שְׁלֹמֹ֑ה אֲשֶׁ֥ר הֶ֝עְתִּ֗יקוּ אַנְשֵׁ֤י ׀ חִזְקִיָּ֬ה מֶֽלֶךְ־יְהוּדָֽה
+   English: These also are proverbs of Solomon which the men of Hezekiah, king of Judah, transcribed.
+
+13. Proverbs 6:14
+   Ratio: 0.750 (9 Hebrew / 12 English)
+   Hebrew: תַּֽהְפֻּכ֨וֹת ׀ בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכָל־עֵ֑ת מִדְיָנִ֥ים יְשַׁלֵּֽחַ
+   English: Who {with} perversity in his heart continually devises evil, Who spreads strife.
+
+14. Proverbs 8:15
+   Ratio: 0.750 (6 Hebrew / 8 English)
+   Hebrew: בִּ֭י מְלָכִ֣ים יִמְלֹ֑כוּ וְ֝רוֹזְנִ֗ים יְחֹ֣קְקוּ צֶֽדֶק
+   English: "By me kings reign, And rulers decree justice.
+
+15. Proverbs 8:34
+   Ratio: 0.765 (13 Hebrew / 17 English)
+   Hebrew: אַ֥שְֽׁרֵי אָדָם֮ שֹׁמֵ֢עַֽ֫ לִ֥י לִשְׁקֹ֣ד עַל־דַּ֭לְתֹתַי י֤וֹם ׀ י֑וֹם לִ֝שְׁמֹ֗ר מְזוּזֹ֥ת פְּתָחָֽי
+   English: "Blessed is the man who listens to me, Watching daily at my gates, Waiting at my doorposts.
+
+16. Proverbs 19:18
+   Ratio: 0.769 (10 Hebrew / 13 English)
+   Hebrew: יַסֵּ֣ר בִּ֭נְךָ כִּי־יֵ֣שׁ תִּקְוָ֑ה וְאֶל־הֲ֝מִית֗וֹ אַל־תִּשָּׂ֥א נַפְשֶֽׁךָ
+   English: Discipline your son while there is hope, And do not desire his death.
+
+17. Proverbs 31:29
+   Ratio: 0.800 (8 Hebrew / 10 English)
+   Hebrew: רַבּ֣וֹת בָּ֭נוֹת עָ֣שׂוּ חָ֑יִל וְ֝אַ֗תְּ עָלִ֥ית עַל־כֻּלָּֽנָה
+   English: "Many daughters have done nobly, But you excel them all."
+
+18. Proverbs 6:7
+   Ratio: 0.857 (6 Hebrew / 7 English)
+   Hebrew: אֲשֶׁ֖ר אֵֽין־לָ֥הּ קָצִ֗ין שֹׁטֵ֥ר וּמֹשֵֽׁל
+   English: Which, having no chief, Officer or ruler,
+
+19. Proverbs 27:17
+   Ratio: 0.875 (7 Hebrew / 8 English)
+   Hebrew: בַּרְזֶ֣ל בְּבַרְזֶ֣ל יָ֑חַד וְ֝אִ֗ישׁ יַ֣חַד פְּנֵֽי־רֵעֵֽהוּ
+   English: Iron sharpens iron, So one man sharpens another.
+
+20. Proverbs 10:12
+   Ratio: 0.889 (8 Hebrew / 9 English)
+   Hebrew: שִׂ֭נְאָה תְּעוֹרֵ֣ר מְדָנִ֑ים וְעַ֥ל כָּל־פְּ֝שָׁעִ֗ים תְּכַסֶּ֥ה אַהֲבָֽה
+   English: Hatred stirs up strife, But love covers all transgressions.
 
 ================================================================================
 STATISTICS
 ================================================================================
-Total Hebrew words in Proverbs: 7,037
+Total Hebrew words in Proverbs: 6,976
 Total English words in Proverbs: 14,890
-Overall Hebrew/English ratio: 0.473
-Average Hebrew/English ratio: 0.483
+Overall Hebrew/English ratio: 0.469
+Average Hebrew/English ratio: 0.479
 Lowest ratio: 0.259 (Proverbs 23:34)
 Highest ratio: 0.889 (Proverbs 10:12)
 Total verses analyzed: 914
