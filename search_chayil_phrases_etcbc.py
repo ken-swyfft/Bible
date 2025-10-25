@@ -162,35 +162,54 @@ def search_chayil_phrases(A):
             if word1_pos is None or word1_pos >= len(verse_words) - 1:
                 continue
 
-            # Get next word
-            word2_node = verse_words[word1_pos + 1]
-            lemma2 = A.api.F.lex.v(word2_node)
+            # Get next word - but check if there's a definite article (H) in between
+            # Pattern 1: word1 word2 (adjacent)
+            # Pattern 2: word1 H word2 (with definite article)
+            word2_node = None
+            word2_pos = None
 
-            # Check if second word is חַיִל (XJL/)
-            if lemma2 == 'XJL/':
-                # Found a match!
-                book, chapter, verse, verse_node = get_verse_reference(A, word1_node)
+            # Check immediately following word
+            next_word = verse_words[word1_pos + 1]
+            next_lemma = A.api.F.lex.v(next_word)
 
-                if book:
-                    # Get vocalized forms
-                    word1_text = A.api.F.g_word_utf8.v(word1_node) or ""
-                    word2_text = A.api.F.g_word_utf8.v(word2_node) or ""
+            if next_lemma == 'XJL/':
+                # Direct adjacency: word1 word2
+                word2_node = next_word
+                word2_pos = word1_pos + 1
+            elif next_lemma == 'H' and word1_pos + 2 < len(verse_words):
+                # Check if pattern is: word1 H word2
+                word_after_article = verse_words[word1_pos + 2]
+                lemma_after_article = A.api.F.lex.v(word_after_article)
+                if lemma_after_article == 'XJL/':
+                    word2_node = word_after_article
+                    word2_pos = word1_pos + 2
 
-                    # Get full verse text
-                    verse_text = get_verse_text(A, verse_node)
+            if not word2_node:
+                continue
 
-                    # Store result
-                    results[phrase_type].append({
-                        'book': book,
-                        'chapter': chapter,
-                        'verse': verse,
-                        'word1': word1_text,
-                        'word2': word2_text,
-                        'phrase': f"{word1_text} {word2_text}",
-                        'verse_text': verse_text,
-                        'lemma1': lemma1,
-                        'lemma2': lemma2
-                    })
+            # Found a match! (we already verified lemma2 == 'XJL/' above)
+            book, chapter, verse, verse_node = get_verse_reference(A, word1_node)
+
+            if book:
+                # Get vocalized forms
+                word1_text = A.api.F.g_word_utf8.v(word1_node) or ""
+                word2_text = A.api.F.g_word_utf8.v(word2_node) or ""
+
+                # Get full verse text
+                verse_text = get_verse_text(A, verse_node)
+
+                # Store result
+                results[phrase_type].append({
+                    'book': book,
+                    'chapter': chapter,
+                    'verse': verse,
+                    'word1': word1_text,
+                    'word2': word2_text,
+                    'phrase': f"{word1_text} {word2_text}",
+                    'verse_text': verse_text,
+                    'lemma1': lemma1,
+                    'lemma2': 'XJL/'
+                })
 
         except Exception as e:
             # Skip errors in individual word processing

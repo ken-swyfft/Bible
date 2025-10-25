@@ -147,6 +147,15 @@ book_name = A.api.F.book.v(book_id)
 ### ETCBC Book Names
 ETCBC uses specific naming conventions that differ from common English names:
 - Job = 'Iob'
+- Judges = 'Judices' (Latin)
+- 1 Samuel = 'Samuel_I'
+- 2 Samuel = 'Samuel_II'
+- 1 Kings = 'Reges_I'
+- 2 Kings = 'Reges_II'
+- Proverbs = 'Proverbia'
+- Numbers = 'Numeri'
+- Deuteronomy = 'Deuteronomium'
+- Nehemiah = 'Nehemia'
 - Other books may have Latin-style names
 - Always verify book names by querying: `A.search('book')` and inspecting results
 
@@ -173,14 +182,89 @@ class SafeUnicodeHandler:
 - Skip individual word errors silently when processing large datasets
 - Validate that dataset loaded successfully before proceeding
 
-### Example Reference Script
-See `job_rare_vocabulary_etcbc.py` for a complete working example demonstrating:
-- Proper dataset loading
-- Book and word node traversal
-- Feature access (lex, voc_lex_utf8)
-- Hebrew-to-transliteration mapping
-- Windows Unicode handling
-- Avoiding the L.d() vs search bug
+### Searching for Phrase Patterns
+
+**CRITICAL**: When searching for multi-word phrases in ETCBC, search by **lemma** (using `lex` feature) rather than by surface forms. This ensures you catch ALL grammatical variants.
+
+#### Why Search by Lemma?
+Searching by lemma automatically finds:
+- Singular and plural forms
+- Construct states (סמיכות) like אַנְשֵׁי (men of)
+- Forms with pronominal suffixes like חֵילֶ֑ךָ (your strength)
+- Forms with definite article like הֶחָֽיִל (the strength)
+- All vowel pointings and cantillation variants
+
+#### ETCBC Lemma Format
+**IMPORTANT**: ETCBC lemmas have a **trailing slash** (`/`):
+- אִישׁ (man) = `>JC/` (NOT `>JC`)
+- אִשָּׁה (woman) = `>CH/` (NOT `>C$H/`)
+- גִּבּוֹר (mighty) = `GBWR/`
+- חַיִל (valor/strength) = `XJL/`
+
+To discover correct lemmas, examine known verses:
+```python
+# Check a known verse to find lemmas
+verse_results = A.search('verse book=Ruth chapter=2 verse=1')
+verse_node = verse_results[0][0] if isinstance(verse_results[0], tuple) else verse_results[0]
+word_nodes = A.api.L.d(verse_node, otype='word')
+
+for word in word_nodes:
+    g_word = A.api.F.g_word_utf8.v(word)  # Hebrew text
+    lex = A.api.F.lex.v(word)              # Lemma (transliterated)
+    voc_lex = A.api.F.voc_lex_utf8.v(word) # Lemma (Hebrew)
+    print(f"{g_word} -> {lex} -> {voc_lex}")
+```
+
+#### Handling Definite Articles
+In ETCBC, the definite article ה is often treated as a **separate word** with lemma `H`. When searching for phrases, you must check for:
+1. **Direct adjacency**: word1 word2
+2. **Article in between**: word1 H word2
+
+Example from Judges 6:12 (`גִּבּוֹר הֶחָֽיִל`):
+- Word 1: גִּבֹּ֥ור (lemma: `GBWR/`)
+- Word 2: הֶ (lemma: `H`) ← definite article as separate word!
+- Word 3: חָֽיִל (lemma: `XJL/`)
+
+```python
+# Check next word
+next_word = verse_words[word1_pos + 1]
+next_lemma = A.api.F.lex.v(next_word)
+
+if next_lemma == 'XJL/':
+    # Direct adjacency
+    word2_node = next_word
+elif next_lemma == 'H' and word1_pos + 2 < len(verse_words):
+    # Check if pattern is: word1 H word2
+    word_after_article = verse_words[word1_pos + 2]
+    if A.api.F.lex.v(word_after_article) == 'XJL/':
+        word2_node = word_after_article
+```
+
+#### Complete Phrase Search Pattern
+```python
+# Get all words
+all_words = A.search('word')
+
+for word_result in all_words:
+    word1_node = word_result[0] if isinstance(word_result, tuple) else word_result
+    lemma1 = A.api.F.lex.v(word1_node)
+
+    # Check if first word matches target (e.g., man/woman/mighty)
+    if lemma1 in ['>JC/', '>CH/', 'GBWR/']:
+        # Get verse and all words in verse
+        verse_node = A.api.L.u(word1_node, otype='verse')[0]
+        verse_words = A.api.L.d(verse_node, otype='word')
+
+        # Find position of current word
+        word1_pos = verse_words.index(word1_node)
+
+        # Check next word (and account for definite article)
+        # ... (see example above)
+```
+
+### Example Reference Scripts
+- `search_chayil_phrases_etcbc.py` - Demonstrates phrase pattern searching with lemmas, handling definite articles
+- `job_rare_vocabulary_etcbc.py` - Demonstrates proper dataset loading, book and word node traversal, feature access, Hebrew-to-transliteration mapping, Windows Unicode handling
 
 ## Script Organization
 
