@@ -1,0 +1,37 @@
+Top Individuals Mentioned in 1 & 2 Samuel
+============================================================
+
+Analysis using ETCBC BHSA (Text-Fabric)
+Filtering for proper nouns with nametype='pers' (persons)
+
+TOP 5 INDIVIDUALS:
+----------------------------------------
+1. דָּוִד - 576 occurrences
+2. יְהוָה - 473 occurrences
+3. שָׁאוּל - 363 occurrences
+4. שְׁמוּאֵל - 129 occurrences
+5. יֹואָב - 102 occurrences
+
+
+Full list (Top 20 person names):
+----------------------------------------
+ 1. דָּוִד          (DWD==/         ) - 576
+ 2. יְהוָה          (JHWH/          ) - 473
+ 3. שָׁאוּל         (C>WL=/         ) - 363
+ 4. שְׁמוּאֵל       (CMW>L/         ) - 129
+ 5. יֹואָב          (JW>B/          ) - 102
+ 6. אַבְשָׁלֹום     (>BCLWM/        ) - 102
+ 7. יְהֹונָתָן      (JHWNTN/        ) - 69
+ 8. אַבְנֵר         (>BNR/          ) - 59
+ 9. עֵלִי           (<LJ==/         ) - 32
+10. יֹונָתָן        (JWNTN/         ) - 29
+11. יִשַׁי          (JCJ/           ) - 28
+12. אַמְנֹון        (>MNWN/         ) - 26
+13. אוּרִיָּה       (>WRJH/         ) - 24
+14. נָבָל           (NBL===/        ) - 22
+15. אָכִישׁ         (>KJC/          ) - 19
+16. אֲבִישַׁי       (>BJCJ/         ) - 19
+17. אֲחִיתֹפֶל      (>XJTPL/        ) - 18
+18. מִיכַל          (MJKL=/         ) - 17
+19. אֶבְיָתָר       (>BJTR/         ) - 17
+20. צִיבָא          (YJB>/          ) - 16
